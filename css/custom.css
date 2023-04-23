@@ -1,9 +1,0 @@
-@font-face{
-  font-family: 'STXINWEI' ;  /* 字体名自定义即可 */
-  src:url('/fonts/STXINWEI.ttf'); /* 字体文件路径 */
-  font-display : swap;
-}
-
-h1#site-title {
-  font-family: 'STXINWEI';
-}
