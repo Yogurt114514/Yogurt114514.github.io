@@ -159,7 +159,7 @@
 }
 
 .music__info .music__info--title {
-  color: black;
+  color: #fff;
 }
 
 .music__info .music__info--title {
@@ -185,7 +185,7 @@
   float: left;
   margin: 0 5px;
   font-weight: bolder;
-  color: #000;
+  color: #fff;
   cursor: pointer;
 }
 
