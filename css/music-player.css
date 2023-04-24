@@ -1,7 +1,7 @@
 /* 播放器大小 */
 .music-player {
   width: 570px;
-  height: 200px;
+  height: 300px;
 }
 .music-player h3{
   margin: 0px 0 1px!important;
@@ -14,23 +14,59 @@
   url('iconfont.svg?t=1537976418058#iconfont') format('svg'); /* iOS 4.1- */
 }
 
-.icon-prev:before { content: "\f0069"; }
+.icon-prev:before {
+	content: " \f0069 ";
+	font-family: iconfont;
+	color: green;
+	}
 
-.icon-next:before { content: "\f006a"; }
+.icon-next:before {
+	content: " \f006a ";
+	font-family: iconfont;
+	color: green;
+	}
 
-.icon-play:before { content: "\e66a"; }
+.icon-play:before {
+	content: " \e66a ";
+	font-family: iconfont;
+	color: green;
+	}
 
-.icon-pause:before { content: "\e76a"; }
+.icon-pause:before {
+	content: " \e76a ";
+	font-family: iconfont;
+	color: green;
+	}
 
-.icon-random:before { content: "\e622"; }
+.icon-random:before {
+	content: " \e622 ";
+	font-family: iconfont;
+	color: green;
+	}
 
-.icon-muted:before { content: "\e61e"; }
+.icon-muted:before {
+	content: " \e61e ";
+	font-family: iconfont;
+	color: green;
+	}
 
-.icon-volume:before { content: "\e87a"; }
+.icon-volume:before {
+	content: " \e87a ";
+	font-family: iconfont;
+	color: green;
+	}
 
-.icon-loop:before { content: "\e66c"; }
+.icon-loop:before {
+	content: " \e66c ";
+	font-family: iconfont;
+	color: green;
+	}
 
-.icon-single:before { content: "\e66d"; }
+.icon-single:before {
+	content: " \e66d ";
+	font-family: iconfont;
+	color: green;
+	}
 
 
 /* 播放器位置 */
@@ -159,11 +195,11 @@
 }
 
 .music__info .music__info--title {
-  color: #fff;
+  color: #000;
 }
 
 .music__info .music__info--title {
-  font-size: 16px;
+  font-size: 20px;
 }
 /* 控件 */
 
@@ -185,7 +221,7 @@
   float: left;
   margin: 0 5px;
   font-weight: bolder;
-  color: #fff;
+  color: #000;
   cursor: pointer;
 }
 
