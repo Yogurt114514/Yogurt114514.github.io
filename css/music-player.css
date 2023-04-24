@@ -39,7 +39,7 @@
 	}
 
 .icon-random:before {
-	content: " \e622 ";
+	content: " \e66d ";     /*  \e622  */
 	font-family: iconfont;
 	color: green;
 	}
@@ -53,11 +53,11 @@
 .icon-volume:before {
 	content: " \e87a ";
 	font-family: iconfont;
-	color: green;
+	color: blue;
 	}
 
 .icon-loop:before {
-	content: " \e66c ";
+	content: " \e66d ";     /*  \e66c  */
 	font-family: iconfont;
 	color: green;
 	}
