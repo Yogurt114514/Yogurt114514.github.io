@@ -1,7 +1,7 @@
 /* 播放器大小 */
 .music-player {
   width: 570px;
-  height: 300px;
+  height: 200px;
 }
 .music-player h3{
   margin: 0px 0 1px!important;
@@ -18,7 +18,7 @@
 
 .icon-next:before { content: "\f006a"; }
 
-.icon-play:before { content: "\e66a"; color: green; }
+.icon-play:before { content: "\e66a"; }
 
 .icon-pause:before { content: "\e76a"; }
 
@@ -185,7 +185,7 @@
   float: left;
   margin: 0 5px;
   font-weight: bolder;
-  color: black;
+  color: #000;
   cursor: pointer;
 }
 
