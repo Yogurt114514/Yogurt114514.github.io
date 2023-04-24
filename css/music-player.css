@@ -18,7 +18,7 @@
 
 .icon-next:before { content: "\f006a"; }
 
-.icon-play:before { content: "\e66a"; color: #4c4948; }
+.icon-play:before { content: "\e66a"; color: green; }
 
 .icon-pause:before { content: "\e76a"; }
 
