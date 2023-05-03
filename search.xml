@@ -1,6 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>新头像绘制细节与思路</title>
+    <url>/posts/avatar.html</url>
+    <content><![CDATA[<h2 id="原头像↓"><a href="#原头像↓" class="headerlink" title="原头像↓"></a><center>原头像↓</center></h2><center>网图（原作者不详）</center>
+
+<p><img src="/img/NewAvatar/avatar.jpg" alt="old"></p>
+<h2 id="新头像↓"><a href="#新头像↓" class="headerlink" title="新头像↓"></a><center>新头像↓</center></h2><center>半临摹（仅自用，不商用）</center>
+
+<p><img src="/img/NewAvatar/avatar.png" alt="new"></p>
+<h2 id="绘制展示"><a href="#绘制展示" class="headerlink" title="绘制展示"></a>绘制展示</h2><h4 id="工具"><a href="#工具" class="headerlink" title="工具"></a>工具</h4><p><strong><center>Adobe Photoshop 2020</center></strong></p>
+<p><img src="/img/NewAvatar/01.png" alt="01"></p>
+<h4 id="图层总览"><a href="#图层总览" class="headerlink" title="图层总览"></a>图层总览</h4><p><img src="/img/NewAvatar/02.png" alt="02"></p>
+<h2 id="细节与思路"><a href="#细节与思路" class="headerlink" title="细节与思路"></a>细节与思路</h2>]]></content>
+      <categories>
+        <category>知识技能</category>
+      </categories>
+      <tags>
+        <tag>画画</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>百画计划</title>
     <url>/posts/100.html</url>
     <content><![CDATA[<div class="note orange icon-padding disabled"><i class="note-icon fa-brands fa-gratipay"></i><p>立志这辈子画100幅画（16/100）</p>
