@@ -25,8 +25,8 @@ class Musics {
                 id: 1,
                 title: '蒲公英的约定 - 周杰伦',
                 singer: '蒲公英的约定 - 周杰伦',
-                songUrl: './songs/pugongying.mp3',
-                imageUrl: './images/songs/pugongying.jpg'
+                songUrl: '/music/songs/pugongying.mp3',
+                imageUrl: '/music/images/songs/pugongying.jpg'
             },
         ]
     }
