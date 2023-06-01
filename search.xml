@@ -6,12 +6,8 @@
     <content><![CDATA[<center>当你想粘贴作文时……</center>
 
 <p><img src="/img/pigai/pigai.png" alt="pigai"></p>
-<p>解决方法：</p>
-<p>（以Edge浏览器为例）</p>
-<p>打开批改网↓</p>
-<p><img src="/img/pigai/01.png" alt="1"></p>
-<p>然后下面两种方法二选一↓</p>
-<div style="display: flex;">
+<h2 id="解决方法："><a href="#解决方法：" class="headerlink" title="解决方法："></a>解决方法：</h2><h3 id="（以Edge浏览器为例）"><a href="#（以Edge浏览器为例）" class="headerlink" title="（以Edge浏览器为例）"></a>（以Edge浏览器为例）</h3><h3 id="打开批改网↓"><a href="#打开批改网↓" class="headerlink" title="打开批改网↓"></a>打开批改网↓</h3><p><img src="/img/pigai/01.png" alt="1"></p>
+<h3 id="然后下面两种方法二选一↓"><a href="#然后下面两种方法二选一↓" class="headerlink" title="然后下面两种方法二选一↓"></a>然后下面两种方法二选一↓</h3><div style="display: flex;">
   <div style="flex: 1920; text-align: center;">
     <p>直接点击F12（有的电脑需要先点击Fn）</p>
     <img src="/img/pigai/02.png" alt="1">
@@ -22,9 +18,7 @@
   </div>
 </div>
 
-
-<p>呼出侧边栏之后，点击左上角的图标↓</p>
-<div style="display: flex;">
+<h3 id="呼出侧边栏之后，点击左上角的图标↓"><a href="#呼出侧边栏之后，点击左上角的图标↓" class="headerlink" title="呼出侧边栏之后，点击左上角的图标↓"></a>呼出侧边栏之后，点击左上角的图标↓</h3><div style="display: flex;">
   <div style="flex: 1; text-align: center;">
     <img src="/img/pigai/04.jpg" alt="1">
   </div>
@@ -44,11 +38,14 @@
     <p>变成蓝色</p>
   </div>
 </div>
+### 然后把鼠标移到写作文的框框里↓
 
-<p>然后把鼠标移到写作文的框框里↓</p>
-<p><img src="/img/pigai/08.png" alt="8"></p>
-<p>在框内点击后，侧边将跳到如图的位置↓</p>
-<p><img src="/img/pigai/09.png" alt="9"></p>
+![8](/img/pigai/08.png)
+
+### 在框内点击后，侧边将跳到如图的位置↓
+
+![9](/img/pigai/09.png)
+
 <div style="display: flex;">
   <div style="flex: 1; text-align: center;">
     <p>右键这里↓</p>
@@ -60,46 +57,17 @@
   </div>
 </div>
 
-
-<p>然后点击这里（将光标移动到这）↓</p>
-<p><img src="/img/pigai/12.png" alt="12"></p>
-<p>按下Ctrl+V将作文粘贴进来↓</p>
-<p><img src="/img/pigai/13.png" alt="13"></p>
-<p>点击左边的空白区域↓</p>
-<p><img src="/img/pigai/14.png" alt="14"></p>
-<p>然后你就会发现，左边的作文框已经填好了你粘贴的作文啦！↓</p>
-<p><img src="/img/pigai/15.png" alt="15"></p>
-<center>完成！</center>
-
-<p><img src="/img/pigai/16.png" alt="16"></p>
+<h3 id="然后点击这里（将光标移动到这）↓"><a href="#然后点击这里（将光标移动到这）↓" class="headerlink" title="然后点击这里（将光标移动到这）↓"></a>然后点击这里（将光标移动到这）↓</h3><p><img src="/img/pigai/12.png" alt="12"></p>
+<h3 id="按下Ctrl-V将作文粘贴进来↓"><a href="#按下Ctrl-V将作文粘贴进来↓" class="headerlink" title="按下Ctrl+V将作文粘贴进来↓"></a>按下Ctrl+V将作文粘贴进来↓</h3><p><img src="/img/pigai/13.png" alt="13"></p>
+<h3 id="点击左边的空白区域↓"><a href="#点击左边的空白区域↓" class="headerlink" title="点击左边的空白区域↓"></a>点击左边的空白区域↓</h3><p><img src="/img/pigai/14.png" alt="14"></p>
+<h3 id="然后你就会发现，左边的作文框已经填好了你粘贴的作文啦！↓"><a href="#然后你就会发现，左边的作文框已经填好了你粘贴的作文啦！↓" class="headerlink" title="然后你就会发现，左边的作文框已经填好了你粘贴的作文啦！↓"></a>然后你就会发现，左边的作文框已经填好了你粘贴的作文啦！↓</h3><p><img src="/img/pigai/15.png" alt="15"></p>
+<h3 id="完成！"><a href="#完成！" class="headerlink" title="完成！"></a><center>完成！</center></h3><p><img src="/img/pigai/16.png" alt="16"></p>
 ]]></content>
       <categories>
         <category>知识技能</category>
       </categories>
       <tags>
         <tag>作业</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>梦</title>
-    <url>/posts/dream.html</url>
-    <content><![CDATA[<h2 id="2023-01-17"><a href="#2023-01-17" class="headerlink" title="2023-01-17"></a>2023-01-17</h2><p>那是一个豪华的大酒店，我们从环形楼梯跳下去就来到了她的房间（她似乎是我npy？甚至未婚妻？）一进她房间，就看见了一对老夫妻在床上坐着，我以为是岳父岳母，刚准备打招呼，结果她说，那是她收留的，无家可归的老人……我刚想找她的时候，却又发现她不见了，跑出门去，发现她在走廊左跑右跑，似乎又是在帮助谁……</p>
-<p>（总之就是对她印象特别好，感觉人好好，但又记不清脸，甚至没有脸，总之也不是现实中的人，梦中情人？有点意难平……）</p>
-<h2 id="2023-02-06"><a href="#2023-02-06" class="headerlink" title="2023-02-06"></a>2023-02-06</h2><p>中式祠堂类建筑，有好几层，那块地方地势复杂，好像楼梯也多。我好像打算去哪……一块木板，站在上面可以当滑板，能一直滑，滑好远，就这样，我好像和谢LJ一起滑木板一直去到一个很远的地方，似乎又是乡下了。然后又不知道怎么的得到了两块更精致的木板（和一个类似于桨？的东西），但我不舍得滑，就和他一起抱着回去……</p>
-<h2 id="2023-02-09"><a href="#2023-02-09" class="headerlink" title="2023-02-09"></a>2023-02-09</h2><p>先是在一个操场（非现实）上，欧阳Y（后面是DY）想跑步，本来我也想的，可突然开始下雨了，雨越下越大，我戴起我卫衣的帽子，打算离去，可他坚持要跑，于是我开始从楼梯上走（操场在低处，高处才是路），但渐渐地睁不开眼，于是改成了闭上眼睛“爬”楼梯，到了上面后，我淋着雨打算骑自行车走。</p>
-<p>莫名其妙变成了推着车走（好像雨又停了？），是在一个弯的斜坡上，一起走的好像是王YX和沈MY，聊着聊着聊到了二中，吧啦吧啦。</p>
-<p>（中途路上好像买了零食？）</p>
-<p>回到家后（是老家），我发现DY已经回来了，在MM房间床上躺着，好像快睡着了，我把袋子放在桌子上，并惊讶于他比我先到家：“我走的时候你明明还在那跑步啊……”袋子里有但不限于两包薯片，甚至还多了一片薯片在包装外面，我对在场的其他人（忘了有谁，好像有个谢HM）吐槽起来：“买二送一。”大家笑了。</p>
-<p>……</p>
-<p>在二中，我坐在教学楼楼下和郭PP坐在大理石长凳上聊天，后面好像上课了，我和他匆匆跑到楼上，我问他：”是已经上课多久了吗？“他说：“二十多分钟。”“已经上了二十多分钟了？”我一脸震惊。他说：“不是，是整点过了二十多分钟，现在才刚打铃。”</p>
-<p>我匆忙赶到教室，利索地坐上了座位（同桌：左边不知道是谁，右边是徐GY）（我动作也并不是像高中那样有所拘束了……）桌面上是笔记本电脑，老师在讲……SEER？什么HYXH，以及老师对DUYE套居然带CSZY的惊讶，还有一个什么技能反复重现……我似乎想好好表现自己？（我似乎在打？）</p>
-<p>……</p>
-]]></content>
-      <categories>
-        <category>生活分享</category>
-      </categories>
-      <tags>
-        <tag>心理</tag>
       </tags>
   </entry>
   <entry>
@@ -162,20 +130,6 @@
       </categories>
       <tags>
         <tag>网址</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>跑步记录</title>
-    <url>/posts/run.html</url>
-    <content><![CDATA[<h2 id="2023-04-21-17-48-Fri"><a href="#2023-04-21-17-48-Fri" class="headerlink" title="2023-04-21 17:48 Fri"></a>2023-04-21 17:48 Fri</h2><p><img src="/img/run/1.jpg" alt="1"></p>
-<h2 id="2023-04-26-18-05-Wed"><a href="#2023-04-26-18-05-Wed" class="headerlink" title="2023-04-26 18:05 Wed"></a>2023-04-26 18:05 Wed</h2><p><img src="/img/run/2.jpg" alt="2"></p>
-<h2 id="2023-05-06-17-57-Sat"><a href="#2023-05-06-17-57-Sat" class="headerlink" title="2023-05-06 17:57 Sat"></a>2023-05-06 17:57 Sat</h2><p><img src="/img/run/3.jpg" alt="3"></p>
-]]></content>
-      <categories>
-        <category>生活分享</category>
-      </categories>
-      <tags>
-        <tag>跑步</tag>
       </tags>
   </entry>
   <entry>
@@ -256,6 +210,20 @@
       </tags>
   </entry>
   <entry>
+    <title>跑步记录</title>
+    <url>/posts/run.html</url>
+    <content><![CDATA[<h2 id="2023-04-21-17-48-Fri"><a href="#2023-04-21-17-48-Fri" class="headerlink" title="2023-04-21 17:48 Fri"></a>2023-04-21 17:48 Fri</h2><p><img src="/img/run/1.jpg" alt="1"></p>
+<h2 id="2023-04-26-18-05-Wed"><a href="#2023-04-26-18-05-Wed" class="headerlink" title="2023-04-26 18:05 Wed"></a>2023-04-26 18:05 Wed</h2><p><img src="/img/run/2.jpg" alt="2"></p>
+<h2 id="2023-05-06-17-57-Sat"><a href="#2023-05-06-17-57-Sat" class="headerlink" title="2023-05-06 17:57 Sat"></a>2023-05-06 17:57 Sat</h2><p><img src="/img/run/3.jpg" alt="3"></p>
+]]></content>
+      <categories>
+        <category>生活分享</category>
+      </categories>
+      <tags>
+        <tag>跑步</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>百画计划</title>
     <url>/posts/100.html</url>
     <content><![CDATA[<div class="note orange icon-padding disabled"><i class="note-icon fa-brands fa-gratipay"></i><p>立志这辈子画100幅画（16/100）</p>
@@ -294,6 +262,28 @@
       </categories>
       <tags>
         <tag>画画</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>梦</title>
+    <url>/posts/dream.html</url>
+    <content><![CDATA[<h2 id="2023-01-17"><a href="#2023-01-17" class="headerlink" title="2023-01-17"></a>2023-01-17</h2><p>那是一个豪华的大酒店，我们从环形楼梯跳下去就来到了她的房间（她似乎是我npy？甚至未婚妻？）一进她房间，就看见了一对老夫妻在床上坐着，我以为是岳父岳母，刚准备打招呼，结果她说，那是她收留的，无家可归的老人……我刚想找她的时候，却又发现她不见了，跑出门去，发现她在走廊左跑右跑，似乎又是在帮助谁……</p>
+<p>（总之就是对她印象特别好，感觉人好好，但又记不清脸，甚至没有脸，总之也不是现实中的人，梦中情人？有点意难平……）</p>
+<h2 id="2023-02-06"><a href="#2023-02-06" class="headerlink" title="2023-02-06"></a>2023-02-06</h2><p>中式祠堂类建筑，有好几层，那块地方地势复杂，好像楼梯也多。我好像打算去哪……一块木板，站在上面可以当滑板，能一直滑，滑好远，就这样，我好像和谢LJ一起滑木板一直去到一个很远的地方，似乎又是乡下了。然后又不知道怎么的得到了两块更精致的木板（和一个类似于桨？的东西），但我不舍得滑，就和他一起抱着回去……</p>
+<h2 id="2023-02-09"><a href="#2023-02-09" class="headerlink" title="2023-02-09"></a>2023-02-09</h2><p>先是在一个操场（非现实）上，欧阳Y（后面是DY）想跑步，本来我也想的，可突然开始下雨了，雨越下越大，我戴起我卫衣的帽子，打算离去，可他坚持要跑，于是我开始从楼梯上走（操场在低处，高处才是路），但渐渐地睁不开眼，于是改成了闭上眼睛“爬”楼梯，到了上面后，我淋着雨打算骑自行车走。</p>
+<p>莫名其妙变成了推着车走（好像雨又停了？），是在一个弯的斜坡上，一起走的好像是王YX和沈MY，聊着聊着聊到了二中，吧啦吧啦。</p>
+<p>（中途路上好像买了零食？）</p>
+<p>回到家后（是老家），我发现DY已经回来了，在MM房间床上躺着，好像快睡着了，我把袋子放在桌子上，并惊讶于他比我先到家：“我走的时候你明明还在那跑步啊……”袋子里有但不限于两包薯片，甚至还多了一片薯片在包装外面，我对在场的其他人（忘了有谁，好像有个谢HM）吐槽起来：“买二送一。”大家笑了。</p>
+<p>……</p>
+<p>在二中，我坐在教学楼楼下和郭PP坐在大理石长凳上聊天，后面好像上课了，我和他匆匆跑到楼上，我问他：”是已经上课多久了吗？“他说：“二十多分钟。”“已经上了二十多分钟了？”我一脸震惊。他说：“不是，是整点过了二十多分钟，现在才刚打铃。”</p>
+<p>我匆忙赶到教室，利索地坐上了座位（同桌：左边不知道是谁，右边是徐GY）（我动作也并不是像高中那样有所拘束了……）桌面上是笔记本电脑，老师在讲……SEER？什么HYXH，以及老师对DUYE套居然带CSZY的惊讶，还有一个什么技能反复重现……我似乎想好好表现自己？（我似乎在打？）</p>
+<p>……</p>
+]]></content>
+      <categories>
+        <category>生活分享</category>
+      </categories>
+      <tags>
+        <tag>心理</tag>
       </tags>
   </entry>
 </search>
