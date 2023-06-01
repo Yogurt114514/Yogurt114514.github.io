@@ -19,10 +19,10 @@
 </div>
 
 <h3 id="呼出侧边栏之后，点击左上角的图标↓"><a href="#呼出侧边栏之后，点击左上角的图标↓" class="headerlink" title="呼出侧边栏之后，点击左上角的图标↓"></a>呼出侧边栏之后，点击左上角的图标↓</h3><div style="display: flex;">
-  <div style="flex: 1; text-align: center;">
+  <div style="flex: 1440; text-align: center;">
     <img src="/img/pigai/04.png" alt="1">
   </div>
-  <div style="flex: 1; text-align: center;">
+  <div style="flex: 1021; text-align: center;">
     <img src="/img/pigai/05.jpg" alt="2">
   </div>
 </div>
@@ -68,6 +68,68 @@
       </categories>
       <tags>
         <tag>作业</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>收藏网址</title>
+    <url>/posts/bookmark.html</url>
+    <content><![CDATA[<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">hexo clean &amp;&amp; hexo g --d &amp;&amp; hexo s</span><br></pre></td></tr></table></figure>
+<h2 id="学校官网"><a href="#学校官网" class="headerlink" title="#学校官网"></a>#学校官网</h2><p><a href="http://www.ouc.edu.cn/main.htm">中国海洋大学 (ouc.edu.cn)</a></p>
+<p><a href="http://id.ouc.edu.cn:8071/sso/login?service=http%3A%2F%2Fmy.ouc.edu.cn%2Fuser%2FsimpleSSOLogin%3Bjsessionid%3DAD7DF0EF37B99823FE642BEE45E21F99.portal254">统一身份认证平台 (ouc.edu.cn)</a></p>
+<p><a href="http://wljf.ouc.edu.cn/LoginAction.action">用户自助服务系统 (ouc.edu.cn)</a></p>
+<p><a href="http://pay.ouc.edu.cn/">中国海洋大学校园统一支付平台 (ouc.edu.cn)</a></p>
+<p><a href="https://wxrz.ouc.edu.cn/">用户信息页 (ouc.edu.cn)</a></p>
+<h2 id="技术学习"><a href="#技术学习" class="headerlink" title="#技术学习"></a>#技术学习</h2><h3 id="编程"><a href="#编程" class="headerlink" title="编程"></a>编程</h3><p><a href="https://www.educoder.net/">头歌实践教学平台 (educoder.net)</a></p>
+<p><a href="https://www.csdn.net/">CSDN - 专业开发者社区</a></p>
+<h3 id="算法"><a href="#算法" class="headerlink" title="算法"></a>算法</h3><p><a href="https://blog.csdn.net/WhereIsHeroFrom/article/details/120521226?ops_request_misc=%7B%22request%5Fid%22%3A%22167999881716782427477445%22%2C%22scm%22%3A%2220140713.130102334..%22%7D&amp;request_id=167999881716782427477445&amp;biz_id=0&amp;utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-2-120521226-null-null.142^v76^control,201^v4^add_ask,239^v2^insert_chatgpt&amp;utm_term=算法&amp;spm=1018.2226.3001.4187">《算法和数据结构》算法篇_英雄哪里出来的博客-CSDN博客</a></p>
+<p><a href="https://www.acwing.com/about/">AcWing</a></p>
+<h3 id="Django"><a href="#Django" class="headerlink" title="Django"></a>Django</h3><p><a href="http://127.0.0.1:8000/">127.0.0.1</a></p>
+<p><a href="https://v3.bootcss.com/css/">全局 CSS 样式 · Bootstrap v3 中文文档 | Bootstrap 中文网 (bootcss.com)</a></p>
+<p><a href="https://docs.djangoproject.com/zh-hans/3.2/intro/tutorial01/">编写你的第一个 Django 应用，第 1 部分 | Django 文档 | Django (djangoproject.com)</a></p>
+<h3 id="前端"><a href="#前端" class="headerlink" title="前端"></a>前端</h3><p><a href="https://www.w3school.com.cn/tags/index.asp">HTML 标签参考手册 (w3school.com.cn)</a></p>
+<p><a href="https://www.w3school.com.cn/">w3school 在线教程</a></p>
+<h3 id="Unity"><a href="#Unity" class="headerlink" title="Unity"></a>Unity</h3><p><a href="https://learn.u3d.cn/">Unity3d 教程 | Unity 中文课堂 (u3d.cn)</a></p>
+<h3 id="3D建模"><a href="#3D建模" class="headerlink" title="3D建模"></a>3D建模</h3><p><a href="https://monstermash.zone/">Monster Mash: New Sketch-Based Modeling and Animation Tool</a></p>
+<p><a href="https://www.bimobject.com/zh">BIM 对象 - 免费下载！ Revit 族和 BIM 内容 | BIMobject</a></p>
+<p><a href="https://www.cgtrader.com/">CGTrader - 3D Models for VR / AR and CG projects</a></p>
+<p><a href="https://free3d.com/">免费3D模型 - Free3D.com</a></p>
+<p><a href="https://modelmall.laozicloud.com/pc/modelList?cate1Id">模型商城 (laozicloud.com)</a></p>
+<p><a href="https://www.aplaybox.com/">专业模型创作分享社区_模之屋_PlayBox (aplaybox.com)</a></p>
+<p><a href="https://www.aigei.com/3d/model/">3d模型库 免费下载 3dmax模型 - 爱给网 (aigei.com)</a></p>
+<p><a href="http://v.blendercn.org/youkus">BlenderCN</a></p>
+<h3 id="AI绘图"><a href="#AI绘图" class="headerlink" title="AI绘图"></a>AI绘图</h3><p><a href="https://civitai.com/">Civitai（需翻墙）</a></p>
+<h2 id="技巧花招"><a href="#技巧花招" class="headerlink" title="#技巧花招"></a>#技巧花招</h2><h3 id="文件转换"><a href="#文件转换" class="headerlink" title="文件转换"></a>文件转换</h3><p><a href="https://convertio.co/zh/">Convertio — 文件转换器</a></p>
+<p><a href="https://xpdf.cn/">超级PDF|简单强大的PDF在线处理工具 (xpdf.cn)</a></p>
+<p><a href="https://www.tuhaokuai.com/image">在线图片压缩！支持GIF动图压缩，PNG压缩，JPG压缩。可精确控制照片的长宽和大小。图好快出品！ (tuhaokuai.com)</a></p>
+<p><a href="https://ai.nero.com/image-upscaler">Nero Image Upscaler—Free Photo Enlarger &amp; Cartoon Enhancer Online</a></p>
+<h3 id="资源下载"><a href="#资源下载" class="headerlink" title="资源下载"></a>资源下载</h3><p><a href="https://obsproject.com/zh-cn/download">下载 | OBS (obsproject.com)</a></p>
+<p><a href="http://www.downcc.com/">绿色资源网-绿色下载站-做最好的免费软件下载网站 (downcc.com)</a></p>
+<p><a href="https://www.douban.com/group/topic/243889382/?_i=3844634VRP-N9r,4935589VRP-N9r">#猫猫虫咖波系列（基本整理完毕，不定期更新） (douban.com)</a></p>
+<h3 id="软件破解"><a href="#软件破解" class="headerlink" title="软件破解"></a>软件破解</h3><p><a href="https://baijiahao.baidu.com/s?id=1722490021314743159&amp;wfr=spider&amp;for=pc">6步安全解决WinRAR弹出广告，新版通用保姆级教程，收藏备忘无忧 (baidu.com)</a></p>
+<p><a href="https://www.exception.site/essay/how-to-free-use-navicat">Navicat 15 最新破解版下载_永久激活注册码(附图文安装教程) - 异常教程 (exception.site)</a></p>
+<h3 id="音乐解锁"><a href="#音乐解锁" class="headerlink" title="音乐解锁"></a>音乐解锁</h3><p><a href="http://tool.liumingye.cn/unlock-music/">音乐解锁 (liumingye.cn)</a></p>
+<h3 id="视频解析"><a href="#视频解析" class="headerlink" title="视频解析"></a>视频解析</h3><p><a href="http://client.jijidown.com/">唧唧 - JiJiDown - 电脑客户端</a></p>
+<h3 id="代码美化"><a href="#代码美化" class="headerlink" title="代码美化"></a>代码美化</h3><p><a href="http://codeinword.com/">CodeInWord|在word中优雅展现的代码|代码高亮|word中插入代码|代码格式化</a></p>
+<h3 id="几何画板"><a href="#几何画板" class="headerlink" title="几何画板"></a>几何画板</h3><p><a href="https://www.geogebra.org/">GeoGebra - 风靡世界, 过亿师生沉迷使用的免费数学软件</a></p>
+<p><a href="https://excalidraw.com/">Excalidraw | Hand-drawn look &amp; feel • Collaborative • Secure</a></p>
+<h2 id="游戏相关"><a href="#游戏相关" class="headerlink" title="#游戏相关"></a>#游戏相关</h2><h3 id="PVZ"><a href="#PVZ" class="headerlink" title="PVZ"></a>PVZ</h3><p><a href="http://lonelystar.org/download.htm">植物僵尸相关下载 (lonelystar.org)</a></p>
+<h3 id="赛尔号"><a href="#赛尔号" class="headerlink" title="赛尔号"></a>赛尔号</h3><p><a href="https://yoso.redstoner.cn/wp/">bop 的 blog – 英勇赛尔，智慧童年。 (redstoner.cn)</a></p>
+<p><a href="https://bbs.yoso.live/forum-2-1.html">自定义魔法分享 - 赛尔号论坛 - Powered by Discuz! (yoso.live)</a></p>
+<p><a href="https://news.4399.com/seer/jinglingdaquan/">赛尔号精灵大全<em>赛尔号精灵图鉴</em>图片大全-4399赛尔号</a></p>
+<p><a href="http://pay.61.com/">充值中心 - 淘米网 (61.com)</a></p>
+<p><a href="https://url41.ctfile.com/d/37974341-50416416-1cfa09?54194055">2023年 - 歆冉忆梦 的分享 (ctfile.com)</a></p>
+<p><a href="http://seerh5.61.com/">赛尔号,赛尔号h5,赛尔号互通 (61.com)</a></p>
+<h3 id="网页小游戏"><a href="#网页小游戏" class="headerlink" title="网页小游戏"></a>网页小游戏</h3><p><a href="https://life.aizhancloud.cn/">人生重开模拟器-重来-重启 (aizhancloud.cn)</a></p>
+<h2 id="其他"><a href="#其他" class="headerlink" title="#其他"></a>#其他</h2><p><a href="https://it.itstudio.club/">爱特工作室 (itstudio.club)</a></p>
+<p><a href="https://meeting.tencent.com/m/magic-act/5szgxcha4is61qf16uxikfq589/index_index.html?ovscroll=0&amp;page=index&amp;__no_magic_qrcode=1">腾讯会议调整说明 (tencent.com)</a></p>
+<p><a href="https://lookup.icann.org/en">注册数据查询工具 ICANN Lookup</a></p>
+<p><a href="https://cn.bing.com/search?q=巴纳德环&amp;filters=IsConversation:&quot;True&quot;+BTWLKey:&quot;BarnardsLoopNebula&quot;+BTWLType:&quot;Trivia&quot;&amp;ensearch=0&amp;FORM=M4028V">巴纳德环 - 搜索 (bing.com)</a></p>
+]]></content>
+      <categories>
+        <category>知识技能</category>
+      </categories>
+      <tags>
+        <tag>网址</tag>
       </tags>
   </entry>
   <entry>
@@ -170,65 +232,17 @@
       </tags>
   </entry>
   <entry>
-    <title>收藏网址</title>
-    <url>/posts/bookmark.html</url>
-    <content><![CDATA[<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">hexo clean &amp;&amp; hexo g --d &amp;&amp; hexo s</span><br></pre></td></tr></table></figure>
-<h2 id="学校官网"><a href="#学校官网" class="headerlink" title="#学校官网"></a>#学校官网</h2><p><a href="http://www.ouc.edu.cn/main.htm">中国海洋大学 (ouc.edu.cn)</a></p>
-<p><a href="http://id.ouc.edu.cn:8071/sso/login?service=http%3A%2F%2Fmy.ouc.edu.cn%2Fuser%2FsimpleSSOLogin%3Bjsessionid%3DAD7DF0EF37B99823FE642BEE45E21F99.portal254">统一身份认证平台 (ouc.edu.cn)</a></p>
-<p><a href="http://wljf.ouc.edu.cn/LoginAction.action">用户自助服务系统 (ouc.edu.cn)</a></p>
-<p><a href="http://pay.ouc.edu.cn/">中国海洋大学校园统一支付平台 (ouc.edu.cn)</a></p>
-<p><a href="https://wxrz.ouc.edu.cn/">用户信息页 (ouc.edu.cn)</a></p>
-<h2 id="技术学习"><a href="#技术学习" class="headerlink" title="#技术学习"></a>#技术学习</h2><h3 id="编程"><a href="#编程" class="headerlink" title="编程"></a>编程</h3><p><a href="https://www.educoder.net/">头歌实践教学平台 (educoder.net)</a></p>
-<p><a href="https://www.csdn.net/">CSDN - 专业开发者社区</a></p>
-<h3 id="算法"><a href="#算法" class="headerlink" title="算法"></a>算法</h3><p><a href="https://blog.csdn.net/WhereIsHeroFrom/article/details/120521226?ops_request_misc=%7B%22request%5Fid%22%3A%22167999881716782427477445%22%2C%22scm%22%3A%2220140713.130102334..%22%7D&amp;request_id=167999881716782427477445&amp;biz_id=0&amp;utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-2-120521226-null-null.142^v76^control,201^v4^add_ask,239^v2^insert_chatgpt&amp;utm_term=算法&amp;spm=1018.2226.3001.4187">《算法和数据结构》算法篇_英雄哪里出来的博客-CSDN博客</a></p>
-<p><a href="https://www.acwing.com/about/">AcWing</a></p>
-<h3 id="Django"><a href="#Django" class="headerlink" title="Django"></a>Django</h3><p><a href="http://127.0.0.1:8000/">127.0.0.1</a></p>
-<p><a href="https://v3.bootcss.com/css/">全局 CSS 样式 · Bootstrap v3 中文文档 | Bootstrap 中文网 (bootcss.com)</a></p>
-<p><a href="https://docs.djangoproject.com/zh-hans/3.2/intro/tutorial01/">编写你的第一个 Django 应用，第 1 部分 | Django 文档 | Django (djangoproject.com)</a></p>
-<h3 id="前端"><a href="#前端" class="headerlink" title="前端"></a>前端</h3><p><a href="https://www.w3school.com.cn/tags/index.asp">HTML 标签参考手册 (w3school.com.cn)</a></p>
-<p><a href="https://www.w3school.com.cn/">w3school 在线教程</a></p>
-<h3 id="Unity"><a href="#Unity" class="headerlink" title="Unity"></a>Unity</h3><p><a href="https://learn.u3d.cn/">Unity3d 教程 | Unity 中文课堂 (u3d.cn)</a></p>
-<h3 id="3D建模"><a href="#3D建模" class="headerlink" title="3D建模"></a>3D建模</h3><p><a href="https://monstermash.zone/">Monster Mash: New Sketch-Based Modeling and Animation Tool</a></p>
-<p><a href="https://www.bimobject.com/zh">BIM 对象 - 免费下载！ Revit 族和 BIM 内容 | BIMobject</a></p>
-<p><a href="https://www.cgtrader.com/">CGTrader - 3D Models for VR / AR and CG projects</a></p>
-<p><a href="https://free3d.com/">免费3D模型 - Free3D.com</a></p>
-<p><a href="https://modelmall.laozicloud.com/pc/modelList?cate1Id">模型商城 (laozicloud.com)</a></p>
-<p><a href="https://www.aplaybox.com/">专业模型创作分享社区_模之屋_PlayBox (aplaybox.com)</a></p>
-<p><a href="https://www.aigei.com/3d/model/">3d模型库 免费下载 3dmax模型 - 爱给网 (aigei.com)</a></p>
-<p><a href="http://v.blendercn.org/youkus">BlenderCN</a></p>
-<h3 id="AI绘图"><a href="#AI绘图" class="headerlink" title="AI绘图"></a>AI绘图</h3><p><a href="https://civitai.com/">Civitai（需翻墙）</a></p>
-<h2 id="技巧花招"><a href="#技巧花招" class="headerlink" title="#技巧花招"></a>#技巧花招</h2><h3 id="文件转换"><a href="#文件转换" class="headerlink" title="文件转换"></a>文件转换</h3><p><a href="https://convertio.co/zh/">Convertio — 文件转换器</a></p>
-<p><a href="https://xpdf.cn/">超级PDF|简单强大的PDF在线处理工具 (xpdf.cn)</a></p>
-<p><a href="https://www.tuhaokuai.com/image">在线图片压缩！支持GIF动图压缩，PNG压缩，JPG压缩。可精确控制照片的长宽和大小。图好快出品！ (tuhaokuai.com)</a></p>
-<p><a href="https://ai.nero.com/image-upscaler">Nero Image Upscaler—Free Photo Enlarger &amp; Cartoon Enhancer Online</a></p>
-<h3 id="资源下载"><a href="#资源下载" class="headerlink" title="资源下载"></a>资源下载</h3><p><a href="https://obsproject.com/zh-cn/download">下载 | OBS (obsproject.com)</a></p>
-<p><a href="http://www.downcc.com/">绿色资源网-绿色下载站-做最好的免费软件下载网站 (downcc.com)</a></p>
-<p><a href="https://www.douban.com/group/topic/243889382/?_i=3844634VRP-N9r,4935589VRP-N9r">#猫猫虫咖波系列（基本整理完毕，不定期更新） (douban.com)</a></p>
-<h3 id="软件破解"><a href="#软件破解" class="headerlink" title="软件破解"></a>软件破解</h3><p><a href="https://baijiahao.baidu.com/s?id=1722490021314743159&amp;wfr=spider&amp;for=pc">6步安全解决WinRAR弹出广告，新版通用保姆级教程，收藏备忘无忧 (baidu.com)</a></p>
-<p><a href="https://www.exception.site/essay/how-to-free-use-navicat">Navicat 15 最新破解版下载_永久激活注册码(附图文安装教程) - 异常教程 (exception.site)</a></p>
-<h3 id="音乐解锁"><a href="#音乐解锁" class="headerlink" title="音乐解锁"></a>音乐解锁</h3><p><a href="http://tool.liumingye.cn/unlock-music/">音乐解锁 (liumingye.cn)</a></p>
-<h3 id="视频解析"><a href="#视频解析" class="headerlink" title="视频解析"></a>视频解析</h3><p><a href="http://client.jijidown.com/">唧唧 - JiJiDown - 电脑客户端</a></p>
-<h3 id="代码美化"><a href="#代码美化" class="headerlink" title="代码美化"></a>代码美化</h3><p><a href="http://codeinword.com/">CodeInWord|在word中优雅展现的代码|代码高亮|word中插入代码|代码格式化</a></p>
-<h3 id="几何画板"><a href="#几何画板" class="headerlink" title="几何画板"></a>几何画板</h3><p><a href="https://www.geogebra.org/">GeoGebra - 风靡世界, 过亿师生沉迷使用的免费数学软件</a></p>
-<p><a href="https://excalidraw.com/">Excalidraw | Hand-drawn look &amp; feel • Collaborative • Secure</a></p>
-<h2 id="游戏相关"><a href="#游戏相关" class="headerlink" title="#游戏相关"></a>#游戏相关</h2><h3 id="PVZ"><a href="#PVZ" class="headerlink" title="PVZ"></a>PVZ</h3><p><a href="http://lonelystar.org/download.htm">植物僵尸相关下载 (lonelystar.org)</a></p>
-<h3 id="赛尔号"><a href="#赛尔号" class="headerlink" title="赛尔号"></a>赛尔号</h3><p><a href="https://yoso.redstoner.cn/wp/">bop 的 blog – 英勇赛尔，智慧童年。 (redstoner.cn)</a></p>
-<p><a href="https://bbs.yoso.live/forum-2-1.html">自定义魔法分享 - 赛尔号论坛 - Powered by Discuz! (yoso.live)</a></p>
-<p><a href="https://news.4399.com/seer/jinglingdaquan/">赛尔号精灵大全<em>赛尔号精灵图鉴</em>图片大全-4399赛尔号</a></p>
-<p><a href="http://pay.61.com/">充值中心 - 淘米网 (61.com)</a></p>
-<p><a href="https://url41.ctfile.com/d/37974341-50416416-1cfa09?54194055">2023年 - 歆冉忆梦 的分享 (ctfile.com)</a></p>
-<p><a href="http://seerh5.61.com/">赛尔号,赛尔号h5,赛尔号互通 (61.com)</a></p>
-<h3 id="网页小游戏"><a href="#网页小游戏" class="headerlink" title="网页小游戏"></a>网页小游戏</h3><p><a href="https://life.aizhancloud.cn/">人生重开模拟器-重来-重启 (aizhancloud.cn)</a></p>
-<h2 id="其他"><a href="#其他" class="headerlink" title="#其他"></a>#其他</h2><p><a href="https://it.itstudio.club/">爱特工作室 (itstudio.club)</a></p>
-<p><a href="https://meeting.tencent.com/m/magic-act/5szgxcha4is61qf16uxikfq589/index_index.html?ovscroll=0&amp;page=index&amp;__no_magic_qrcode=1">腾讯会议调整说明 (tencent.com)</a></p>
-<p><a href="https://lookup.icann.org/en">注册数据查询工具 ICANN Lookup</a></p>
-<p><a href="https://cn.bing.com/search?q=巴纳德环&amp;filters=IsConversation:&quot;True&quot;+BTWLKey:&quot;BarnardsLoopNebula&quot;+BTWLType:&quot;Trivia&quot;&amp;ensearch=0&amp;FORM=M4028V">巴纳德环 - 搜索 (bing.com)</a></p>
+    <title>跑步记录</title>
+    <url>/posts/run.html</url>
+    <content><![CDATA[<h2 id="2023-04-21-17-48-Fri"><a href="#2023-04-21-17-48-Fri" class="headerlink" title="2023-04-21 17:48 Fri"></a>2023-04-21 17:48 Fri</h2><p><img src="/img/run/1.jpg" alt="1"></p>
+<h2 id="2023-04-26-18-05-Wed"><a href="#2023-04-26-18-05-Wed" class="headerlink" title="2023-04-26 18:05 Wed"></a>2023-04-26 18:05 Wed</h2><p><img src="/img/run/2.jpg" alt="2"></p>
+<h2 id="2023-05-06-17-57-Sat"><a href="#2023-05-06-17-57-Sat" class="headerlink" title="2023-05-06 17:57 Sat"></a>2023-05-06 17:57 Sat</h2><p><img src="/img/run/3.jpg" alt="3"></p>
 ]]></content>
       <categories>
-        <category>知识技能</category>
+        <category>生活分享</category>
       </categories>
       <tags>
-        <tag>网址</tag>
+        <tag>跑步</tag>
       </tags>
   </entry>
   <entry>
@@ -270,20 +284,6 @@
       </categories>
       <tags>
         <tag>画画</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>跑步记录</title>
-    <url>/posts/run.html</url>
-    <content><![CDATA[<h2 id="2023-04-21-17-48-Fri"><a href="#2023-04-21-17-48-Fri" class="headerlink" title="2023-04-21 17:48 Fri"></a>2023-04-21 17:48 Fri</h2><p><img src="/img/run/1.jpg" alt="1"></p>
-<h2 id="2023-04-26-18-05-Wed"><a href="#2023-04-26-18-05-Wed" class="headerlink" title="2023-04-26 18:05 Wed"></a>2023-04-26 18:05 Wed</h2><p><img src="/img/run/2.jpg" alt="2"></p>
-<h2 id="2023-05-06-17-57-Sat"><a href="#2023-05-06-17-57-Sat" class="headerlink" title="2023-05-06 17:57 Sat"></a>2023-05-06 17:57 Sat</h2><p><img src="/img/run/3.jpg" alt="3"></p>
-]]></content>
-      <categories>
-        <category>生活分享</category>
-      </categories>
-      <tags>
-        <tag>跑步</tag>
       </tags>
   </entry>
 </search>
