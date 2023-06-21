@@ -1,6 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>批改网英语作文无法“粘贴”的解决办法</title>
+    <url>/posts/pigai.html</url>
+    <content><![CDATA[<center>当你想粘贴作文时……</center>
+
+<p><img src="/img/pigai/pigai.png" alt="pigai"></p>
+<h2 id="解决方法："><a href="#解决方法：" class="headerlink" title="解决方法："></a>解决方法：</h2><h3 id="（以Edge浏览器为例）"><a href="#（以Edge浏览器为例）" class="headerlink" title="（以Edge浏览器为例）"></a>（以Edge浏览器为例）</h3><h3 id="打开批改网↓"><a href="#打开批改网↓" class="headerlink" title="打开批改网↓"></a>打开批改网↓</h3><p><img src="/img/pigai/01.png" alt="1"></p>
+<h3 id="然后下面两种方法二选一↓"><a href="#然后下面两种方法二选一↓" class="headerlink" title="然后下面两种方法二选一↓"></a>然后下面两种方法二选一↓</h3><div style="display: flex;">
+  <div style="flex: 1920; text-align: center;">
+    <p>1.直接点击F12（有的电脑需要先点击Fn）</p>
+    <img src="/img/pigai/02.png" alt="1">
+  </div>
+  <div style="flex: 985; text-align: center;">
+    <p>2.从浏览器右上角进入</p>
+    <img src="/img/pigai/03.png" alt="2">
+  </div>
+</div>
+
+<h3 id="呼出侧边栏之后，点击左上角的图标↓"><a href="#呼出侧边栏之后，点击左上角的图标↓" class="headerlink" title="呼出侧边栏之后，点击左上角的图标↓"></a>呼出侧边栏之后，点击左上角的图标↓</h3><div style="display: flex;">
+  <div style="flex: 1440; text-align: center;">
+    <img src="/img/pigai/04.png" alt="1">
+  </div>
+  <div style="flex: 1021; text-align: center;">
+    <img src="/img/pigai/05.jpg" alt="2">
+  </div>
+</div>
+
+
+<div style="display: flex;">
+  <div style="flex: 1; text-align: center;">
+    <img src="/img/pigai/06.png" alt="灰">
+    <p>从灰色</p>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <img src="/img/pigai/07.png" alt="蓝">
+    <p>变成蓝色</p>
+  </div>
+</div>
+
+<h3 id="然后把鼠标移到写作文的框框里↓"><a href="#然后把鼠标移到写作文的框框里↓" class="headerlink" title="然后把鼠标移到写作文的框框里↓"></a>然后把鼠标移到写作文的框框里↓</h3><p><img src="/img/pigai/08.png" alt="8"></p>
+<h3 id="在框内点击后，侧边将跳到如图的位置↓"><a href="#在框内点击后，侧边将跳到如图的位置↓" class="headerlink" title="在框内点击后，侧边将跳到如图的位置↓"></a>在框内点击后，侧边将跳到如图的位置↓</h3><p><img src="/img/pigai/09.png" alt="9"></p>
+<div style="display: flex;">
+  <div style="flex: 1; text-align: center;">
+    <p>右键这里↓</p>
+    <img src="/img/pigai/10.png" alt="1">
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <p>然后点这↓</p>
+    <img src="/img/pigai/11.png" alt="2">
+  </div>
+</div>
+
+<h3 id="然后点击这里（将光标移动到这）↓"><a href="#然后点击这里（将光标移动到这）↓" class="headerlink" title="然后点击这里（将光标移动到这）↓"></a>然后点击这里（将光标移动到这）↓</h3><p><img src="/img/pigai/12.png" alt="12"></p>
+<h3 id="按下Ctrl-V将作文粘贴进来↓"><a href="#按下Ctrl-V将作文粘贴进来↓" class="headerlink" title="按下Ctrl+V将作文粘贴进来↓"></a>按下Ctrl+V将作文粘贴进来↓</h3><p><img src="/img/pigai/13.png" alt="13"></p>
+<h3 id="点击左边的空白区域↓"><a href="#点击左边的空白区域↓" class="headerlink" title="点击左边的空白区域↓"></a>点击左边的空白区域↓</h3><p><img src="/img/pigai/14.png" alt="14"></p>
+<h3 id="然后你就会发现，左边的作文框已经填好了你粘贴的作文啦！↓"><a href="#然后你就会发现，左边的作文框已经填好了你粘贴的作文啦！↓" class="headerlink" title="然后你就会发现，左边的作文框已经填好了你粘贴的作文啦！↓"></a>然后你就会发现，左边的作文框已经填好了你粘贴的作文啦！↓</h3><p><img src="/img/pigai/15.png" alt="15"></p>
+<h2 id="完成！"><a href="#完成！" class="headerlink" title="完成！"></a><center>完成！</center></h2><p><img src="/img/pigai/16.png" alt="16"></p>
+]]></content>
+      <categories>
+        <category>知识技能</category>
+      </categories>
+      <tags>
+        <tag>作业</tag>
+        <tag>批改网</tag>
+        <tag>英语作文</tag>
+        <tag>F12开发人员工具</tag>
+        <tag>前端</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>新头像绘制细节与思路</title>
     <url>/posts/avatar.html</url>
     <content><![CDATA[<h2 id="原头像↓"><a href="#原头像↓" class="headerlink" title="原头像↓"></a><center>原头像↓</center></h2><center>网图（原作者不详）</center>
@@ -102,75 +171,6 @@
         <tag>心理</tag>
         <tag>梦</tag>
         <tag>记录</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>批改网英语作文无法“粘贴”的解决办法</title>
-    <url>/posts/pigai.html</url>
-    <content><![CDATA[<center>当你想粘贴作文时……</center>
-
-<p><img src="/img/pigai/pigai.png" alt="pigai"></p>
-<h2 id="解决方法："><a href="#解决方法：" class="headerlink" title="解决方法："></a>解决方法：</h2><h3 id="（以Edge浏览器为例）"><a href="#（以Edge浏览器为例）" class="headerlink" title="（以Edge浏览器为例）"></a>（以Edge浏览器为例）</h3><h3 id="打开批改网↓"><a href="#打开批改网↓" class="headerlink" title="打开批改网↓"></a>打开批改网↓</h3><p><img src="/img/pigai/01.png" alt="1"></p>
-<h3 id="然后下面两种方法二选一↓"><a href="#然后下面两种方法二选一↓" class="headerlink" title="然后下面两种方法二选一↓"></a>然后下面两种方法二选一↓</h3><div style="display: flex;">
-  <div style="flex: 1920; text-align: center;">
-    <p>1.直接点击F12（有的电脑需要先点击Fn）</p>
-    <img src="/img/pigai/02.png" alt="1">
-  </div>
-  <div style="flex: 985; text-align: center;">
-    <p>2.从浏览器右上角进入</p>
-    <img src="/img/pigai/03.png" alt="2">
-  </div>
-</div>
-
-<h3 id="呼出侧边栏之后，点击左上角的图标↓"><a href="#呼出侧边栏之后，点击左上角的图标↓" class="headerlink" title="呼出侧边栏之后，点击左上角的图标↓"></a>呼出侧边栏之后，点击左上角的图标↓</h3><div style="display: flex;">
-  <div style="flex: 1440; text-align: center;">
-    <img src="/img/pigai/04.png" alt="1">
-  </div>
-  <div style="flex: 1021; text-align: center;">
-    <img src="/img/pigai/05.jpg" alt="2">
-  </div>
-</div>
-
-
-<div style="display: flex;">
-  <div style="flex: 1; text-align: center;">
-    <img src="/img/pigai/06.png" alt="灰">
-    <p>从灰色</p>
-  </div>
-  <div style="flex: 1; text-align: center;">
-    <img src="/img/pigai/07.png" alt="蓝">
-    <p>变成蓝色</p>
-  </div>
-</div>
-
-<h3 id="然后把鼠标移到写作文的框框里↓"><a href="#然后把鼠标移到写作文的框框里↓" class="headerlink" title="然后把鼠标移到写作文的框框里↓"></a>然后把鼠标移到写作文的框框里↓</h3><p><img src="/img/pigai/08.png" alt="8"></p>
-<h3 id="在框内点击后，侧边将跳到如图的位置↓"><a href="#在框内点击后，侧边将跳到如图的位置↓" class="headerlink" title="在框内点击后，侧边将跳到如图的位置↓"></a>在框内点击后，侧边将跳到如图的位置↓</h3><p><img src="/img/pigai/09.png" alt="9"></p>
-<div style="display: flex;">
-  <div style="flex: 1; text-align: center;">
-    <p>右键这里↓</p>
-    <img src="/img/pigai/10.png" alt="1">
-  </div>
-  <div style="flex: 1; text-align: center;">
-    <p>然后点这↓</p>
-    <img src="/img/pigai/11.png" alt="2">
-  </div>
-</div>
-
-<h3 id="然后点击这里（将光标移动到这）↓"><a href="#然后点击这里（将光标移动到这）↓" class="headerlink" title="然后点击这里（将光标移动到这）↓"></a>然后点击这里（将光标移动到这）↓</h3><p><img src="/img/pigai/12.png" alt="12"></p>
-<h3 id="按下Ctrl-V将作文粘贴进来↓"><a href="#按下Ctrl-V将作文粘贴进来↓" class="headerlink" title="按下Ctrl+V将作文粘贴进来↓"></a>按下Ctrl+V将作文粘贴进来↓</h3><p><img src="/img/pigai/13.png" alt="13"></p>
-<h3 id="点击左边的空白区域↓"><a href="#点击左边的空白区域↓" class="headerlink" title="点击左边的空白区域↓"></a>点击左边的空白区域↓</h3><p><img src="/img/pigai/14.png" alt="14"></p>
-<h3 id="然后你就会发现，左边的作文框已经填好了你粘贴的作文啦！↓"><a href="#然后你就会发现，左边的作文框已经填好了你粘贴的作文啦！↓" class="headerlink" title="然后你就会发现，左边的作文框已经填好了你粘贴的作文啦！↓"></a>然后你就会发现，左边的作文框已经填好了你粘贴的作文啦！↓</h3><p><img src="/img/pigai/15.png" alt="15"></p>
-<h2 id="完成！"><a href="#完成！" class="headerlink" title="完成！"></a><center>完成！</center></h2><p><img src="/img/pigai/16.png" alt="16"></p>
-]]></content>
-      <categories>
-        <category>知识技能</category>
-      </categories>
-      <tags>
-        <tag>作业</tag>
-        <tag>批改网</tag>
-        <tag>英语作文</tag>
-        <tag>F12开发人员工具</tag>
-        <tag>前端</tag>
       </tags>
   </entry>
   <entry>
@@ -426,10 +426,11 @@
     <img src="/img/seer/configuration/5000-1.jpg" alt="">
   </div>
   <div style="flex: 1; text-align: center;">
-    <p>规划</p>
+    <p>以后的规划</p>
     <img src="/img/seer/configuration/5000-2.jpg" alt="">
   </div>
 </div>
+
 
 <h3 id="赤胆游龙·赵云4421"><a href="#赤胆游龙·赵云4421" class="headerlink" title="赤胆游龙·赵云4421"></a>赤胆游龙·赵云4421</h3><div style="display: flex;">
   <div style="flex: 1; text-align: center;">
@@ -437,10 +438,11 @@
     <img src="/img/seer/configuration/4421-1.jpg" alt="">
   </div>
   <div style="flex: 1; text-align: center;">
-    <p>规划</p>
+    <p>以后的规划</p>
     <img src="/img/seer/configuration/4421-2.jpg" alt="">
   </div>
 </div>
+
 
 <h3 id="弑序神罗4169"><a href="#弑序神罗4169" class="headerlink" title="弑序神罗4169"></a>弑序神罗4169</h3><div style="display: flex;">
   <div style="flex: 1; text-align: center;">
@@ -448,10 +450,11 @@
     <img src="/img/seer/configuration/4169-1.jpg" alt="">
   </div>
   <div style="flex: 1; text-align: center;">
-    <p>规划</p>
+    <p>以后的规划</p>
     <img src="/img/seer/configuration/4169-2.jpg" alt="">
   </div>
 </div>
+
 
 <h3 id="混元天尊3788"><a href="#混元天尊3788" class="headerlink" title="混元天尊3788"></a>混元天尊3788</h3><div style="display: flex;">
   <div style="flex: 1; text-align: center;">
@@ -459,10 +462,11 @@
     <img src="/img/seer/configuration/3788-1.jpg" alt="">
   </div>
   <div style="flex: 1; text-align: center;">
-    <p>规划</p>
+    <p>以后的规划</p>
     <img src="/img/seer/configuration/3788-2.jpg" alt="">
   </div>
 </div>
+
 
 <h3 id="天启帝君3550"><a href="#天启帝君3550" class="headerlink" title="天启帝君3550"></a>天启帝君3550</h3><div style="display: flex;">
   <div style="flex: 1; text-align: center;">
@@ -470,10 +474,11 @@
     <img src="/img/seer/configuration/3550-1.jpg" alt="">
   </div>
   <div style="flex: 1; text-align: center;">
-    <p>规划</p>
+    <p>以后的规划</p>
     <img src="/img/seer/configuration/3550-2.jpg" alt="">
   </div>
 </div>
+
 
 <h3 id="混沌魔君索伦森3414"><a href="#混沌魔君索伦森3414" class="headerlink" title="混沌魔君索伦森3414"></a>混沌魔君索伦森3414</h3><div style="display: flex;">
   <div style="flex: 1; text-align: center;">
@@ -481,10 +486,11 @@
     <img src="/img/seer/configuration/3414-1.jpg" alt="">
   </div>
   <div style="flex: 1; text-align: center;">
-    <p>规划</p>
+    <p>以后的规划</p>
     <img src="/img/seer/configuration/3414-2.jpg" alt="">
   </div>
 </div>
+
 
 <h3 id="圣光灵神3311"><a href="#圣光灵神3311" class="headerlink" title="圣光灵神3311"></a>圣光灵神3311</h3><div style="display: flex;">
   <div style="flex: 1; text-align: center;">
@@ -492,7 +498,7 @@
     <img src="/img/seer/configuration/3311-1.jpg" alt="">
   </div>
   <div style="flex: 1; text-align: center;">
-    <p>规划</p>
+    <p>以后的规划</p>
     <img src="/img/seer/configuration/3311-2.jpg" alt="">
   </div>
 </div>
