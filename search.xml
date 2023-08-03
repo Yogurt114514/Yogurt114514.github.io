@@ -174,10 +174,11 @@
       </tags>
   </entry>
   <entry>
-    <title>赛尔号刻印评估（测试草稿）</title>
+    <title>赛尔号刻印评估</title>
     <url>/posts/seer_equip.html</url>
     <content><![CDATA[<center>游戏里精灵培养最重要的一环——刻印</center>
 
+<p>刻印数值总和=各项数值相加+<strong>隐藏属性</strong></p>
 <p>下面将用“刻印数值总和”对其中大于等于220的刻印进行排序：</p>
 <h1 id="265（最高总和）"><a href="#265（最高总和）" class="headerlink" title="265（最高总和）"></a>265（最高总和）</h1><p>全赛最顶级的刻印</p>
 <h3 id="K13系列"><a href="#K13系列" class="headerlink" title="K13系列"></a>K13系列</h3><div style="display: flex;">
@@ -214,45 +215,9 @@
     <p></p>
   </div>
 </div>
+### 沧吟星海系列
 
-
-<h3 id="瓏域系列"><a href="#瓏域系列" class="headerlink" title="瓏域系列"></a>瓏域系列</h3><div style="display: flex;">
-  <div style="flex: 1; text-align: center;">
-    <p>瓏腾四海</p>
-    <img src="/img/seer/equip/瓏腾四海.png" alt="">
-    <p>[........]—防御32</p>
-    <p>特攻52—特防32</p>
-    <p>速度39—体力110</p>
-    <p>总和265</p>
-  </div>
-  <div style="flex: 1; text-align: center;">
-    <p></p>
-    <img src="" alt="">
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
-  </div>
-  <div style="flex: 1; text-align: center;">
-    <p></p>
-    <img src="" alt="">
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
-  </div>
-  <div style="flex: 1; text-align: center;">
-    <p></p>
-    <img src="" alt="">
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
-  </div>
-</div>
-
-
-<h3 id="沧吟星海系列"><a href="#沧吟星海系列" class="headerlink" title="沧吟星海系列"></a>沧吟星海系列</h3><div style="display: flex;">
+<div style="display: flex;">
   <div style="flex: 1; text-align: center;">
     <p>沧吟星海·辉</p>
     <img src="/img/seer/equip/沧吟星海·辉.png" alt="">
@@ -286,7 +251,42 @@
     <p></p>
   </div>
 </div>
+### 瓏域系列
 
+<div style="display: flex;">
+  <div style="flex: 1; text-align: center;">
+    <p>瓏腾四海</p>
+    <img src="/img/seer/equip/瓏腾四海.png" alt="">
+    <p>[........]—防御32</p>
+    <p>特攻52—特防32</p>
+    <p>速度39—体力110</p>
+    <p>总和265</p>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <p></p>
+    <img src="" alt="">
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <p></p>
+    <img src="" alt="">
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <p></p>
+    <img src="" alt="">
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+  </div>
+</div>
 
 <h1 id="263（特殊，非顶级）"><a href="#263（特殊，非顶级）" class="headerlink" title="263（特殊，非顶级）"></a>263（特殊，非顶级）</h1><p>仅一个，但是是双攻刻印。所以对于<strong>绝大多数精灵</strong>来说，该刻印的净含量实际为263-50=213（甚至小于220）。且由于无速度加成，一般适用于PVE精灵（作为二角<strong>衡系列</strong>攻体刻印的上位替代）。但是对于<strong>卫岳</strong>来说加成巨大，双防数值换成双攻数值中的更低项，换算过来即263-25×2+50×2=313</p>
 <div style="display: flex;">
@@ -361,7 +361,404 @@
 </div>
 
 
-<h3 id="星璨灵籁系列"><a href="#星璨灵籁系列" class="headerlink" title="星璨灵籁系列"></a>星璨灵籁系列</h3>]]></content>
+<h3 id="星璨灵籁系列"><a href="#星璨灵籁系列" class="headerlink" title="星璨灵籁系列"></a>星璨灵籁系列</h3><div style="display: flex;">
+  <div style="flex: 1; text-align: center;">
+    <p>星璨·遐响</p>
+    <img src="/img/seer/equip/星璨·遐响.png" alt="">
+    <p>攻击55—防御30</p>
+    <p>[........]—特防30</p>
+    <p>速度30—体力115</p>
+    <p>总和260</p>
+  </div>
+    <div style="flex: 1; text-align: center;">
+    <p>星璨·狂响</p>
+    <img src="/img/seer/equip/星璨·狂响.png" alt="">
+    <p>[........]—防御30</p>
+    <p>特攻55—特防30</p>
+    <p>速度30—体力115</p>
+    <p>总和260</p>
+  </div>
+    <div style="flex: 1; text-align: center;">
+    <p>星璨·梦响</p>
+    <img src="/img/seer/equip/星璨·梦响.png" alt="">
+    <p>攻击60—防御30</p>
+    <p>[........]—特防30</p>
+    <p>速度40—体力110</p>
+    <p>总和260</p>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <p>星璨·幻响</p>
+    <img src="/img/seer/equip/星璨·幻响.png" alt="">
+    <p>[........]—防御30</p>
+    <p>特攻60—特防30</p>
+    <p>速度40—体力100</p>
+    <p>总和260</p>
+  </div>
+</div>
+
+<center>——————————————————————————————————————</center>
+
+<div style="display: flex;">
+  <div style="flex: 1; text-align: center;">
+    <p>星璨·沉响</p>
+    <img src="/img/seer/equip/星璨·沉响.png" alt="">
+    <p>攻击54—防御43</p>
+    <p>[........]—特防43</p>
+    <p>速度30—体力90</p>
+    <p>总和260</p>
+  </div>
+    <div style="flex: 1; text-align: center;">
+    <p>星璨·彻响</p>
+    <img src="/img/seer/equip/星璨·彻响.png" alt="">
+    <p>[........]—防御43</p>
+    <p>特攻54—特防43</p>
+    <p>速度30—体力90</p>
+    <p>总和260</p>
+  </div>
+    <div style="flex: 1; text-align: center;">
+    <p>灵籁·欢夏</p>
+    <img src="/img/seer/equip/灵籁·欢夏.png" alt="">
+    <p>攻击48—防御30</p>
+    <p>[........]—特防30</p>
+    <p>速度40—体力112</p>
+    <p>总和260</p>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <p>灵籁·觅夏</p>
+    <img src="/img/seer/equip/灵籁·觅夏.png" alt="">
+    <p>[........]—防御30</p>
+    <p>特攻48—特防30</p>
+    <p>速度40—体力112</p>
+    <p>总和260</p>
+  </div>
+</div>
+
+<center>——————————————————————————————————————</center>
+
+<div style="display: flex;">
+  <div style="flex: 1; text-align: center;">
+    <p>灵籁·爽夏</p>
+    <img src="/img/seer/equip/灵籁·爽夏.png" alt="">
+    <p>攻击40—防御45</p>
+    <p>[........]—特防45</p>
+    <p>速度40—体力90</p>
+    <p>总和260</p>
+  </div>
+    <div style="flex: 1; text-align: center;">
+    <p>灵籁·沁夏</p>
+    <img src="/img/seer/equip/灵籁·沁夏.png" alt="">
+    <p>[........]—防御45</p>
+    <p>特攻40—特防45</p>
+    <p>速度40—体力90</p>
+    <p>总和260</p>
+  </div>
+    <div style="flex: 1; text-align: center;">
+    <p>灵籁·逐夏</p>
+    <img src="/img/seer/equip/灵籁·逐夏.png" alt="">
+    <p>攻击32—防御45</p>
+    <p>[........]—特防45</p>
+    <p>速度26—体力112</p>
+    <p>总和260</p>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <p>灵籁·伴夏</p>
+    <img src="/img/seer/equip/灵籁·伴夏.png" alt="">
+    <p>[........]—防御45</p>
+    <p>特攻32—特防45</p>
+    <p>速度26—体力112</p>
+    <p>总和260</p>
+  </div>
+</div>
+
+<h1 id="256（特殊，非顶级）"><a href="#256（特殊，非顶级）" class="headerlink" title="256（特殊，非顶级）"></a>256（特殊，非顶级）</h1><p>同<strong>圣战之无限α</strong></p>
+<div style="display: flex;">
+  <div style="flex: 1; text-align: center;">
+    <p>圣战之无限</p>
+    <img src="/img/seer/equip/圣战之无限.png" alt="">
+    <p>攻击50—防御24</p>
+    <p>特攻50—特防24</p>
+    <p>[........]—体力108</p>
+    <p>总和256</p>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <p></p>
+    <img src="" alt="">
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <p></p>
+    <img src="" alt="">
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <p></p>
+    <img src="" alt="">
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+  </div>
+</div>
+
+<h1 id="255（顶级刻印）"><a href="#255（顶级刻印）" class="headerlink" title="255（顶级刻印）"></a>255（顶级刻印）</h1><p>同样有着最高单项数值的刻印！</p>
+<h3 id="K13系列-1"><a href="#K13系列-1" class="headerlink" title="K13系列"></a>K13系列</h3><div style="display: flex;">
+  <div style="flex: 1; text-align: center;">
+    <p>K13-01</p>
+    <img src="/img/seer/equip/K13-01.png" alt="">
+    <p>攻击52—防御30</p>
+    <p>[........]—特防30</p>
+    <p>速度43—体力100</p>
+    <p>总和255</p>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <p>K13-02</p>
+    <img src="/img/seer/equip/K13-02.png" alt="">
+    <p>[........]—防御30</p>
+    <p>特攻52—特防30</p>
+    <p>速度43—体力100</p>
+    <p>总和255</p>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <p>K13-03</p>
+    <img src="/img/seer/equip/K13-03.png" alt="">
+    <p>攻击70—防御31</p>
+    <p>[........]—特防31</p>
+    <p>速度36—体力87</p>
+    <p>总和255</p>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <p>K13-04</p>
+    <img src="/img/seer/equip/K13-04.png" alt="">
+    <p>[........]—防御31</p>
+    <p>特攻70—特防31</p>
+    <p>速度36—体力87</p>
+    <p>总和255</p>
+  </div>
+</div>
+
+<center>——————————————————————————————————————</center>
+
+<div style="display: flex;">
+  <div style="flex: 1; text-align: center;">
+    <p>K13-07</p>
+    <img src="/img/seer/equip/K13-07.png" alt="">
+    <p>攻击25—防御54</p>
+    <p>[........]—特防54</p>
+    <p>速度27—体力95</p>
+    <p>总和255</p>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <p>K13-08</p>
+    <img src="/img/seer/equip/K13-08.png" alt="">
+    <p>[........]—防御54</p>
+    <p>特攻25—特防54</p>
+    <p>速度27—体力95</p>
+    <p>总和255</p>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <p></p>
+    <img src="" alt="">
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <p></p>
+    <img src="" alt="">
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+  </div>
+</div>
+
+<h3 id="沧吟星海系列"><a href="#沧吟星海系列" class="headerlink" title="沧吟星海系列"></a>沧吟星海系列</h3><div style="display: flex;">
+  <div style="flex: 1; text-align: center;">
+    <p>沧吟星海·逐</p>
+    <img src="/img/seer/equip/沧吟星海·逐.png" alt="">
+    <p>攻击58—防御32</p>
+    <p>[........]—特防32</p>
+    <p>速度43—体力90</p>
+    <p>总和255</p>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <p>沧吟星海·浪</p>
+    <img src="/img/seer/equip/沧吟星海·浪.png" alt="">
+    <p>[........]—防御32</p>
+    <p>特攻58—特防32</p>
+    <p>速度43—体力90</p>
+    <p>总和255</p>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <p>沧吟星海·歌</p>
+    <img src="/img/seer/equip/沧吟星海·歌.png" alt="">
+    <p>攻击70—防御30</p>
+    <p>[........]—特防30</p>
+    <p>速度38—体力87</p>
+    <p>总和255</p>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <p>沧吟星海·诗</p>
+    <img src="/img/seer/equip/沧吟星海·诗.png" alt="">
+    <p>[........]—防御30</p>
+    <p>特攻70—特防30</p>
+    <p>速度38—体力87</p>
+    <p>总和255</p>
+  </div>
+</div>
+
+<center>——————————————————————————————————————</center>
+
+<div style="display: flex;">
+  <div style="flex: 1; text-align: center;">
+    <p>沧吟星海·瀚</p>
+    <img src="/img/seer/equip/沧吟星海·瀚.png" alt="">
+    <p>攻击25—防御55</p>
+    <p>[........]—特防55</p>
+    <p>速度20—体力100</p>
+    <p>总和255</p>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <p>沧吟星海·澜</p>
+    <img src="/img/seer/equip/沧吟星海·澜.png" alt="">
+    <p>[........]—防御55</p>
+    <p>特攻25—特防55</p>
+    <p>速度20—体力100</p>
+    <p>总和255</p>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <p></p>
+    <img src="" alt="">
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <p></p>
+    <img src="" alt="">
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+  </div>
+</div>
+
+<h3 id="瓏域系列"><a href="#瓏域系列" class="headerlink" title="瓏域系列"></a>瓏域系列</h3><div style="display: flex;">
+  <div style="flex: 1; text-align: center;">
+    <p>悍武一方</p>
+    <img src="/img/seer/equip/悍武一方.png" alt="">
+    <p>攻击58—防御29</p>
+    <p>[........]—特防29</p>
+    <p>速度41—体力98</p>
+    <p>总和255</p>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <p></p>
+    <img src="" alt="">
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <p></p>
+    <img src="" alt="">
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <p></p>
+    <img src="" alt="">
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+  </div>
+</div>
+
+<h3 id="十周年系列"><a href="#十周年系列" class="headerlink" title="十周年系列"></a>十周年系列</h3><div style="display: flex;">
+  <div style="flex: 1; text-align: center;">
+    <p>十年·新生</p>
+    <img src="/img/seer/equip/十年·新生.png" alt="">
+    <p>攻击36—防御32</p>
+    <p>[........]—特防32</p>
+    <p>速度25—体力130</p>
+    <p>总和255</p>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <p>十年·同舟</p>
+    <img src="/img/seer/equip/十年·同舟.png" alt="">
+    <p>[........]—防御32</p>
+    <p>特攻36—特防32</p>
+    <p>速度25—体力130</p>
+    <p>总和255</p>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <p></p>
+    <img src="" alt="">
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <p></p>
+    <img src="" alt="">
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+  </div>
+</div>
+
+<h3 id="四君子系列"><a href="#四君子系列" class="headerlink" title="四君子系列"></a>四君子系列</h3><div style="display: flex;">
+  <div style="flex: 1; text-align: center;">
+    <p>梅之绝艳</p>
+    <img src="/img/seer/equip/梅之绝艳.png" alt="">
+    <p>攻击43—防御30</p>
+    <p>[........]—特防30</p>
+    <p>速度26—体力126</p>
+    <p>总和255</p>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <p>梅之傲寒</p>
+    <img src="/img/seer/equip/梅之傲寒.png" alt="">
+    <p>[........]—防御30</p>
+    <p>特攻43—特防30</p>
+    <p>速度26—体力126</p>
+    <p>总和255</p>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <p></p>
+    <img src="" alt="">
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <p></p>
+    <img src="" alt="">
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+  </div>
+</div>
+
+
+
+<h3 id=""><a href="#" class="headerlink" title=" "></a> </h3>]]></content>
       <categories>
         <category>知识技能</category>
       </categories>
