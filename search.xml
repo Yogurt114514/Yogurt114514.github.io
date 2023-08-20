@@ -337,9 +337,11 @@
     <content><![CDATA[<center>游戏里精灵培养最重要的一环——刻印</center>
 
 <p>刻印数值总和=各项数值相加+<strong>隐藏属性</strong></p>
-<p>下面将用“刻印数值总和”对其中大于等于220的刻印进行排序：</p>
-<h1 id="265（最高总和）"><a href="#265（最高总和）" class="headerlink" title="265（最高总和）"></a>265（最高总和）</h1><p>全赛最顶级的刻印</p>
-<h2 id="K13系列"><a href="#K13系列" class="headerlink" title="K13系列"></a>K13系列</h2><div style="display: flex;">
+<p>下面将用“刻印数值总和”对其中大于等于220的刻印（及部分低于220的刻印）进行排序：</p>
+<h1 id="265（最高总和）"><a href="#265（最高总和）" class="headerlink" title="265（最高总和）"></a>265（最高总和）</h1><p>全赛最顶级的刻印，需要非常谨慎地选择绑定的精灵！（一般是最好选择“分奴”精灵）</p>
+<h2 id="K13系列"><a href="#K13系列" class="headerlink" title="K13系列"></a>K13系列</h2><p>赛尔号周年庆13周年（2022年6月）系列刻印，目前仅能购入一套（每个刻印有且最多仅有一个）。</p>
+<p>高体刻印</p>
+<div style="display: flex;">
    <div style="flex: 0.2; text-align: center;">
     <p></p>
     <img src="" alt="">
@@ -415,7 +417,10 @@
 </div>
 
 
-<h2 id="沧吟星海系列"><a href="#沧吟星海系列" class="headerlink" title="沧吟星海系列"></a>沧吟星海系列</h2><div style="display: flex;">
+<h2 id="沧吟星海系列"><a href="#沧吟星海系列" class="headerlink" title="沧吟星海系列"></a>沧吟星海系列</h2><p>赛尔号周年庆14周年（2023年6月）系列刻印，目前仅能购入一套（每个刻印有且最多仅有一个），俗称K14系列刻印。</p>
+<p>（数值分配略优于K13刻印）</p>
+<p>高体刻印</p>
+<div style="display: flex;">
    <div style="flex: 0.2; text-align: center;">
     <p></p>
     <img src="" alt="">
@@ -491,7 +496,9 @@
 </div>
 
 
-<h2 id="瓏域系列"><a href="#瓏域系列" class="headerlink" title="瓏域系列"></a>瓏域系列</h2><div style="display: flex;">
+<h2 id="瓏域系列"><a href="#瓏域系列" class="headerlink" title="瓏域系列"></a>瓏域系列</h2><p>武心婵冠名刻印，简称龙女</p>
+<p>综合刻印</p>
+<div style="display: flex;">
    <div style="flex: 0.2; text-align: center;">
     <p></p>
     <img src="" alt="">
@@ -644,7 +651,9 @@
 
 
 
-<h1 id="260（顶级刻印）"><a href="#260（顶级刻印）" class="headerlink" title="260（顶级刻印）"></a>260（顶级刻印）</h1><h2 id="V10系列"><a href="#V10系列" class="headerlink" title="V10系列"></a>V10系列</h2><div style="display: flex;">
+<h1 id="260（顶级刻印）"><a href="#260（顶级刻印）" class="headerlink" title="260（顶级刻印）"></a>260（顶级刻印）</h1><h2 id="V10系列"><a href="#V10系列" class="headerlink" title="V10系列"></a>V10系列</h2><p>单项数值位列天花板，总和高，只能通过钻石购买，目前最多拥有三套（每个刻印有且最多仅有三个）。</p>
+<p>高体刻印</p>
+<div style="display: flex;">
    <div style="flex: 0.2; text-align: center;">
     <p></p>
     <img src="" alt="">
@@ -720,8 +729,9 @@
 </div>
 
 
-
-<h2 id="星璨灵籁系列"><a href="#星璨灵籁系列" class="headerlink" title="星璨灵籁系列"></a>星璨灵籁系列</h2><div style="display: flex;">
+<h2 id="星璨灵籁系列"><a href="#星璨灵籁系列" class="headerlink" title="星璨灵籁系列"></a>星璨灵籁系列</h2><p>俗称乐队/泳池系列刻印。总和高，分配好。目前仅能购入一套（每个刻印有且最多仅有一个）。</p>
+<p>综合刻印</p>
+<div style="display: flex;">
    <div style="flex: 0.2; text-align: center;">
     <p></p>
     <img src="" alt="">
@@ -1028,7 +1038,9 @@
 
 
 <h1 id="255（顶级刻印）"><a href="#255（顶级刻印）" class="headerlink" title="255（顶级刻印）"></a>255（顶级刻印）</h1><p>同样有着最高单项数值的刻印！</p>
-<h2 id="K13系列-1"><a href="#K13系列-1" class="headerlink" title="K13系列"></a>K13系列</h2><div style="display: flex;">
+<h2 id="K13系列-1"><a href="#K13系列-1" class="headerlink" title="K13系列"></a>K13系列</h2><p>赛尔号周年庆13周年（2022年6月）系列刻印，目前仅能购入一套（每个刻印有且最多仅有一个）。</p>
+<p>爆速/攻/盾刻印</p>
+<div style="display: flex;">
    <div style="flex: 0.2; text-align: center;">
     <p></p>
     <img src="" alt="">
@@ -1181,7 +1193,10 @@
 </div>
 
 
-<h2 id="沧吟星海系列-1"><a href="#沧吟星海系列-1" class="headerlink" title="沧吟星海系列"></a>沧吟星海系列</h2><div style="display: flex;">
+<h2 id="沧吟星海系列-1"><a href="#沧吟星海系列-1" class="headerlink" title="沧吟星海系列"></a>沧吟星海系列</h2><p>赛尔号周年庆14周年（2023年6月）系列刻印，目前仅能购入一套（每个刻印有且最多仅有一个），俗称K14系列刻印。</p>
+<p>（数值分配略优于K13刻印）</p>
+<p>爆速/攻/盾刻印</p>
+<div style="display: flex;">
    <div style="flex: 0.2; text-align: center;">
     <p></p>
     <img src="" alt="">
@@ -1410,7 +1425,9 @@
 </div>
 
 
-<h2 id="十周年系列"><a href="#十周年系列" class="headerlink" title="十周年系列"></a>十周年系列</h2><div style="display: flex;">
+<h2 id="十周年系列"><a href="#十周年系列" class="headerlink" title="十周年系列"></a>十周年系列</h2><p>单项数值位列天花板，总和较高。</p>
+<p>高体刻印</p>
+<div style="display: flex;">
    <div style="flex: 0.2; text-align: center;">
     <p></p>
     <img src="" alt="">
@@ -1486,7 +1503,9 @@
 </div>
 
 
-<h2 id="四君子系列"><a href="#四君子系列" class="headerlink" title="四君子系列"></a>四君子系列</h2><div style="display: flex;">
+<h2 id="四君子系列"><a href="#四君子系列" class="headerlink" title="四君子系列"></a>四君子系列</h2><p>分配优于十年系列，但单项数值并非最高。出现于月卡中的氪金刻印。</p>
+<p>高体刻印</p>
+<div style="display: flex;">
    <div style="flex: 0.2; text-align: center;">
     <p></p>
     <img src="" alt="">
@@ -1562,7 +1581,9 @@
 </div>
 
 
-<h1 id="250（顶级刻印）"><a href="#250（顶级刻印）" class="headerlink" title="250（顶级刻印）"></a>250（顶级刻印）</h1><h2 id="十周年系列-1"><a href="#十周年系列-1" class="headerlink" title="十周年系列"></a>十周年系列</h2><div style="display: flex;">
+<h1 id="250（顶级刻印）"><a href="#250（顶级刻印）" class="headerlink" title="250（顶级刻印）"></a>250（顶级刻印）</h1><h2 id="十周年系列-1"><a href="#十周年系列-1" class="headerlink" title="十周年系列"></a>十周年系列</h2><p>单项数值位列天花板，总和较高。</p>
+<p>爆速/攻/盾刻印</p>
+<div style="display: flex;">
    <div style="flex: 0.2; text-align: center;">
     <p></p>
     <img src="" alt="">
@@ -1717,7 +1738,9 @@
 </div>
 
 
-<h2 id="凶兽系列"><a href="#凶兽系列" class="headerlink" title="凶兽系列"></a>凶兽系列</h2><div style="display: flex;">
+<h2 id="凶兽系列"><a href="#凶兽系列" class="headerlink" title="凶兽系列"></a>凶兽系列</h2><p>进过池子（刻印之轮）的刻印，可持有量上限高。一般用于氪佬的两边刻印。</p>
+<p>高体刻印</p>
+<div style="display: flex;">
    <div style="flex: 0.2; text-align: center;">
     <p></p>
     <img src="" alt="">
@@ -1793,7 +1816,8 @@
 </div>
 
 
-<h2 id="九天系列"><a href="#九天系列" class="headerlink" title="九天系列"></a>九天系列</h2><div style="display: flex;">
+<h2 id="九天系列"><a href="#九天系列" class="headerlink" title="九天系列"></a>九天系列</h2><p>进过池子（刻印之轮）的刻印，曾经在邮箱赠送过一套（目前的初始号一般都有这么一套），是平民高配刻印，请谨慎使用！</p>
+<div style="display: flex;">
    <div style="flex: 0.2; text-align: center;">
     <p></p>
     <img src="" alt="">
@@ -1868,7 +1892,8 @@
   </div>
 </div>
 
-<h1 id="246（个别专属全能刻印）"><a href="#246（个别专属全能刻印）" class="headerlink" title="246（个别专属全能刻印）"></a>246（个别专属全能刻印）</h1><h2 id="专属刻印"><a href="#专属刻印" class="headerlink" title="专属刻印"></a>专属刻印</h2><div style="display: flex;">
+<h1 id="246（个别专属全能刻印）"><a href="#246（个别专属全能刻印）" class="headerlink" title="246（个别专属全能刻印）"></a>246（个别专属全能刻印）</h1><h2 id="专属刻印"><a href="#专属刻印" class="headerlink" title="专属刻印"></a>专属刻印</h2><p>购买嬴政1688礼包时附赠，攻速较高，非常适配嬴政。</p>
+<div style="display: flex;">
    <div style="flex: 0.2; text-align: center;">
     <p></p>
     <img src="" alt="">
@@ -1943,7 +1968,9 @@
   </div>
 </div>
 
-<h1 id="245（平民顶配刻印）"><a href="#245（平民顶配刻印）" class="headerlink" title="245（平民顶配刻印）"></a>245（平民顶配刻印）</h1><h2 id="十周年系列-2"><a href="#十周年系列-2" class="headerlink" title="十周年系列"></a>十周年系列</h2><div style="display: flex;">
+<h1 id="245（平民顶配刻印）"><a href="#245（平民顶配刻印）" class="headerlink" title="245（平民顶配刻印）"></a>245（平民顶配刻印）</h1><h2 id="十周年系列-2"><a href="#十周年系列-2" class="headerlink" title="十周年系列"></a>十周年系列</h2><p>单项数值位列天花板，总和较高。</p>
+<p>爆速/攻/盾刻印</p>
+<div style="display: flex;">
    <div style="flex: 0.2; text-align: center;">
     <p></p>
     <img src="" alt="">
@@ -2094,8 +2121,13 @@
     <p></p>
   </div>
 </div>
+## 神兽之威系列
 
-<h2 id="神兽之威系列"><a href="#神兽之威系列" class="headerlink" title="神兽之威系列"></a>神兽之威系列</h2><div style="display: flex;">
+平民高配刻印！请谨慎使用！普通人一般最多只能获得一两个。（因为曾经进过池子，所以部分老玩家可能有过较多神兽刻印）
+
+综合刻印
+
+<div style="display: flex;">
    <div style="flex: 0.2; text-align: center;">
     <p></p>
     <img src="" alt="">
@@ -2169,8 +2201,13 @@
     <p></p>
   </div>
 </div>
+## 星宇灾厄系列
 
-<h2 id="星宇灾厄系列"><a href="#星宇灾厄系列" class="headerlink" title="星宇灾厄系列"></a>星宇灾厄系列</h2><div style="display: flex;">
+高配刻印
+
+综合刻印
+
+<div style="display: flex;">
    <div style="flex: 0.2; text-align: center;">
     <p></p>
     <img src="" alt="">
@@ -2244,8 +2281,13 @@
     <p></p>
   </div>
 </div>
+## V8系列
 
-<h2 id="V8系列"><a href="#V8系列" class="headerlink" title="V8系列"></a>V8系列</h2><div style="display: flex;">
+平民高配刻印，目前存在于刻印之轮保底，可常驻获得。
+
+高体刻印
+
+<div style="display: flex;">
    <div style="flex: 0.2; text-align: center;">
     <p></p>
     <img src="" alt="">
@@ -2319,8 +2361,11 @@
     <p></p>
   </div>
 </div>
+## 专属刻印
 
-<h2 id="专属刻印-1"><a href="#专属刻印-1" class="headerlink" title="专属刻印"></a>专属刻印</h2><div style="display: flex;">
+购买倪克斯1688礼包时附赠。
+
+<div style="display: flex;">
    <div style="flex: 0.2; text-align: center;">
     <p></p>
     <img src="" alt="">
@@ -2695,7 +2740,7 @@
   </div>
 </div>
 
-<h2 id="专属刻印-2"><a href="#专属刻印-2" class="headerlink" title="专属刻印"></a>专属刻印</h2><div style="display: flex;">
+<h2 id="专属刻印-1"><a href="#专属刻印-1" class="headerlink" title="专属刻印"></a>专属刻印</h2><div style="display: flex;">
    <div style="flex: 0.2; text-align: center;">
     <p></p>
     <img src="" alt="">
@@ -2770,7 +2815,8 @@
   </div>
 </div>
 
-<h1 id="240（平民高配刻印）"><a href="#240（平民高配刻印）" class="headerlink" title="240（平民高配刻印）"></a>240（平民高配刻印）</h1><h2 id="精灵王誓约系列"><a href="#精灵王誓约系列" class="headerlink" title="精灵王誓约系列"></a>精灵王誓约系列</h2><div style="display: flex;">
+<h1 id="240（平民高配刻印）"><a href="#240（平民高配刻印）" class="headerlink" title="240（平民高配刻印）"></a>240（平民高配刻印）</h1><h2 id="精灵王誓约系列"><a href="#精灵王誓约系列" class="headerlink" title="精灵王誓约系列"></a>精灵王誓约系列</h2><p>稀有，请谨慎使用！</p>
+<div style="display: flex;">
    <div style="flex: 0.2; text-align: center;">
     <p></p>
     <img src="" alt="">
@@ -3002,7 +3048,7 @@
 </div>
 
 
-<h2 id="英雄之证系列"><a href="#英雄之证系列" class="headerlink" title="英雄之证系列"></a>英雄之证系列</h2><h2 id="巅峰圣战系列-2"><a href="#巅峰圣战系列-2" class="headerlink" title="巅峰圣战系列"></a>巅峰圣战系列</h2><h2 id="四君子系列-2"><a href="#四君子系列-2" class="headerlink" title="四君子系列"></a>四君子系列</h2><h2 id="专属刻印-3"><a href="#专属刻印-3" class="headerlink" title="专属刻印"></a>专属刻印</h2>]]></content>
+<h2 id="英雄之证系列"><a href="#英雄之证系列" class="headerlink" title="英雄之证系列"></a>英雄之证系列</h2><h2 id="巅峰圣战系列-2"><a href="#巅峰圣战系列-2" class="headerlink" title="巅峰圣战系列"></a>巅峰圣战系列</h2><h2 id="四君子系列-2"><a href="#四君子系列-2" class="headerlink" title="四君子系列"></a>四君子系列</h2><h2 id="专属刻印-2"><a href="#专属刻印-2" class="headerlink" title="专属刻印"></a>专属刻印</h2>]]></content>
       <categories>
         <category>知识技能</category>
       </categories>
