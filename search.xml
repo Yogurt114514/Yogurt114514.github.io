@@ -59,7 +59,7 @@
 <h2 id="完成！"><a href="#完成！" class="headerlink" title="完成！"></a><center>完成！</center></h2><p><img src="/img/pigai/16.png" alt="16"></p>
 ]]></content>
       <categories>
-        <category>知识技能</category>
+        <category>技巧花招</category>
       </categories>
       <tags>
         <tag>作业</tag>
@@ -67,6 +67,80 @@
         <tag>英语作文</tag>
         <tag>F12开发人员工具</tag>
         <tag>前端</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>七夕有感</title>
+    <url>/posts/77.html</url>
+    <content><![CDATA[<p>今天呢，是七夕。</p>
+<p><strong>七夕节</strong>，又称七巧节、七姐节、女儿节、乞巧节、七娘会、七夕祭 、牛公牛婆日、巧夕等，是中国民间的传统节日。经历史发展，七夕被赋予了“牛郎织女”的美丽爱情传说，使其成为了象征爱情的节日，从而被认为是中国最具浪漫色彩的传统节日，在当代更是产生了“中国情人节”的文化含义。</p>
+<p>这一天还没到来，我就早早听各式各样的朋友提起七夕要到了。</p>
+<p>心里很不是滋味。</p>
+<p>……</p>
+<p>因为我还是单身。</p>
+<p>不知道是不是与我过去的经历有关，我比曾经更加难受。</p>
+<p>现在又有了一个有我容身之地的群，我可以在群里放心地表达自己。</p>
+<p>……</p>
+<p>他们说，越是想要，越是得不到。</p>
+<p>他们说，抱着找对象的心态反而找不到。</p>
+<p>他们说，现在早就不流行纯情男大了，喜欢就去约。</p>
+<p>……</p>
+<p>我想着那个她，百感交集。</p>
+<p>我知道，</p>
+<p>我所向往的那种爱情，是急不来的</p>
+<p>顺 其 自 然 。</p>
+<p>就像不久前去乌镇旅游时看见的那句话一样</p>
+<p><img src="/img/words.jpg" alt="words"></p>
+<p><strong>从前的日色变得慢，车、马 邮件都慢，一生只够爱一个人。</strong></p>
+<p>我一直以来都是这样想着，这样憧憬着。</p>
+<p>哎，</p>
+<p>现实往往告诉我，本科期间的恋爱是很难走到最后的。</p>
+<p>是什么阻碍了他们没能到最后？</p>
+<p>是随便玩玩？</p>
+<p>是毕业异地？</p>
+<p>是缺乏勇气？</p>
+<p>是屈于现实？</p>
+<p>我不知道。</p>
+<p>但就我身边的例子也真真切切向我展示，两个真心相爱的人，站在彼此的未来，很自然的一起走向未来。</p>
+<p>这是爱情最美好的样子，正如每个爱情最开始的样子那般。</p>
+<p>曾有古人云：人生若只如初见。</p>
+<p>又有多少人能始终如一呢？</p>
+<p>我这样期盼着，期盼着未来的那个她。</p>
+<p>而现在的我呢？</p>
+<p>只能在这无能为力的年纪为了自己和未来的她能过上更好的生活</p>
+<p>与生活斗争了……</p>
+<p>希望那一天晚一点到来吧，别让我还一无是处的时候令她失望；</p>
+<p>希望那一天早一点到来吧，让我早点遇见那个所谓的命中注定。</p>
+<p>鄙见，见笑了。</p>
+]]></content>
+      <categories>
+        <category>动态感悟</category>
+      </categories>
+      <tags>
+        <tag>心理</tag>
+        <tag>七夕</tag>
+        <tag>爱情</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>控制台调成黑体（字体）步骤</title>
+    <url>/posts/Gothic.html</url>
+    <content><![CDATA[<h3 id="第一步：按下Win-R"><a href="#第一步：按下Win-R" class="headerlink" title="第一步：按下Win+R"></a>第一步：按下Win+R</h3><p><img src="/img/Gothic/win+r.png" alt="快捷键"></p>
+<h3 id="第二步：输入cmd然后点‘确定’"><a href="#第二步：输入cmd然后点‘确定’" class="headerlink" title="第二步：输入cmd然后点‘确定’"></a>第二步：输入cmd然后点‘确定’</h3><p><img src="/img/Gothic/cmd.png" alt="cmd"></p>
+<h3 id="第三步：点击下拉菜单"><a href="#第三步：点击下拉菜单" class="headerlink" title="第三步：点击下拉菜单"></a>第三步：点击下拉菜单</h3><p><img src="/img/Gothic/jiantou.png" alt="箭头"></p>
+<h3 id="第四步：点击设置"><a href="#第四步：点击设置" class="headerlink" title="第四步：点击设置"></a>第四步：点击设置</h3><p><img src="/img/Gothic/xiala.png" alt="下拉菜单"></p>
+<h3 id="第五步：点击默认值"><a href="#第五步：点击默认值" class="headerlink" title="第五步：点击默认值"></a>第五步：点击默认值</h3><p><img src="/img/Gothic/shezhi.png" alt="设置"></p>
+<h3 id="第六步：点击外观"><a href="#第六步：点击外观" class="headerlink" title="第六步：点击外观"></a>第六步：点击外观</h3><p><img src="/img/Gothic/default.png" alt="默认值"></p>
+<h3 id="第七步：把字体改成黑体即可"><a href="#第七步：把字体改成黑体即可" class="headerlink" title="第七步：把字体改成黑体即可"></a>第七步：把字体改成黑体即可</h3><p><img src="/img/Gothic/waiguan.png" alt="外观"></p>
+<h3 id="第八步：保存之后就可以关闭了"><a href="#第八步：保存之后就可以关闭了" class="headerlink" title="第八步：保存之后就可以关闭了"></a>第八步：保存之后就可以关闭了</h3><p><img src="/img/Gothic/save.png" alt="保存"></p>
+]]></content>
+      <categories>
+        <category>技术学习</category>
+      </categories>
+      <tags>
+        <tag>控制台</tag>
+        <tag>黑体</tag>
+        <tag>字体</tag>
       </tags>
   </entry>
   <entry>
@@ -140,7 +214,7 @@
 <p>（仅供技术交流与分享，严禁用于其他用途）</p>
 ]]></content>
       <categories>
-        <category>知识技能</category>
+        <category>生活记录</category>
       </categories>
       <tags>
         <tag>画画</tag>
@@ -165,65 +239,12 @@
 <p>……</p>
 ]]></content>
       <categories>
-        <category>生活分享</category>
+        <category>生活记录</category>
       </categories>
       <tags>
         <tag>心理</tag>
         <tag>梦</tag>
         <tag>记录</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>七夕有感</title>
-    <url>/posts/77.html</url>
-    <content><![CDATA[<p>今天呢，是七夕。</p>
-<p><strong>七夕节</strong>，又称七巧节、七姐节、女儿节、乞巧节、七娘会、七夕祭 、牛公牛婆日、巧夕等，是中国民间的传统节日。经历史发展，七夕被赋予了“牛郎织女”的美丽爱情传说，使其成为了象征爱情的节日，从而被认为是中国最具浪漫色彩的传统节日，在当代更是产生了“中国情人节”的文化含义。</p>
-<p>这一天还没到来，我就早早听各式各样的朋友提起七夕要到了。</p>
-<p>心里很不是滋味。</p>
-<p>……</p>
-<p>因为我还是单身。</p>
-<p>不知道是不是与我过去的经历有关，我比曾经更加难受。</p>
-<p>现在又有了一个有我容身之地的群，我可以在群里放心地表达自己。</p>
-<p>……</p>
-<p>他们说，越是想要，越是得不到。</p>
-<p>他们说，抱着找对象的心态反而找不到。</p>
-<p>他们说，现在早就不流行纯情男大了，喜欢就去约。</p>
-<p>……</p>
-<p>我想着那个她，百感交集。</p>
-<p>我知道，</p>
-<p>我所向往的那种爱情，是急不来的</p>
-<p>顺 其 自 然 。</p>
-<p>就像不久前去乌镇旅游时看见的那句话一样</p>
-<p><img src="/img/words.jpg" alt="words"></p>
-<p><strong>从前的日色变得慢，车、马 邮件都慢，一生只够爱一个人。</strong></p>
-<p>我一直以来都是这样想着，这样憧憬着。</p>
-<p>哎，</p>
-<p>现实往往告诉我，本科期间的恋爱是很难走到最后的。</p>
-<p>是什么阻碍了他们没能到最后？</p>
-<p>是随便玩玩？</p>
-<p>是毕业异地？</p>
-<p>是缺乏勇气？</p>
-<p>是屈于现实？</p>
-<p>我不知道。</p>
-<p>但就我身边的例子也真真切切向我展示，两个真心相爱的人，站在彼此的未来，很自然的一起走向未来。</p>
-<p>这是爱情最美好的样子，正如每个爱情最开始的样子那般。</p>
-<p>曾有古人云：人生若只如初见。</p>
-<p>又有多少人能始终如一呢？</p>
-<p>我这样期盼着，期盼着未来的那个她。</p>
-<p>而现在的我呢？</p>
-<p>只能在这无能为力的年纪为了自己和未来的她能过上更好的生活</p>
-<p>与生活斗争了……</p>
-<p>希望那一天晚一点到来吧，别让我还一无是处的时候令她失望；</p>
-<p>希望那一天早一点到来吧，让我早点遇见那个所谓的命中注定。</p>
-<p>鄙见，见笑了。</p>
-]]></content>
-      <categories>
-        <category>生活分享</category>
-      </categories>
-      <tags>
-        <tag>心理</tag>
-        <tag>七夕</tag>
-        <tag>爱情</tag>
       </tags>
   </entry>
   <entry>
@@ -262,13 +283,183 @@
 <h2 id="2023-06-22"><a href="#2023-06-22" class="headerlink" title="2023-06-22"></a>2023-06-22</h2><h3 id="小黄人"><a href="#小黄人" class="headerlink" title="小黄人"></a>小黄人</h3><p><img src="/img/painting/017.jpg" alt="017"></p>
 ]]></content>
       <categories>
-        <category>知识技能</category>
+        <category>生活记录</category>
       </categories>
       <tags>
         <tag>画画</tag>
         <tag>马克笔</tag>
         <tag>彩铅</tag>
         <tag>手绘</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>自制游戏（小组合作.作业）</title>
+    <url>/posts/game_Journey-to-the-West.html</url>
+    <content><![CDATA[<p>MUD小游戏——重生之西游记</p>
+<h2 id="开始界面"><a href="#开始界面" class="headerlink" title="开始界面"></a>开始界面</h2><p><img src="/img/Journey-to-the-West/1.png" alt="开始界面"></p>
+<h2 id="故事背景"><a href="#故事背景" class="headerlink" title="故事背景"></a>故事背景</h2><p><img src="/img/Journey-to-the-West/2.png" alt="故事背景"></p>
+<h2 id="角色选择"><a href="#角色选择" class="headerlink" title="角色选择"></a>角色选择</h2><p><img src="/img/Journey-to-the-West/3.png" alt="角色选择"></p>
+<div style="display: flex;">
+  <div style="flex: 1; text-align: center;">
+    <p>孙悟空</p>
+    <img src="/img/Journey-to-the-West/4.png" alt="">
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <p>猪八戒</p>
+    <img src="/img/Journey-to-the-West/5.png" alt="">
+  </div>
+</div>
+
+<div style="display: flex;">
+  <div style="flex: 1; text-align: center;">
+    <p>沙悟净</p>
+    <img src="/img/Journey-to-the-West/6.png" alt="">
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <p>唐三藏</p>
+    <img src="/img/Journey-to-the-West/7.png" alt="">
+  </div>
+</div>
+
+<h2 id="地图"><a href="#地图" class="headerlink" title="地图"></a>地图</h2><p><img src="/img/Journey-to-the-West/8.png" alt="地图"></p>
+<h2 id="对战系统"><a href="#对战系统" class="headerlink" title="对战系统"></a>对战系统</h2><p><img src="/img/Journey-to-the-West/9.png" alt="对战系统"></p>
+<h2 id="道具系统"><a href="#道具系统" class="headerlink" title="道具系统"></a>道具系统</h2><p><img src="/img/Journey-to-the-West/10.png" alt="道具系统"></p>
+<h2 id="对话系统"><a href="#对话系统" class="headerlink" title="对话系统"></a>对话系统</h2><p><img src="/img/Journey-to-the-West/11.png" alt="对话系统"></p>
+<h2 id="商店系统"><a href="#商店系统" class="headerlink" title="商店系统"></a>商店系统</h2><p><img src="/img/Journey-to-the-West/12.png" alt="商店系统"></p>
+<h2 id="❤结语"><a href="#❤结语" class="headerlink" title="❤结语"></a>❤结语</h2><p>这是我们小组所提交的最终版本，总体参照老师发布的“<a href="/file/金庸群侠传console_rpg.rar">金庸群侠传</a>”制作。</p>
+<p>尽管是最终提交版本，但是仍然存在许多未开发完善的功能以及部分bug。</p>
+<p>所以，虽然该课题已结课，我仍然想继续开发完善此游戏（当然这次只有我一个人了，没有组员了）</p>
+<p>后续将在这里继续更新该游戏版本↓</p>
+<p><a href="https://fourfire.cc/posts/Journey-to-the-West.html">重生之西游记（下载地址 及 更新日志）</a></p>
+<h2 id="源代码"><a href="#源代码" class="headerlink" title="*源代码"></a>*源代码</h2><h3 id="教师发布的参考游戏："><a href="#教师发布的参考游戏：" class="headerlink" title="教师发布的参考游戏："></a>教师发布的参考游戏：</h3><p><a href="/file/金庸群侠传console_rpg.rar">金庸群侠传console_rpg.rar</a></p>
+<h3 id="游戏开发源代码："><a href="#游戏开发源代码：" class="headerlink" title="游戏开发源代码："></a>游戏开发源代码：</h3><p><a href="/file/重生之西游记.rar">重生之西游记.rar</a></p>
+<h3 id="直接可运行的游戏应用程序（直接游玩请下载这个）："><a href="#直接可运行的游戏应用程序（直接游玩请下载这个）：" class="headerlink" title="直接可运行的游戏应用程序（直接游玩请下载这个）："></a>直接可运行的游戏应用程序（直接游玩请下载这个）：</h3><p><a href="/file/重生之西游记（2.3）.exe">重生之西游记（2.3）.exe</a></p>
+<p>！注意事项：玩之前请先将‘控制台 字体’调成<strong>黑体</strong>，体验更佳！不会的点<a href="https://fourfire.cc/posts/Gothic.html">这里</a>。</p>
+]]></content>
+      <categories>
+        <category>游戏相关</category>
+      </categories>
+      <tags>
+        <tag>作业</tag>
+        <tag>游戏</tag>
+        <tag>重生之西游记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>赛尔号精灵配置规划</title>
+    <url>/posts/seer_configuration.html</url>
+    <content><![CDATA[<p>以下将是我对精灵配置的规划，仅供各位参考！</p>
+<p>面板选择笑傲套装，魔界之风目镜，耀世者称号。（主打一个均衡数值）</p>
+<h1 id="圣灵谱尼5000"><a href="#圣灵谱尼5000" class="headerlink" title="圣灵谱尼5000"></a>圣灵谱尼5000</h1><div style="display: flex;">
+  <div style="flex: 1; text-align: center;">
+    <p>现在的配置</p>
+    <img src="/img/seer/configuration/5000-1.jpg" alt="">
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <p>以后的规划</p>
+    <img src="/img/seer/configuration/5000-2.jpg" alt="">
+  </div>
+</div>
+
+
+<h1 id="赤胆游龙·赵云4421"><a href="#赤胆游龙·赵云4421" class="headerlink" title="赤胆游龙·赵云4421"></a>赤胆游龙·赵云4421</h1><div style="display: flex;">
+  <div style="flex: 1; text-align: center;">
+    <p>现在的配置</p>
+    <img src="/img/seer/configuration/4421-1.jpg" alt="">
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <p>以后的规划</p>
+    <img src="/img/seer/configuration/4421-2.jpg" alt="">
+  </div>
+</div>
+
+
+<h1 id="弑序神罗4169"><a href="#弑序神罗4169" class="headerlink" title="弑序神罗4169"></a>弑序神罗4169</h1><div style="display: flex;">
+  <div style="flex: 1; text-align: center;">
+    <p>现在的配置</p>
+    <img src="/img/seer/configuration/4169-1.jpg" alt="">
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <p>以后的规划</p>
+    <img src="/img/seer/configuration/4169-2.jpg" alt="">
+  </div>
+</div>
+
+
+<h1 id="混元天尊3788"><a href="#混元天尊3788" class="headerlink" title="混元天尊3788"></a>混元天尊3788</h1><div style="display: flex;">
+  <div style="flex: 1; text-align: center;">
+    <p>现在的配置</p>
+    <img src="/img/seer/configuration/3788-1.jpg" alt="">
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <p>以后的规划</p>
+    <img src="/img/seer/configuration/3788-2.jpg" alt="">
+  </div>
+</div>
+
+
+<h1 id="天启帝君3550"><a href="#天启帝君3550" class="headerlink" title="天启帝君3550"></a>天启帝君3550</h1><div style="display: flex;">
+  <div style="flex: 1; text-align: center;">
+    <p>现在的配置</p>
+    <img src="/img/seer/configuration/3550-1.jpg" alt="">
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <p>以后的规划</p>
+    <img src="/img/seer/configuration/3550-2.jpg" alt="">
+  </div>
+</div>
+
+
+<h1 id="混沌魔君索伦森3414"><a href="#混沌魔君索伦森3414" class="headerlink" title="混沌魔君索伦森3414"></a>混沌魔君索伦森3414</h1><div style="display: flex;">
+  <div style="flex: 1; text-align: center;">
+    <p>现在的配置</p>
+    <img src="/img/seer/configuration/3414-1.jpg" alt="">
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <p>以后的规划</p>
+    <img src="/img/seer/configuration/3414-2.jpg" alt="">
+  </div>
+</div>
+
+
+<h1 id="圣光灵神3311"><a href="#圣光灵神3311" class="headerlink" title="圣光灵神3311"></a>圣光灵神3311</h1><div style="display: flex;">
+  <div style="flex: 1; text-align: center;">
+    <p>现在的配置</p>
+    <img src="/img/seer/configuration/3311-1.jpg" alt="">
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <p>以后的规划</p>
+    <img src="/img/seer/configuration/3311-2.jpg" alt="">
+  </div>
+</div>
+]]></content>
+      <categories>
+        <category>游戏相关</category>
+      </categories>
+      <tags>
+        <tag>游戏</tag>
+        <tag>赛尔号</tag>
+        <tag>精灵配置</tag>
+        <tag>规划</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>重生之西游记（下载地址 及 更新日志）</title>
+    <url>/posts/Journey-to-the-West.html</url>
+    <content><![CDATA[<h2 id="最新版本"><a href="#最新版本" class="headerlink" title="最新版本"></a>最新版本</h2><center>—————————————————————————————————————</center>
+
+<h3 id="2-3"><a href="#2-3" class="headerlink" title="# 2.3"></a># 2.3</h3><p><a href="/file/重生之西游记（2.3）.exe">重生之西游记（2.3）.exe</a></p>
+<h4 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h4><p>●新增了对战系统中的boss形象（目前只是火柴人）</p>
+<p>●增加了地图样式切换，现在有 数字选择/WASD选择 两种移动方式</p>
+<h2 id="历史版本"><a href="#历史版本" class="headerlink" title="历史版本"></a>历史版本</h2><center>—————————————————————————————————————</center>
+
+<h3 id="1-0-2-2无保留文件"><a href="#1-0-2-2无保留文件" class="headerlink" title="1.0-2.2无保留文件"></a>1.0-2.2无保留文件</h3>]]></content>
+      <categories>
+        <category>游戏相关</category>
+      </categories>
+      <tags>
+        <tag>游戏</tag>
+        <tag>重生之西游记</tag>
       </tags>
   </entry>
   <entry>
@@ -279,7 +470,7 @@
 <h2 id="2023-05-06-17-57-Sat"><a href="#2023-05-06-17-57-Sat" class="headerlink" title="2023-05-06 17:57 Sat"></a>2023-05-06 17:57 Sat</h2><p><img src="/img/run/3.jpg" alt="3"></p>
 ]]></content>
       <categories>
-        <category>生活分享</category>
+        <category>动态分享</category>
       </categories>
       <tags>
         <tag>记录</tag>
@@ -3005,110 +3196,12 @@
 
 <h2 id="英雄之证系列"><a href="#英雄之证系列" class="headerlink" title="英雄之证系列"></a>英雄之证系列</h2><h2 id="巅峰圣战系列-2"><a href="#巅峰圣战系列-2" class="headerlink" title="巅峰圣战系列"></a>巅峰圣战系列</h2><h2 id="四君子系列-2"><a href="#四君子系列-2" class="headerlink" title="四君子系列"></a>四君子系列</h2><h2 id="专属刻印-2"><a href="#专属刻印-2" class="headerlink" title="专属刻印"></a>专属刻印</h2>]]></content>
       <categories>
-        <category>知识技能</category>
+        <category>游戏相关</category>
       </categories>
       <tags>
         <tag>游戏</tag>
         <tag>赛尔号</tag>
         <tag>刻印</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>赛尔号精灵配置规划</title>
-    <url>/posts/seer_configuration.html</url>
-    <content><![CDATA[<p>以下将是我对精灵配置的规划，仅供各位参考！</p>
-<p>面板选择笑傲套装，魔界之风目镜，耀世者称号。（主打一个均衡数值）</p>
-<h1 id="圣灵谱尼5000"><a href="#圣灵谱尼5000" class="headerlink" title="圣灵谱尼5000"></a>圣灵谱尼5000</h1><div style="display: flex;">
-  <div style="flex: 1; text-align: center;">
-    <p>现在的配置</p>
-    <img src="/img/seer/configuration/5000-1.jpg" alt="">
-  </div>
-  <div style="flex: 1; text-align: center;">
-    <p>以后的规划</p>
-    <img src="/img/seer/configuration/5000-2.jpg" alt="">
-  </div>
-</div>
-
-
-<h1 id="赤胆游龙·赵云4421"><a href="#赤胆游龙·赵云4421" class="headerlink" title="赤胆游龙·赵云4421"></a>赤胆游龙·赵云4421</h1><div style="display: flex;">
-  <div style="flex: 1; text-align: center;">
-    <p>现在的配置</p>
-    <img src="/img/seer/configuration/4421-1.jpg" alt="">
-  </div>
-  <div style="flex: 1; text-align: center;">
-    <p>以后的规划</p>
-    <img src="/img/seer/configuration/4421-2.jpg" alt="">
-  </div>
-</div>
-
-
-<h1 id="弑序神罗4169"><a href="#弑序神罗4169" class="headerlink" title="弑序神罗4169"></a>弑序神罗4169</h1><div style="display: flex;">
-  <div style="flex: 1; text-align: center;">
-    <p>现在的配置</p>
-    <img src="/img/seer/configuration/4169-1.jpg" alt="">
-  </div>
-  <div style="flex: 1; text-align: center;">
-    <p>以后的规划</p>
-    <img src="/img/seer/configuration/4169-2.jpg" alt="">
-  </div>
-</div>
-
-
-<h1 id="混元天尊3788"><a href="#混元天尊3788" class="headerlink" title="混元天尊3788"></a>混元天尊3788</h1><div style="display: flex;">
-  <div style="flex: 1; text-align: center;">
-    <p>现在的配置</p>
-    <img src="/img/seer/configuration/3788-1.jpg" alt="">
-  </div>
-  <div style="flex: 1; text-align: center;">
-    <p>以后的规划</p>
-    <img src="/img/seer/configuration/3788-2.jpg" alt="">
-  </div>
-</div>
-
-
-<h1 id="天启帝君3550"><a href="#天启帝君3550" class="headerlink" title="天启帝君3550"></a>天启帝君3550</h1><div style="display: flex;">
-  <div style="flex: 1; text-align: center;">
-    <p>现在的配置</p>
-    <img src="/img/seer/configuration/3550-1.jpg" alt="">
-  </div>
-  <div style="flex: 1; text-align: center;">
-    <p>以后的规划</p>
-    <img src="/img/seer/configuration/3550-2.jpg" alt="">
-  </div>
-</div>
-
-
-<h1 id="混沌魔君索伦森3414"><a href="#混沌魔君索伦森3414" class="headerlink" title="混沌魔君索伦森3414"></a>混沌魔君索伦森3414</h1><div style="display: flex;">
-  <div style="flex: 1; text-align: center;">
-    <p>现在的配置</p>
-    <img src="/img/seer/configuration/3414-1.jpg" alt="">
-  </div>
-  <div style="flex: 1; text-align: center;">
-    <p>以后的规划</p>
-    <img src="/img/seer/configuration/3414-2.jpg" alt="">
-  </div>
-</div>
-
-
-<h1 id="圣光灵神3311"><a href="#圣光灵神3311" class="headerlink" title="圣光灵神3311"></a>圣光灵神3311</h1><div style="display: flex;">
-  <div style="flex: 1; text-align: center;">
-    <p>现在的配置</p>
-    <img src="/img/seer/configuration/3311-1.jpg" alt="">
-  </div>
-  <div style="flex: 1; text-align: center;">
-    <p>以后的规划</p>
-    <img src="/img/seer/configuration/3311-2.jpg" alt="">
-  </div>
-</div>
-]]></content>
-      <categories>
-        <category>知识技能</category>
-      </categories>
-      <tags>
-        <tag>游戏</tag>
-        <tag>赛尔号</tag>
-        <tag>精灵配置</tag>
-        <tag>规划</tag>
       </tags>
   </entry>
 </search>
