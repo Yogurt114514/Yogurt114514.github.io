@@ -3778,7 +3778,7 @@ h1.page-title + .tag-cloud-list {
 #nav .site-page:not(.child):hover:after {
   width: 100%;
 }
-.loading-bg {
+.genshin-impact {
   content: " ";
   position: fixed;
   inset: 0;
@@ -3787,25 +3787,52 @@ h1.page-title + .tag-cloud-list {
   background-repeat: no-repeat;
   background-position: center;
   background-size: 30%;
-  -webkit-animation: fadeOut 4s;
-  -moz-animation: fadeOut 4s;
-  -o-animation: fadeOut 4s;
-  -ms-animation: fadeOut 4s;
-  animation: fadeOut 4s;
+  -webkit-animation: fadeOut-gi 4s;
+  -moz-animation: fadeOut-gi 4s;
+  -o-animation: fadeOut-gi 4s;
+  -ms-animation: fadeOut-gi 4s;
+  animation: fadeOut-gi 4s;
   -webkit-animation-fill-mode: both;
   -moz-animation-fill-mode: both;
   -o-animation-fill-mode: both;
   -ms-animation-fill-mode: both;
   animation-fill-mode: both;
-  -webkit-transition: fadeOut 4s;
-  -webkit-transition: fadeOut 4s;
-  -moz-transition: fadeOut 4s;
-  -o-transition: fadeOut 4s;
-  -ms-transition: fadeOut 4s;
-  transition: fadeOut 4s;
+  -webkit-transition: fadeOut-gi 4s;
+  -webkit-transition: fadeOut-gi 4s;
+  -moz-transition: fadeOut-gi 4s;
+  -o-transition: fadeOut-gi 4s;
+  -ms-transition: fadeOut-gi 4s;
+  transition: fadeOut-gi 4s;
   pointer-events: none;
 }
-@-moz-keyframes fadeOut {
+.star-rail {
+  content: " ";
+  position: fixed;
+  inset: 0;
+  background-color: #000;
+  z-index: 999;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 60%;
+  -webkit-animation: fadeOut-sr 4s;
+  -moz-animation: fadeOut-sr 4s;
+  -o-animation: fadeOut-sr 4s;
+  -ms-animation: fadeOut-sr 4s;
+  animation: fadeOut-sr 4s;
+  -webkit-animation-fill-mode: both;
+  -moz-animation-fill-mode: both;
+  -o-animation-fill-mode: both;
+  -ms-animation-fill-mode: both;
+  animation-fill-mode: both;
+  -webkit-transition: fadeOut-sr 4s;
+  -webkit-transition: fadeOut-sr 4s;
+  -moz-transition: fadeOut-sr 4s;
+  -o-transition: fadeOut-sr 4s;
+  -ms-transition: fadeOut-sr 4s;
+  transition: fadeOut-sr 4s;
+  pointer-events: none;
+}
+@-moz-keyframes fadeOut-gi {
   0% {
     opacity: 1;
     -ms-filter: none;
@@ -3815,22 +3842,22 @@ h1.page-title + .tag-cloud-list {
     opacity: 1;
     -ms-filter: none;
     filter: none;
-    background-image: url("https://xlog.app/cdn-cgi/image/width=750,quality=75,format=auto,onerror=redirect/https://ipfs.xlog.app/ipfs/bafkreidmbrmalshvlprtzt7qdbk4xtolpvpstvunjogl6o373oplmhcrga");
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/3/34/Genshin_Chinese_logo.svg");
   }
   90% {
     opacity: 0;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
     filter: alpha(opacity=0);
-    background-image: url("https://xlog.app/cdn-cgi/image/width=750,quality=75,format=auto,onerror=redirect/https://ipfs.xlog.app/ipfs/bafkreidmbrmalshvlprtzt7qdbk4xtolpvpstvunjogl6o373oplmhcrga");
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/3/34/Genshin_Chinese_logo.svg");
   }
   100% {
     opacity: 0;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
     filter: alpha(opacity=0);
-    background-image: url("https://xlog.app/cdn-cgi/image/width=750,quality=75,format=auto,onerror=redirect/https://ipfs.xlog.app/ipfs/bafkreidmbrmalshvlprtzt7qdbk4xtolpvpstvunjogl6o373oplmhcrga");
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/3/34/Genshin_Chinese_logo.svg");
   }
 }
-@-webkit-keyframes fadeOut {
+@-webkit-keyframes fadeOut-gi {
   0% {
     opacity: 1;
     -ms-filter: none;
@@ -3840,22 +3867,22 @@ h1.page-title + .tag-cloud-list {
     opacity: 1;
     -ms-filter: none;
     filter: none;
-    background-image: url("https://xlog.app/cdn-cgi/image/width=750,quality=75,format=auto,onerror=redirect/https://ipfs.xlog.app/ipfs/bafkreidmbrmalshvlprtzt7qdbk4xtolpvpstvunjogl6o373oplmhcrga");
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/3/34/Genshin_Chinese_logo.svg");
   }
   90% {
     opacity: 0;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
     filter: alpha(opacity=0);
-    background-image: url("https://xlog.app/cdn-cgi/image/width=750,quality=75,format=auto,onerror=redirect/https://ipfs.xlog.app/ipfs/bafkreidmbrmalshvlprtzt7qdbk4xtolpvpstvunjogl6o373oplmhcrga");
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/3/34/Genshin_Chinese_logo.svg");
   }
   100% {
     opacity: 0;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
     filter: alpha(opacity=0);
-    background-image: url("https://xlog.app/cdn-cgi/image/width=750,quality=75,format=auto,onerror=redirect/https://ipfs.xlog.app/ipfs/bafkreidmbrmalshvlprtzt7qdbk4xtolpvpstvunjogl6o373oplmhcrga");
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/3/34/Genshin_Chinese_logo.svg");
   }
 }
-@-o-keyframes fadeOut {
+@-o-keyframes fadeOut-gi {
   0% {
     opacity: 1;
     -ms-filter: none;
@@ -3865,22 +3892,22 @@ h1.page-title + .tag-cloud-list {
     opacity: 1;
     -ms-filter: none;
     filter: none;
-    background-image: url("https://xlog.app/cdn-cgi/image/width=750,quality=75,format=auto,onerror=redirect/https://ipfs.xlog.app/ipfs/bafkreidmbrmalshvlprtzt7qdbk4xtolpvpstvunjogl6o373oplmhcrga");
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/3/34/Genshin_Chinese_logo.svg");
   }
   90% {
     opacity: 0;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
     filter: alpha(opacity=0);
-    background-image: url("https://xlog.app/cdn-cgi/image/width=750,quality=75,format=auto,onerror=redirect/https://ipfs.xlog.app/ipfs/bafkreidmbrmalshvlprtzt7qdbk4xtolpvpstvunjogl6o373oplmhcrga");
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/3/34/Genshin_Chinese_logo.svg");
   }
   100% {
     opacity: 0;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
     filter: alpha(opacity=0);
-    background-image: url("https://xlog.app/cdn-cgi/image/width=750,quality=75,format=auto,onerror=redirect/https://ipfs.xlog.app/ipfs/bafkreidmbrmalshvlprtzt7qdbk4xtolpvpstvunjogl6o373oplmhcrga");
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/3/34/Genshin_Chinese_logo.svg");
   }
 }
-@keyframes fadeOut {
+@keyframes fadeOut-gi {
   0% {
     opacity: 1;
     -ms-filter: none;
@@ -3890,19 +3917,119 @@ h1.page-title + .tag-cloud-list {
     opacity: 1;
     -ms-filter: none;
     filter: none;
-    background-image: url("https://xlog.app/cdn-cgi/image/width=750,quality=75,format=auto,onerror=redirect/https://ipfs.xlog.app/ipfs/bafkreidmbrmalshvlprtzt7qdbk4xtolpvpstvunjogl6o373oplmhcrga");
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/3/34/Genshin_Chinese_logo.svg");
   }
   90% {
     opacity: 0;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
     filter: alpha(opacity=0);
-    background-image: url("https://xlog.app/cdn-cgi/image/width=750,quality=75,format=auto,onerror=redirect/https://ipfs.xlog.app/ipfs/bafkreidmbrmalshvlprtzt7qdbk4xtolpvpstvunjogl6o373oplmhcrga");
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/3/34/Genshin_Chinese_logo.svg");
   }
   100% {
     opacity: 0;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
     filter: alpha(opacity=0);
-    background-image: url("https://xlog.app/cdn-cgi/image/width=750,quality=75,format=auto,onerror=redirect/https://ipfs.xlog.app/ipfs/bafkreidmbrmalshvlprtzt7qdbk4xtolpvpstvunjogl6o373oplmhcrga");
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/3/34/Genshin_Chinese_logo.svg");
+  }
+}
+@-moz-keyframes fadeOut-sr {
+  0% {
+    opacity: 1;
+    -ms-filter: none;
+    filter: none;
+  }
+  75% {
+    opacity: 1;
+    -ms-filter: none;
+    filter: none;
+    background-image: url("/file/StarRail.jpg");
+  }
+  90% {
+    opacity: 0;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    filter: alpha(opacity=0);
+    background-image: url("/file/StarRail.jpg");
+  }
+  100% {
+    opacity: 0;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    filter: alpha(opacity=0);
+    background-image: url("/file/StarRail.jpg");
+  }
+}
+@-webkit-keyframes fadeOut-sr {
+  0% {
+    opacity: 1;
+    -ms-filter: none;
+    filter: none;
+  }
+  75% {
+    opacity: 1;
+    -ms-filter: none;
+    filter: none;
+    background-image: url("/file/StarRail.jpg");
+  }
+  90% {
+    opacity: 0;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    filter: alpha(opacity=0);
+    background-image: url("/file/StarRail.jpg");
+  }
+  100% {
+    opacity: 0;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    filter: alpha(opacity=0);
+    background-image: url("/file/StarRail.jpg");
+  }
+}
+@-o-keyframes fadeOut-sr {
+  0% {
+    opacity: 1;
+    -ms-filter: none;
+    filter: none;
+  }
+  75% {
+    opacity: 1;
+    -ms-filter: none;
+    filter: none;
+    background-image: url("/file/StarRail.jpg");
+  }
+  90% {
+    opacity: 0;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    filter: alpha(opacity=0);
+    background-image: url("/file/StarRail.jpg");
+  }
+  100% {
+    opacity: 0;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    filter: alpha(opacity=0);
+    background-image: url("/file/StarRail.jpg");
+  }
+}
+@keyframes fadeOut-sr {
+  0% {
+    opacity: 1;
+    -ms-filter: none;
+    filter: none;
+  }
+  75% {
+    opacity: 1;
+    -ms-filter: none;
+    filter: none;
+    background-image: url("/file/StarRail.jpg");
+  }
+  90% {
+    opacity: 0;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    filter: alpha(opacity=0);
+    background-image: url("/file/StarRail.jpg");
+  }
+  100% {
+    opacity: 0;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    filter: alpha(opacity=0);
+    background-image: url("/file/StarRail.jpg");
   }
 }
 #pagination .pagination {
