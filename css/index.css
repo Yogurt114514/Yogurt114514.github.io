@@ -3848,13 +3848,13 @@ h1.page-title + .tag-cloud-list {
     opacity: 0;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
     filter: alpha(opacity=0);
-    background-image: url("https://upload.wikimedia.org/wikipedia/commons/3/34/Genshin_Chinese_logo.svg");
+    background-image: url("/file/Genshin_Chinese_logo.svg");
   }
   100% {
     opacity: 0;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
     filter: alpha(opacity=0);
-    background-image: url("https://upload.wikimedia.org/wikipedia/commons/3/34/Genshin_Chinese_logo.svg");
+    background-image: url("/file/Genshin_Chinese_logo.svg");
   }
 }
 @-webkit-keyframes fadeOut-gi {
@@ -3873,13 +3873,13 @@ h1.page-title + .tag-cloud-list {
     opacity: 0;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
     filter: alpha(opacity=0);
-    background-image: url("https://upload.wikimedia.org/wikipedia/commons/3/34/Genshin_Chinese_logo.svg");
+    background-image: url("/file/Genshin_Chinese_logo.svg");
   }
   100% {
     opacity: 0;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
     filter: alpha(opacity=0);
-    background-image: url("https://upload.wikimedia.org/wikipedia/commons/3/34/Genshin_Chinese_logo.svg");
+    background-image: url("/file/Genshin_Chinese_logo.svg");
   }
 }
 @-o-keyframes fadeOut-gi {
@@ -3898,13 +3898,13 @@ h1.page-title + .tag-cloud-list {
     opacity: 0;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
     filter: alpha(opacity=0);
-    background-image: url("https://upload.wikimedia.org/wikipedia/commons/3/34/Genshin_Chinese_logo.svg");
+    background-image: url("/file/Genshin_Chinese_logo.svg");
   }
   100% {
     opacity: 0;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
     filter: alpha(opacity=0);
-    background-image: url("https://upload.wikimedia.org/wikipedia/commons/3/34/Genshin_Chinese_logo.svg");
+    background-image: url("/file/Genshin_Chinese_logo.svg");
   }
 }
 @keyframes fadeOut-gi {
@@ -3923,13 +3923,13 @@ h1.page-title + .tag-cloud-list {
     opacity: 0;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
     filter: alpha(opacity=0);
-    background-image: url("https://upload.wikimedia.org/wikipedia/commons/3/34/Genshin_Chinese_logo.svg");
+    background-image: url("/file/Genshin_Chinese_logo.svg");
   }
   100% {
     opacity: 0;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
     filter: alpha(opacity=0);
-    background-image: url("https://upload.wikimedia.org/wikipedia/commons/3/34/Genshin_Chinese_logo.svg");
+    background-image: url("/file/Genshin_Chinese_logo.svg");
   }
 }
 @-moz-keyframes fadeOut-sr {
