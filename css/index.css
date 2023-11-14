@@ -3778,7 +3778,7 @@ h1.page-title + .tag-cloud-list {
 #nav .site-page:not(.child):hover:after {
   width: 100%;
 }
-.genshin-impact {
+[data-theme='light'] .genshin-impact {
   content: " ";
   position: fixed;
   inset: 0;
@@ -3805,7 +3805,7 @@ h1.page-title + .tag-cloud-list {
   transition: fadeOut-gi 4s;
   pointer-events: none;
 }
-.star-rail {
+[data-theme='dark'] .star-rail {
   content: " ";
   position: fixed;
   inset: 0;

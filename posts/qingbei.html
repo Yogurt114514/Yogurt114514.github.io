@@ -154,8 +154,12 @@
       }
       const t = saveToLocal.get('theme')
     
-          if (t === 'dark') activateDarkMode()
+          const now = new Date()
+          const hour = now.getHours()
+          const isNight = hour <= 6 || hour >= 18
+          if (t === undefined) isNight ? activateDarkMode() : activateLightMode()
           else if (t === 'light') activateLightMode()
+          else activateDarkMode()
         
     const detectApple = () => {
       if(/iPad|iPhone|iPod|Macintosh/.test(navigator.userAgent)){
@@ -163,7 +167,7 @@
       }
     }
     detectApple()
-    })(window)</script><link rel="stylesheet" href="/css/daohanglan-juzhong.css"><link rel="stylesheet" href="/css/music-player.css"><link rel="stylesheet" class+"element" href="/css/mouse.css"><link rel="stylesheet" href="/css/font.css"><link rel="stylesheet" href="/css/latest.css"><link rel="stylesheet" href="/css/reward-tag.css"><link rel="stylesheet" href="/css/license.css"><script src="https://npm.elemecdn.com/echarts@4.9.0/dist/echarts.min.js"></script><!-- hexo injector head_end start --><link rel="stylesheet" href="https://npm.elemecdn.com/hexo-butterfly-tag-plugins-plus@latest/lib/assets/font-awesome-animation.min.css" media="defer" onload="this.media='all'"><link rel="stylesheet" href="https://npm.elemecdn.com/hexo-butterfly-tag-plugins-plus@latest/lib/tag_plugins.css" media="defer" onload="this.media='all'"><script src="https://npm.elemecdn.com/hexo-butterfly-tag-plugins-plus@latest/lib/assets/carousel-touch.js"></script><!-- hexo injector head_end end --><meta name="generator" content="Hexo 6.3.0"></head><body><div id="loading-box"><div class="genshin-impact"></div></div><script>const preloader = {
+    })(window)</script><link rel="stylesheet" href="/css/daohanglan-juzhong.css"><link rel="stylesheet" href="/css/music-player.css"><link rel="stylesheet" class+"element" href="/css/mouse.css"><link rel="stylesheet" href="/css/font.css"><link rel="stylesheet" href="/css/latest.css"><link rel="stylesheet" href="/css/reward-tag.css"><link rel="stylesheet" href="/css/license.css"><script src="https://npm.elemecdn.com/echarts@4.9.0/dist/echarts.min.js"></script><!-- hexo injector head_end start --><link rel="stylesheet" href="https://npm.elemecdn.com/hexo-butterfly-tag-plugins-plus@latest/lib/assets/font-awesome-animation.min.css" media="defer" onload="this.media='all'"><link rel="stylesheet" href="https://npm.elemecdn.com/hexo-butterfly-tag-plugins-plus@latest/lib/tag_plugins.css" media="defer" onload="this.media='all'"><script src="https://npm.elemecdn.com/hexo-butterfly-tag-plugins-plus@latest/lib/assets/carousel-touch.js"></script><!-- hexo injector head_end end --><meta name="generator" content="Hexo 6.3.0"></head><body><div id="loading-box"><div class="genshin-impact"></div><div class="star-rail"></div></div><script>const preloader = {
   endLoading: () => {
     document.body.style.overflow = '';
     document.getElementById('loading-box').classList.add("loaded")
