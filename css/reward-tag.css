@@ -1,0 +1,99 @@
+#post .tag_share {
+    display: flex;
+    align-items: center;
+    position: relative;
+    margin-top: 40px
+}
+#post .post-reward {
+    margin-top: 0;
+    width: auto;
+}
+#post .tag_share .post_share {
+    position: absolute;
+    right: 0;
+}
+
+#post .post-reward .reward-button {
+    background: var(--icat-red);
+    color: #f59449;
+    padding: 0;
+    width: 126px;
+    line-height: 39px;
+    box-shadow: var(--icat-shadow-red);
+    display: inline-block;
+    cursor: pointer;
+    transition: all 0.4s ease 0s;
+    border-radius: 8px;
+    border: 2px solid #f59449;
+    margin-right: 0.5rem;
+}
+#post .post-reward .reward-button:hover {
+    background: #f59449;
+    color: white;
+    box-shadow: var(--icat-shadow-blue);
+}
+#post .post-reward .reward-main {
+    z-index: 1003;
+    min-width: 100%;
+}
+#post .post-reward .reward-main {
+    width: auto;
+}
+#post .post-reward .reward-main .reward-all {
+    border-radius: 12px;
+    background: white;
+    border: 1px solid black;
+    padding: 0.8rem;
+    display: flex;
+    box-shadow: var(--icat-shadow-border);
+    flex-direction: column;
+    align-items: center;
+}
+#post .post-reward .reward-main .reward-all:after {
+    right: auto;
+    left: 50px;
+    border-top: 14px solid var(--icat-background);
+}
+#post .reward-title {
+    font-weight: bold;
+    color: green;
+}
+#post .reward-group {
+    display: flex;
+    margin-top: 0.5rem;
+    margin-left: -40px;
+}
+/* 打赏样式调整 */
+
+#post .tag_share .post-meta__tags {
+    background: var(--icat-card-bg);
+    border: 2px solid #49b1f5;
+    color: #49b1f5;
+    border-radius: 8px;
+    margin: 0;
+    display: inline-flex;
+    align-items: center;
+    white-space: nowrap;
+    height: 40px;
+    margin-right: 0.5rem;
+}
+@media screen and (max-width: 768px) {
+    #post .tag_share {
+        display: grid;
+        justify-items: start;
+        align-items: start;
+    }
+    #post .tag_share .post-meta__tag-list {
+        display: flex;
+        width: 100%;
+        margin-top: 0.5rem
+    }
+    #post .tag_share .post-meta__tags {
+        height: 34px;
+    }
+}
+a.post-meta__tags::before {
+    content: "#";
+    opacity: 0.8;
+}
+/* 标签调整 */
