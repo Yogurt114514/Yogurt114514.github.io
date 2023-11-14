@@ -3842,7 +3842,7 @@ h1.page-title + .tag-cloud-list {
     opacity: 1;
     -ms-filter: none;
     filter: none;
-    background-image: url("https://upload.wikimedia.org/wikipedia/commons/3/34/Genshin_Chinese_logo.svg");
+    background-image: url("/file/Genshin_Chinese_logo.svg");
   }
   90% {
     opacity: 0;
@@ -3867,7 +3867,7 @@ h1.page-title + .tag-cloud-list {
     opacity: 1;
     -ms-filter: none;
     filter: none;
-    background-image: url("https://upload.wikimedia.org/wikipedia/commons/3/34/Genshin_Chinese_logo.svg");
+    background-image: url("/file/Genshin_Chinese_logo.svg");
   }
   90% {
     opacity: 0;
@@ -3892,7 +3892,7 @@ h1.page-title + .tag-cloud-list {
     opacity: 1;
     -ms-filter: none;
     filter: none;
-    background-image: url("https://upload.wikimedia.org/wikipedia/commons/3/34/Genshin_Chinese_logo.svg");
+    background-image: url("/file/Genshin_Chinese_logo.svg");
   }
   90% {
     opacity: 0;
@@ -3917,7 +3917,7 @@ h1.page-title + .tag-cloud-list {
     opacity: 1;
     -ms-filter: none;
     filter: none;
-    background-image: url("https://upload.wikimedia.org/wikipedia/commons/3/34/Genshin_Chinese_logo.svg");
+    background-image: url("/file/Genshin_Chinese_logo.svg");
   }
   90% {
     opacity: 0;
