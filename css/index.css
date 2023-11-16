@@ -3749,9 +3749,20 @@ h1.page-title + .tag-cloud-list {
 #nav.hide-menu #search-button span {
   display: none;
 }
+#nav.hide-menu #search-dark-button span {
+  display: none;
+}
 #nav #search-button {
   display: inline;
   padding: 0 0 0 14px;
+}
+#nav #search-dark-button {
+  display: inline;
+  padding: 0 0 0 14px;
+}
+#nav #search-dark-button a i span {
+  font-family: 'jiangxi';
+  font-weight: 400;
 }
 #nav .site-page {
   position: relative;

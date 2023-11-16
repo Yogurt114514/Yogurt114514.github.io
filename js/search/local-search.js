@@ -332,6 +332,25 @@ window.addEventListener('load', () => {
   const searchClickFn = () => {
     document.querySelector('#search-button > .search').addEventListener('click', openSearch)
   }
+  const searchDarkClickFn = () => {
+    document.querySelector('#search-dark-button > .search').addEventListener('click', function() {
+      const nowMode = document.documentElement.getAttribute('data-theme') === 'dark' ? 'dark' : 'light'
+        if (nowMode === 'light') {
+          activateDarkMode()
+          saveToLocal.set('theme', 'dark', 2)
+          GLOBAL_CONFIG.Snackbar !== undefined && btf.snackbarShow(GLOBAL_CONFIG.Snackbar.day_to_night)
+        } else {
+          activateLightMode()
+          saveToLocal.set('theme', 'light', 2)
+          GLOBAL_CONFIG.Snackbar !== undefined && btf.snackbarShow(GLOBAL_CONFIG.Snackbar.night_to_day)
+        }
+        // handle some cases
+        typeof utterancesTheme === 'function' && utterancesTheme()
+        typeof changeGiscusTheme === 'function' && changeGiscusTheme()
+        typeof FB === 'object' && window.loadFBComment && window.loadFBComment()
+        typeof runMermaid === 'function' && window.runMermaid()
+      })
+  }
 
   const searchFnOnce = () => {
     document.querySelector('#local-search .search-close-button').addEventListener('click', closeSearch)
@@ -349,6 +368,7 @@ window.addEventListener('load', () => {
   })
 
   searchClickFn()
+  searchDarkClickFn()
   searchFnOnce()
 
   // pjax
@@ -356,5 +376,6 @@ window.addEventListener('load', () => {
     !btf.isHidden($searchMask) && closeSearch()
     localSearch.highlightSearchWords(document.getElementById('article-container'))
     searchClickFn()
+    searchDarkClickFn()
   })
 })

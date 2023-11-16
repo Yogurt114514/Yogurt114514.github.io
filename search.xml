@@ -1,89 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>小朋友的脑回路……</title>
-    <url>/posts/qingbei.html</url>
-    <content><![CDATA[<blockquote>
-<p>祝长命百岁！</p>
-</blockquote>
-<p><img src="/img/qb.jpg" alt="为什么不考清北"></p>
-<div style="display: flex;">
-   <div style="flex: 1; text-align: center;">
-    <img src="" alt="">
-  </div>
-  <div style="flex: 2; text-align: center;">
-    <img src="/img/sb.jpg" alt="因为我是傻逼">
-  </div>
-  <div style="flex: 1; text-align: center;">
-    <img src="" alt="">
-  </div>
-</div>
-]]></content>
-      <categories>
-        <category>动态感悟</category>
-      </categories>
-      <tags>
-        <tag>小朋友</tag>
-        <tag>脑回路</tag>
-        <tag>清华</tag>
-        <tag>北大</tag>
-        <tag>傻逼</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>七夕有感</title>
-    <url>/posts/77.html</url>
-    <content><![CDATA[<p>今天呢，是七夕。</p>
-<p><strong>七夕节</strong>，又称七巧节、七姐节、女儿节、乞巧节、七娘会、七夕祭 、牛公牛婆日、巧夕等，是中国民间的传统节日。经历史发展，七夕被赋予了“牛郎织女”的美丽爱情传说，使其成为了象征爱情的节日，从而被认为是中国最具浪漫色彩的传统节日，在当代更是产生了“中国情人节”的文化含义。</p>
-<p>这一天还没到来，我就早早听各式各样的朋友提起七夕要到了。</p>
-<p>心里很不是滋味。</p>
-<p>……</p>
-<p>因为我还是单身。</p>
-<p>不知道是不是与我过去的经历有关，我比曾经更加难受。</p>
-<p>现在又有了一个有我容身之地的群，我可以在群里放心地表达自己。</p>
-<p>……</p>
-<p>他们说，越是想要，越是得不到。</p>
-<p>他们说，抱着找对象的心态反而找不到。</p>
-<p>他们说，现在早就不流行纯情男大了，喜欢就去约。</p>
-<p>……</p>
-<p>我想着那个她，百感交集。</p>
-<p>我知道，</p>
-<p>我所向往的那种爱情，是急不来的</p>
-<p>顺 其 自 然 。</p>
-<p>就像不久前去乌镇旅游时看见的那句话一样</p>
-<p><img src="/img/words.jpg" alt="words"></p>
-<p><strong>从前的日色变得慢，车、马 邮件都慢，一生只够爱一个人。</strong></p>
-<p>我一直以来都是这样想着，这样憧憬着。</p>
-<p>哎，</p>
-<p>现实往往告诉我，本科期间的恋爱是很难走到最后的。</p>
-<p>是什么阻碍了他们没能到最后？</p>
-<p>是随便玩玩？</p>
-<p>是毕业异地？</p>
-<p>是缺乏勇气？</p>
-<p>是屈于现实？</p>
-<p>我不知道。</p>
-<p>但就我身边的例子也真真切切向我展示，两个真心相爱的人，站在彼此的未来，很自然的一起走向未来。</p>
-<p>这是爱情最美好的样子，正如每个爱情最开始的样子那般。</p>
-<p>曾有古人云：人生若只如初见。</p>
-<p>又有多少人能始终如一呢？</p>
-<p>我这样期盼着，期盼着未来的那个她。</p>
-<p>而现在的我呢？</p>
-<p>只能在这无能为力的年纪为了自己和未来的她能过上更好的生活</p>
-<p>与生活斗争了……</p>
-<p>希望那一天晚一点到来吧，别让我还一无是处的时候令她失望；</p>
-<p>希望那一天早一点到来吧，让我早点遇见那个所谓的命中注定。</p>
-<p>鄙见，见笑了。</p>
-]]></content>
-      <categories>
-        <category>动态感悟</category>
-      </categories>
-      <tags>
-        <tag>心理</tag>
-        <tag>七夕</tag>
-        <tag>爱情</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>批改网英语作文无法“粘贴”的解决办法</title>
     <url>/posts/pigai.html</url>
     <content><![CDATA[<center>当你想粘贴作文时……</center>
@@ -150,6 +67,57 @@
         <tag>英语作文</tag>
         <tag>F12开发人员工具</tag>
         <tag>前端</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>小朋友的脑回路……</title>
+    <url>/posts/qingbei.html</url>
+    <content><![CDATA[<blockquote>
+<p>祝长命百岁！</p>
+</blockquote>
+<p><img src="/img/qb.jpg" alt="为什么不考清北"></p>
+<div style="display: flex;">
+   <div style="flex: 1; text-align: center;">
+    <img src="" alt="">
+  </div>
+  <div style="flex: 2; text-align: center;">
+    <img src="/img/sb.jpg" alt="因为我是傻逼">
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <img src="" alt="">
+  </div>
+</div>
+]]></content>
+      <categories>
+        <category>动态感悟</category>
+      </categories>
+      <tags>
+        <tag>小朋友</tag>
+        <tag>脑回路</tag>
+        <tag>清华</tag>
+        <tag>北大</tag>
+        <tag>傻逼</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>控制台调成黑体（字体）步骤</title>
+    <url>/posts/Gothic.html</url>
+    <content><![CDATA[<h3 id="第一步：按下Win-R"><a href="#第一步：按下Win-R" class="headerlink" title="第一步：按下Win+R"></a>第一步：按下Win+R</h3><p><img src="/img/Gothic/win+r.png" alt="快捷键"></p>
+<h3 id="第二步：输入cmd然后点‘确定’"><a href="#第二步：输入cmd然后点‘确定’" class="headerlink" title="第二步：输入cmd然后点‘确定’"></a>第二步：输入cmd然后点‘确定’</h3><p><img src="/img/Gothic/cmd.png" alt="cmd"></p>
+<h3 id="第三步：点击下拉菜单"><a href="#第三步：点击下拉菜单" class="headerlink" title="第三步：点击下拉菜单"></a>第三步：点击下拉菜单</h3><p><img src="/img/Gothic/jiantou.png" alt="箭头"></p>
+<h3 id="第四步：点击设置"><a href="#第四步：点击设置" class="headerlink" title="第四步：点击设置"></a>第四步：点击设置</h3><p><img src="/img/Gothic/xiala.png" alt="下拉菜单"></p>
+<h3 id="第五步：点击默认值"><a href="#第五步：点击默认值" class="headerlink" title="第五步：点击默认值"></a>第五步：点击默认值</h3><p><img src="/img/Gothic/shezhi.png" alt="设置"></p>
+<h3 id="第六步：点击外观"><a href="#第六步：点击外观" class="headerlink" title="第六步：点击外观"></a>第六步：点击外观</h3><p><img src="/img/Gothic/default.png" alt="默认值"></p>
+<h3 id="第七步：把字体改成黑体即可"><a href="#第七步：把字体改成黑体即可" class="headerlink" title="第七步：把字体改成黑体即可"></a>第七步：把字体改成黑体即可</h3><p><img src="/img/Gothic/waiguan.png" alt="外观"></p>
+<h3 id="第八步：保存之后就可以关闭了"><a href="#第八步：保存之后就可以关闭了" class="headerlink" title="第八步：保存之后就可以关闭了"></a>第八步：保存之后就可以关闭了</h3><p><img src="/img/Gothic/save.png" alt="保存"></p>
+]]></content>
+      <categories>
+        <category>技术学习</category>
+      </categories>
+      <tags>
+        <tag>控制台</tag>
+        <tag>黑体</tag>
+        <tag>字体</tag>
       </tags>
   </entry>
   <entry>
@@ -366,24 +334,56 @@
       </tags>
   </entry>
   <entry>
-    <title>控制台调成黑体（字体）步骤</title>
-    <url>/posts/Gothic.html</url>
-    <content><![CDATA[<h3 id="第一步：按下Win-R"><a href="#第一步：按下Win-R" class="headerlink" title="第一步：按下Win+R"></a>第一步：按下Win+R</h3><p><img src="/img/Gothic/win+r.png" alt="快捷键"></p>
-<h3 id="第二步：输入cmd然后点‘确定’"><a href="#第二步：输入cmd然后点‘确定’" class="headerlink" title="第二步：输入cmd然后点‘确定’"></a>第二步：输入cmd然后点‘确定’</h3><p><img src="/img/Gothic/cmd.png" alt="cmd"></p>
-<h3 id="第三步：点击下拉菜单"><a href="#第三步：点击下拉菜单" class="headerlink" title="第三步：点击下拉菜单"></a>第三步：点击下拉菜单</h3><p><img src="/img/Gothic/jiantou.png" alt="箭头"></p>
-<h3 id="第四步：点击设置"><a href="#第四步：点击设置" class="headerlink" title="第四步：点击设置"></a>第四步：点击设置</h3><p><img src="/img/Gothic/xiala.png" alt="下拉菜单"></p>
-<h3 id="第五步：点击默认值"><a href="#第五步：点击默认值" class="headerlink" title="第五步：点击默认值"></a>第五步：点击默认值</h3><p><img src="/img/Gothic/shezhi.png" alt="设置"></p>
-<h3 id="第六步：点击外观"><a href="#第六步：点击外观" class="headerlink" title="第六步：点击外观"></a>第六步：点击外观</h3><p><img src="/img/Gothic/default.png" alt="默认值"></p>
-<h3 id="第七步：把字体改成黑体即可"><a href="#第七步：把字体改成黑体即可" class="headerlink" title="第七步：把字体改成黑体即可"></a>第七步：把字体改成黑体即可</h3><p><img src="/img/Gothic/waiguan.png" alt="外观"></p>
-<h3 id="第八步：保存之后就可以关闭了"><a href="#第八步：保存之后就可以关闭了" class="headerlink" title="第八步：保存之后就可以关闭了"></a>第八步：保存之后就可以关闭了</h3><p><img src="/img/Gothic/save.png" alt="保存"></p>
+    <title>七夕有感</title>
+    <url>/posts/77.html</url>
+    <content><![CDATA[<p>今天呢，是七夕。</p>
+<p><strong>七夕节</strong>，又称七巧节、七姐节、女儿节、乞巧节、七娘会、七夕祭 、牛公牛婆日、巧夕等，是中国民间的传统节日。经历史发展，七夕被赋予了“牛郎织女”的美丽爱情传说，使其成为了象征爱情的节日，从而被认为是中国最具浪漫色彩的传统节日，在当代更是产生了“中国情人节”的文化含义。</p>
+<p>这一天还没到来，我就早早听各式各样的朋友提起七夕要到了。</p>
+<p>心里很不是滋味。</p>
+<p>……</p>
+<p>因为我还是单身。</p>
+<p>不知道是不是与我过去的经历有关，我比曾经更加难受。</p>
+<p>现在又有了一个有我容身之地的群，我可以在群里放心地表达自己。</p>
+<p>……</p>
+<p>他们说，越是想要，越是得不到。</p>
+<p>他们说，抱着找对象的心态反而找不到。</p>
+<p>他们说，现在早就不流行纯情男大了，喜欢就去约。</p>
+<p>……</p>
+<p>我想着那个她，百感交集。</p>
+<p>我知道，</p>
+<p>我所向往的那种爱情，是急不来的</p>
+<p>顺 其 自 然 。</p>
+<p>就像不久前去乌镇旅游时看见的那句话一样</p>
+<p><img src="/img/words.jpg" alt="words"></p>
+<p><strong>从前的日色变得慢，车、马 邮件都慢，一生只够爱一个人。</strong></p>
+<p>我一直以来都是这样想着，这样憧憬着。</p>
+<p>哎，</p>
+<p>现实往往告诉我，本科期间的恋爱是很难走到最后的。</p>
+<p>是什么阻碍了他们没能到最后？</p>
+<p>是随便玩玩？</p>
+<p>是毕业异地？</p>
+<p>是缺乏勇气？</p>
+<p>是屈于现实？</p>
+<p>我不知道。</p>
+<p>但就我身边的例子也真真切切向我展示，两个真心相爱的人，站在彼此的未来，很自然的一起走向未来。</p>
+<p>这是爱情最美好的样子，正如每个爱情最开始的样子那般。</p>
+<p>曾有古人云：人生若只如初见。</p>
+<p>又有多少人能始终如一呢？</p>
+<p>我这样期盼着，期盼着未来的那个她。</p>
+<p>而现在的我呢？</p>
+<p>只能在这无能为力的年纪为了自己和未来的她能过上更好的生活</p>
+<p>与生活斗争了……</p>
+<p>希望那一天晚一点到来吧，别让我还一无是处的时候令她失望；</p>
+<p>希望那一天早一点到来吧，让我早点遇见那个所谓的命中注定。</p>
+<p>鄙见，见笑了。</p>
 ]]></content>
       <categories>
-        <category>技术学习</category>
+        <category>动态感悟</category>
       </categories>
       <tags>
-        <tag>控制台</tag>
-        <tag>黑体</tag>
-        <tag>字体</tag>
+        <tag>心理</tag>
+        <tag>七夕</tag>
+        <tag>爱情</tag>
       </tags>
   </entry>
   <entry>
@@ -405,7 +405,7 @@
       </tags>
   </entry>
   <entry>
-    <title>重生之西游记（下载地址 及 更新日志）</title>
+    <title>重生之西游记（下载地址及更新日志）</title>
     <url>/posts/Journey-to-the-West.html</url>
     <content><![CDATA[<h2 id="最新版本Latest"><a href="#最新版本Latest" class="headerlink" title="最新版本Latest"></a>最新版本Latest</h2><p>—————————————————————————————————————————————————————————————————————</p>
 <h3 id="2-4"><a href="#2-4" class="headerlink" title="# 2.4"></a># 2.4</h3><p><a href="/file/重生之西游记（2.4）.exe">重生之西游记（2.4）.exe</a></p>
