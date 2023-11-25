@@ -1481,7 +1481,7 @@ button {
   touch-action: manipulation;
 }
 a {
-  color: #99a9bf;
+  color: #49b1f5;
   text-decoration: none;
   word-wrap: break-word;
   -webkit-transition: all 0.2s;
@@ -1525,7 +1525,7 @@ img:not([src]) {
 blockquote {
   margin: 0 0 20px;
   padding: 12px 15px;
-  border-left: 3px solid #49b1f5;
+  border-left: 3px solid #42b983;
   background-color: var(--blockquote-bg);
   color: var(--blockquote-color);
 }
@@ -6270,10 +6270,32 @@ blockquote.pullquote.right {
   width: 39%;
 }
 
-.aboutsiteTips h2 {
+.h22 {
+  margin-right: auto;
+  font-size: 31px;
+  font-weight: 600;
+  line-height: 1.06;
+  letter-spacing: -0.02em;
+  color: var(--font-color);
+  margin-top: 0;
+}
+.spa {
+  height: 12px;
+}
+.brr {
+  margin-right: auto;
+  font-size: 34px;
+  line-height: 1.06;
+  letter-spacing: -0.02em;
+  color: var(--font-color);
+  margin-top: 0;
+}
+.spaa {
+  height: 68px;
+}
+.brrr {
   margin-right: auto;
   font-size: 36px;
-  font-family: Helvetica;
   line-height: 1.06;
   letter-spacing: -0.02em;
   color: var(--font-color);
@@ -6281,7 +6303,12 @@ blockquote.pullquote.right {
 }
 
 .aboutsiteTips .mask {
-  height: 36px;
+  margin-right: auto;
+  font-size: 33px;
+  line-height: 1.35;
+  letter-spacing: -0.02em;
+  color: var(--font-color);
+  height: 33px;
   position: relative;
   overflow: hidden;
   margin-top: 4px;
@@ -6880,11 +6907,12 @@ blockquote.pullquote.right {
 }
 
 .author-content-item.like-music {
-  background: url(https://p2.music.126.net/Mrg1i7DwcwjWBvQPIMt_Mg==/79164837213438.jpg) no-repeat top;
+  background: url(/img/lemon.jpg) no-repeat top;
   background-size: cover;
-  min-height: 400px;
+  min-height: 300px;
   color: var(--anzhiyu-white);
   overflow: hidden;
+  width: 39%;
 }
 
 .author-content-item .card-content .banner-button-group {
