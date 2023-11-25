@@ -6492,7 +6492,7 @@ blockquote.pullquote.right {
   position: relative;
   overflow: hidden;
   margin-bottom: 0.5rem;
-  height: 60%;
+  height: 100%;
   background-size: 100%;
   transition: 1s ease-in-out;
 }
@@ -6548,6 +6548,9 @@ blockquote.pullquote.right {
 }
 .author-content-item-group.column.mapAndInfo {
   width: 59%;
+}
+.author-content-item-group.column.mapAndInfoo {
+  width: 100%;
 }
 .author-content-item.map:hover {
   background-size: 120%;
@@ -6804,6 +6807,14 @@ blockquote.pullquote.right {
   color: var(--anzhiyu-white);
   width: 59%;
 }
+.author-content-item.game-starrail {
+  background: url(/img/starrail.png) no-repeat top;
+  background-size: cover;
+  min-height: 300px;
+  overflow: hidden;
+  color: var(--anzhiyu-white);
+  width: 59%;
+}
 
 .author-content-item .content-bottom {
   margin-top: auto;
@@ -6825,6 +6836,15 @@ blockquote.pullquote.right {
   background: url(https://img02.anheyu.com/adminuploads/1/2022/09/25/632fb9cecfc8c.png);
 }
 .author-content-item.game-yuanshen::after {
+  box-shadow: 0 -69px 203px 11px #575d8b inset;
+  position: absolute;
+  content: "";
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+.author-content-item.game-starrail::after {
   box-shadow: 0 -69px 203px 11px #575d8b inset;
   position: absolute;
   content: "";
@@ -6897,6 +6917,12 @@ blockquote.pullquote.right {
     padding-bottom: 10px;
   }
   .author-content-item.game-yuanshen .game-yuanshen-uid {
+    display: none;
+  }
+  .author-content-item.game-starrail .content-bottom {
+    padding-bottom: 10px;
+  }
+  .author-content-item.game-starrail .game-starrail-uid {
     display: none;
   }
   .author-content {
@@ -7088,7 +7114,7 @@ blockquote.pullquote.right {
     position: absolute;
     top: 500px;
     left: 0;
-    filter: drop-shadow(0 -500px 0 var(--loadingbar-background-color));
+    /*filter: drop-shadow(0 -500px 0 var(--loadingbar-background-color));*/
   }
   
   .loading-bar::after {
@@ -7103,8 +7129,50 @@ blockquote.pullquote.right {
     background-size: 500px 62.5px;
     background-position-x: 0;
   }
+
+  .loading-bar-s {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 448px;
+    height: 50px;
+    transform: translate(-25%, -50%) scale(0.5);
+    transition: all 0.5s;
+    user-select: none;
+    overflow: hidden;
+  }
+  
+  .loading-bar-s img {
+    position: absolute;
+    top: 500px;
+    left: 0;
+    /*filter: drop-shadow(0 -500px 0 var(--loadingbar-background-color));*/
+  }
+  
+  .loading-bar-s::after {
+    content: "";
+    position: absolute;
+    top: 0px;
+    left: 0;
+    filter: drop-shadow(0 -500px 0 var(--loadingbar-prospect-color));
+    width: 448px;
+    height: 62.5px;
+    background: url("/img/sr.png") no-repeat left 100%;
+    background-size: 448px 69px;
+    background-position-x: 0;
+  }
+
   .author-content-item.game-yuanshen:hover .loading-bar::after {
     animation: loading-bar 3.5s cubic-bezier(0.28, 0.11, 0.32, 1) infinite forwards;
+  }
+  .author-content-item.game-starrail:hover .loading-bar::after {
+    animation: loading-bar 3.5s cubic-bezier(0.28, 0.11, 0.32, 1) infinite forwards;
+  }
+  .author-content-item.game-yuanshen:hover .loading-bar-s::after {
+    animation: loading-bar-s 3.5s cubic-bezier(0.28, 0.11, 0.32, 1) infinite forwards;
+  }
+  .author-content-item.game-starrail:hover .loading-bar-s::after {
+    animation: loading-bar-s 3.5s cubic-bezier(0.28, 0.11, 0.32, 1) infinite forwards;
   }
   
   @media screen and (max-width: 719px) {
@@ -7125,11 +7193,89 @@ blockquote.pullquote.right {
       content: "Your browser does not support the animation";
     }
   }
+
+  @media screen and (max-width: 719px) {
+    .loading-bar-s .loading-bar-s {
+      display: none;
+    }
+  }
+  
+  @media screen and (max-width: 719px) and (orientation: landscape) {
+    .loading-bar-s .loading-bar-s {
+      display: block !important;
+      transform: translate(-50%, -50%) scale(0.7) !important;
+    }
+  }
+  
+  @supports not (filter: drop-shadow(0 0 0 #fff)) {
+    .loading-bar-s:before {
+      content: "Your browser does not support the animation";
+    }
+  }
   
   @keyframes loading-bar {
     0% {
       width: 0;
       background-size: 500px 62.5px;
+    }
+    16.6% {
+    }
+    33.2% {
+    }
+    49.8% {
+    }
+    66.4% {
+    }
+    83% {
+      width: 475px;
+    }
+    83.1% {
+      width: 475px;
+    }
+    83.2% {
+      width: 475px;
+    }
+    83.3% {
+      width: 475px;
+    }
+    83.4% {
+      width: 475px;
+    }
+    83.5% {
+      width: 475px;
+    }
+    83.6% {
+      width: 475px;
+    }
+    83.7% {
+      width: 475px;
+    }
+    83.8% {
+      width: 475px;
+    }
+    83.9% {
+      width: 475px;
+    }
+    84% {
+      width: 475px;
+    }
+    85% {
+      width: 475px;
+    }
+    86% {
+      width: 475px;
+    }
+    87% {
+      width: 475px;
+    }
+    100% {
+      width: 500px;
+    }
+  }
+  @keyframes loading-bar-s {
+    0% {
+      width: 0;
+      background-size: 448px 62.5px;
     }
     16.6% {
     }
@@ -7253,7 +7399,7 @@ blockquote.pullquote.right {
   .hello-about h1 {
     font-size: 200px;
     color: #000;
-    margin: 0;
+    margin-bottom: 3.5rem;
     text-align: center;
     font: inherit;
     vertical-align: baseline;
@@ -7463,7 +7609,7 @@ blockquote.pullquote.right {
     transition: 0.3s;
   }
   .author-content-item.skills .tags-group-wrapper {
-    margin-top: 40px;
+    margin-top: 20px;
     display: flex;
     flex-wrap: nowrap;
     animation: rowup 60s linear infinite;
