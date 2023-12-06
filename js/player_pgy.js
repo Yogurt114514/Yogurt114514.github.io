@@ -22,7 +22,7 @@ class Musics {
     //歌曲
     constructor() {
         this.songs = [{
-                id: 1,
+                id: 5,
                 title: '蒲公英的约定 - 周杰伦',
                 singer: '蒲公英的约定 - 周杰伦',
                 songUrl: '/music/songs/pugongying.mp3',

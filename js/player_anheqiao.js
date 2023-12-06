@@ -1,28 +1,22 @@
 //创建一个音乐播放器的类 单例模式
-class Player {
-    constructor() { //类的构造函数
-        //如果没有实例化，就去构造一个实例
-        return this.getInstance(...arguments);
-    }
+class Player_anheqiao {
+    constructor() {
+        if (!Player_anheqiao.instance) {
+            this.instance = this;
+            this.playerCreator = new PlayerCreator_anheqiao(...arguments);
+            Player_anheqiao.instance = this;
+        }
 
-    //构建实例
-    getInstance() {
-        let instance = new PlayerCreator(...arguments);
-        //让实例可以使用到Player的原型的属性方法
-        // instance.__proto__=Player.prototype;
-        // instance.constructor=Player;
-        //把构建好的实例挂在Player类上
-        Player.instance = instance;
-        return instance;
+        return Player_anheqiao.instance;
     }
 }
 
 //歌曲信息
-class Musics {
+class Musics_anheqiao {
     //歌曲
     constructor() {
         this.songs = [{
-                id: 1,
+                id: 2,
                 title: '安河桥 - 宇西',
                 singer: '安河桥 - 宇西',
                 songUrl: '/music/songs/anheqiao.mp3',
@@ -37,7 +31,7 @@ class Musics {
 }
 
 //真正的构建播放器的类
-class PlayerCreator {
+class PlayerCreator_anheqiao {
     constructor() {
         this.audio = document.querySelector('.music-player__audio') // Audio dom元素, 因为很多api都是需要原生audio调用的，所以不用jq获取
         // this.audio.muted = true; // 控制静音
@@ -45,7 +39,7 @@ class PlayerCreator {
 
         //工具
         this.util = new Util();
-        this.musics = new Musics(); //歌曲信息
+        this.musics = new Musics_anheqiao(); //歌曲信息
         this.song_index = 0; // 当前播放的歌曲索引
         this.loop_mode = 1; // 1 2
         // 下方歌曲列表容器
@@ -110,23 +104,23 @@ class PlayerCreator {
     //绑定各种事件
     bindEventListener() {
         //播放按钮
-        this.$play = new Btns('.player-control__btn--play', {
+        this.$play = new Btns_anheqiao('.player-control__btn--play', {
             click: this.handlePlayAndPause.bind(this)
         });
         //上一首
-        this.$prev = new Btns('.player-control__btn--prev', {
+        this.$prev = new Btns_anheqiao('.player-control__btn--prev', {
             click: this.changeSong.bind(this, 'prev')
         });
         //下一首
-        this.$next = new Btns('.player-control__btn--next', {
+        this.$next = new Btns_anheqiao('.player-control__btn--next', {
             click: this.changeSong.bind(this, 'next')
         });
         //循环模式
-        this.$mode = new Btns('.player-control__btn--mode', {
+        this.$mode = new Btns_anheqiao('.player-control__btn--mode', {
             click: this.changePlayMode.bind(this)
         });
         //禁音
-        this.$ban = new Btns('.control__volume--icon', {
+        this.$ban = new Btns_anheqiao('.control__volume--icon', {
             click: this.banNotes.bind(this)
         })
         //列表点击
@@ -137,7 +131,7 @@ class PlayerCreator {
 
         //音量控制 audio标签音量 vlouem 属性控制0-1
 
-        new Progress('.control__volume--progress', {
+        new Progress_anheqiao('.control__volume--progress', {
             min: 0,
             max: 1,
             value: this.audio.volume,
@@ -154,7 +148,7 @@ class PlayerCreator {
                 this.render_time.total.html(this.util.formatTime(this.audio.duration));
                 return false;
             };
-            this.progress = new Progress('.player__song--progress', {
+            this.progress = new Progress_anheqiao('.player__song--progress', {
                 min: 0,
                 max: this.audio.duration,
                 value: 0,
@@ -270,7 +264,7 @@ class PlayerCreator {
 }
 
 //进度条
-class Progress {
+class Progress_anheqiao {
     constructor(selector, options) {
         $.extend(this, options);
         ///给this挂载传入的参数
@@ -345,7 +339,7 @@ class Progress {
 
 
 //按钮类 
-class Btns {
+class Btns_anheqiao {
     constructor(selector, handlers) {
         this.$el = $(selector); //元素
         this.bindEvents(handlers);
@@ -359,8 +353,8 @@ class Btns {
         }
     }
 }
-new Player();
+new Player_anheqiao();
 document.addEventListener('pjax:complete', (e) => {
-    new Player();
+    new Player_anheqiao();
 })
 

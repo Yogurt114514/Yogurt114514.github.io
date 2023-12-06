@@ -54,31 +54,6 @@
       </tags>
   </entry>
   <entry>
-    <title>LFWY（四个小说）</title>
-    <url>/posts/LFWY.html</url>
-    <content><![CDATA[<blockquote>
-<p>“而我已经分不清，你是友情，还是错过的爱情。”——《蒲公英的约定》</p>
-<p>多年后再次见到你，那个曾经那么喜欢的女孩，心跳的一瞬间，你还能分清这是一种友情，还是因为缘分而错过的爱情吗？</p>
-</blockquote>
-<h2 id="L"><a href="#L" class="headerlink" title="L"></a>L</h2><a href="/L/"  title="L" referrerPolicy="no-referrer" class="link_card"><div class="link_icon"><img src="/img/LFWY/L.jpg" class="no-lightbox"></div><div class="link_content"><div class="link_title">L</div><div class="link_desc">我知道那些夏天 就像青春一样回不来</div></div></a>
-<h2 id="F"><a href="#F" class="headerlink" title="F"></a>F</h2><a href="/F/"  title="F" referrerPolicy="no-referrer" class="link_card"><div class="link_icon"><img src="/img/LFWY/F.jpg" class="no-lightbox"></div><div class="link_content"><div class="link_title">F</div><div class="link_desc">而我已经分不清 你是友情还是错过的爱情</div></div></a>
-<h2 id="W"><a href="#W" class="headerlink" title="W"></a>W</h2><a href="/W/"  title="W" referrerPolicy="no-referrer" class="link_card"><div class="link_icon"><img src="/img/LFWY/W.jpg" class="no-lightbox"></div><div class="link_content"><div class="link_title">W</div><div class="link_desc">你不想证明 证明我是你唯一</div></div></a>
-<h2 id="Y"><a href="#Y" class="headerlink" title="Y"></a>Y</h2><a href="/Y/"  title="Y" referrerPolicy="no-referrer" class="link_card"><div class="link_icon"><img src="/img/LFWY/Y.jpg" class="no-lightbox"></div><div class="link_content"><div class="link_title">Y</div><div class="link_desc">我要的只是你在我身边</div></div></a>
-]]></content>
-      <categories>
-        <category>文学创作</category>
-      </categories>
-      <tags>
-        <tag>心理</tag>
-        <tag>爱情</tag>
-        <tag>小说</tag>
-        <tag>写作</tag>
-        <tag>LFWY</tag>
-        <tag>友情</tag>
-        <tag>朋友</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>小朋友的脑回路……</title>
     <url>/posts/qingbei.html</url>
     <content><![CDATA[<blockquote>
@@ -106,6 +81,31 @@
         <tag>清华</tag>
         <tag>北大</tag>
         <tag>傻逼</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>LFWY（四个小说）</title>
+    <url>/posts/LFWY.html</url>
+    <content><![CDATA[<blockquote>
+<p>“而我已经分不清，你是友情，还是错过的爱情。”——《蒲公英的约定》</p>
+<p>多年后再次见到你，那个曾经那么喜欢的女孩，心跳的一瞬间，你还能分清这是一种友情，还是因为缘分而错过的爱情吗？</p>
+</blockquote>
+<h2 id="L"><a href="#L" class="headerlink" title="L"></a>L</h2><a href="/L/"  title="L" referrerPolicy="no-referrer" class="link_card"><div class="link_icon"><img src="/img/LFWY/L.jpg" class="no-lightbox"></div><div class="link_content"><div class="link_title">L</div><div class="link_desc">我知道那些夏天 就像青春一样回不来</div></div></a>
+<h2 id="F"><a href="#F" class="headerlink" title="F"></a>F</h2><a href="/F/"  title="F" referrerPolicy="no-referrer" class="link_card"><div class="link_icon"><img src="/img/LFWY/F.jpg" class="no-lightbox"></div><div class="link_content"><div class="link_title">F</div><div class="link_desc">而我已经分不清 你是友情还是错过的爱情</div></div></a>
+<h2 id="W"><a href="#W" class="headerlink" title="W"></a>W</h2><a href="/W/"  title="W" referrerPolicy="no-referrer" class="link_card"><div class="link_icon"><img src="/img/LFWY/W.jpg" class="no-lightbox"></div><div class="link_content"><div class="link_title">W</div><div class="link_desc">你不想证明 证明我是你唯一</div></div></a>
+<h2 id="Y"><a href="#Y" class="headerlink" title="Y"></a>Y</h2><a href="/Y/"  title="Y" referrerPolicy="no-referrer" class="link_card"><div class="link_icon"><img src="/img/LFWY/Y.jpg" class="no-lightbox"></div><div class="link_content"><div class="link_title">Y</div><div class="link_desc">我要的只是你在我身边</div></div></a>
+]]></content>
+      <categories>
+        <category>文学创作</category>
+      </categories>
+      <tags>
+        <tag>心理</tag>
+        <tag>爱情</tag>
+        <tag>小说</tag>
+        <tag>写作</tag>
+        <tag>LFWY</tag>
+        <tag>友情</tag>
+        <tag>朋友</tag>
       </tags>
   </entry>
   <entry>
@@ -175,27 +175,6 @@
         <tag>英语作文</tag>
         <tag>F12开发人员工具</tag>
         <tag>前端</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>控制台调成黑体（字体）步骤</title>
-    <url>/posts/Gothic.html</url>
-    <content><![CDATA[<h3 id="第一步：按下Win-R"><a href="#第一步：按下Win-R" class="headerlink" title="第一步：按下Win+R"></a>第一步：按下Win+R</h3><p><img src="/img/Gothic/win+r.png" alt="快捷键"></p>
-<h3 id="第二步：输入cmd然后点‘确定’"><a href="#第二步：输入cmd然后点‘确定’" class="headerlink" title="第二步：输入cmd然后点‘确定’"></a>第二步：输入cmd然后点‘确定’</h3><p><img src="/img/Gothic/cmd.png" alt="cmd"></p>
-<h3 id="第三步：点击下拉菜单"><a href="#第三步：点击下拉菜单" class="headerlink" title="第三步：点击下拉菜单"></a>第三步：点击下拉菜单</h3><p><img src="/img/Gothic/jiantou.png" alt="箭头"></p>
-<h3 id="第四步：点击设置"><a href="#第四步：点击设置" class="headerlink" title="第四步：点击设置"></a>第四步：点击设置</h3><p><img src="/img/Gothic/xiala.png" alt="下拉菜单"></p>
-<h3 id="第五步：点击默认值"><a href="#第五步：点击默认值" class="headerlink" title="第五步：点击默认值"></a>第五步：点击默认值</h3><p><img src="/img/Gothic/shezhi.png" alt="设置"></p>
-<h3 id="第六步：点击外观"><a href="#第六步：点击外观" class="headerlink" title="第六步：点击外观"></a>第六步：点击外观</h3><p><img src="/img/Gothic/default.png" alt="默认值"></p>
-<h3 id="第七步：把字体改成黑体即可"><a href="#第七步：把字体改成黑体即可" class="headerlink" title="第七步：把字体改成黑体即可"></a>第七步：把字体改成黑体即可</h3><p><img src="/img/Gothic/waiguan.png" alt="外观"></p>
-<h3 id="第八步：保存之后就可以关闭了"><a href="#第八步：保存之后就可以关闭了" class="headerlink" title="第八步：保存之后就可以关闭了"></a>第八步：保存之后就可以关闭了</h3><p><img src="/img/Gothic/save.png" alt="保存"></p>
-]]></content>
-      <categories>
-        <category>技术学习</category>
-      </categories>
-      <tags>
-        <tag>控制台</tag>
-        <tag>黑体</tag>
-        <tag>字体</tag>
       </tags>
   </entry>
   <entry>
@@ -276,6 +255,51 @@
         <tag>Ps</tag>
         <tag>头像</tag>
         <tag>板绘</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>控制台调成黑体（字体）步骤</title>
+    <url>/posts/Gothic.html</url>
+    <content><![CDATA[<h3 id="第一步：按下Win-R"><a href="#第一步：按下Win-R" class="headerlink" title="第一步：按下Win+R"></a>第一步：按下Win+R</h3><p><img src="/img/Gothic/win+r.png" alt="快捷键"></p>
+<h3 id="第二步：输入cmd然后点‘确定’"><a href="#第二步：输入cmd然后点‘确定’" class="headerlink" title="第二步：输入cmd然后点‘确定’"></a>第二步：输入cmd然后点‘确定’</h3><p><img src="/img/Gothic/cmd.png" alt="cmd"></p>
+<h3 id="第三步：点击下拉菜单"><a href="#第三步：点击下拉菜单" class="headerlink" title="第三步：点击下拉菜单"></a>第三步：点击下拉菜单</h3><p><img src="/img/Gothic/jiantou.png" alt="箭头"></p>
+<h3 id="第四步：点击设置"><a href="#第四步：点击设置" class="headerlink" title="第四步：点击设置"></a>第四步：点击设置</h3><p><img src="/img/Gothic/xiala.png" alt="下拉菜单"></p>
+<h3 id="第五步：点击默认值"><a href="#第五步：点击默认值" class="headerlink" title="第五步：点击默认值"></a>第五步：点击默认值</h3><p><img src="/img/Gothic/shezhi.png" alt="设置"></p>
+<h3 id="第六步：点击外观"><a href="#第六步：点击外观" class="headerlink" title="第六步：点击外观"></a>第六步：点击外观</h3><p><img src="/img/Gothic/default.png" alt="默认值"></p>
+<h3 id="第七步：把字体改成黑体即可"><a href="#第七步：把字体改成黑体即可" class="headerlink" title="第七步：把字体改成黑体即可"></a>第七步：把字体改成黑体即可</h3><p><img src="/img/Gothic/waiguan.png" alt="外观"></p>
+<h3 id="第八步：保存之后就可以关闭了"><a href="#第八步：保存之后就可以关闭了" class="headerlink" title="第八步：保存之后就可以关闭了"></a>第八步：保存之后就可以关闭了</h3><p><img src="/img/Gothic/save.png" alt="保存"></p>
+]]></content>
+      <categories>
+        <category>技术学习</category>
+      </categories>
+      <tags>
+        <tag>控制台</tag>
+        <tag>黑体</tag>
+        <tag>字体</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>梦</title>
+    <url>/posts/dream.html</url>
+    <content><![CDATA[<h2 id="2023-01-17"><a href="#2023-01-17" class="headerlink" title="2023-01-17"></a>2023-01-17</h2><p>那是一个豪华的大酒店，我们从环形楼梯跳下去就来到了她的房间（她似乎是我npy？甚至未婚妻？）一进她房间，就看见了一对老夫妻在床上坐着，我以为是岳父岳母，刚准备打招呼，结果她说，那是她收留的，无家可归的老人……我刚想找她的时候，却又发现她不见了，跑出门去，发现她在走廊左跑右跑，似乎又是在帮助谁……</p>
+<p>（总之就是对她印象特别好，感觉人好好，但又记不清脸，甚至没有脸，总之也不是现实中的人，梦中情人？有点意难平……）</p>
+<h2 id="2023-02-06"><a href="#2023-02-06" class="headerlink" title="2023-02-06"></a>2023-02-06</h2><p>中式祠堂类建筑，有好几层，那块地方地势复杂，好像楼梯也多。我好像打算去哪……一块木板，站在上面可以当滑板，能一直滑，滑好远，就这样，我好像和谢LJ一起滑木板一直去到一个很远的地方，似乎又是乡下了。然后又不知道怎么的得到了两块更精致的木板（和一个类似于桨？的东西），但我不舍得滑，就和他一起抱着回去……</p>
+<h2 id="2023-02-09"><a href="#2023-02-09" class="headerlink" title="2023-02-09"></a>2023-02-09</h2><p>先是在一个操场（非现实）上，欧阳Y（后面是DY）想跑步，本来我也想的，可突然开始下雨了，雨越下越大，我戴起我卫衣的帽子，打算离去，可他坚持要跑，于是我开始从楼梯上走（操场在低处，高处才是路），但渐渐地睁不开眼，于是改成了闭上眼睛“爬”楼梯，到了上面后，我淋着雨打算骑自行车走。</p>
+<p>莫名其妙变成了推着车走（好像雨又停了？），是在一个弯的斜坡上，一起走的好像是王YX和沈MY，聊着聊着聊到了二中，吧啦吧啦。</p>
+<p>（中途路上好像买了零食？）</p>
+<p>回到家后（是老家），我发现DY已经回来了，在MM房间床上躺着，好像快睡着了，我把袋子放在桌子上，并惊讶于他比我先到家：“我走的时候你明明还在那跑步啊……”袋子里有但不限于两包薯片，甚至还多了一片薯片在包装外面，我对在场的其他人（忘了有谁，好像有个谢HM）吐槽起来：“买二送一。”大家笑了。</p>
+<p>……</p>
+<p>在二中，我坐在教学楼楼下和郭PP坐在大理石长凳上聊天，后面好像上课了，我和他匆匆跑到楼上，我问他：”是已经上课多久了吗？“他说：“二十多分钟。”“已经上了二十多分钟了？”我一脸震惊。他说：“不是，是整点过了二十多分钟，现在才刚打铃。”</p>
+<p>我匆忙赶到教室，利索地坐上了座位（同桌：左边不知道是谁，右边是徐GY）（我动作也并不是像高中那样有所拘束了……）桌面上是笔记本电脑，老师在讲……SEER？什么HYXH，以及老师对DUYE套居然带CSZY的惊讶，还有一个什么技能反复重现……我似乎想好好表现自己？（我似乎在打？）</p>
+<p>……</p>
+]]></content>
+      <categories>
+        <category>生活记录</category>
+      </categories>
+      <tags>
+        <tag>心理</tag>
+        <tag>梦</tag>
+        <tag>记录</tag>
       </tags>
   </entry>
   <entry>
@@ -385,30 +409,6 @@
         <tag>作业</tag>
         <tag>游戏</tag>
         <tag>重生之西游记</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>梦</title>
-    <url>/posts/dream.html</url>
-    <content><![CDATA[<h2 id="2023-01-17"><a href="#2023-01-17" class="headerlink" title="2023-01-17"></a>2023-01-17</h2><p>那是一个豪华的大酒店，我们从环形楼梯跳下去就来到了她的房间（她似乎是我npy？甚至未婚妻？）一进她房间，就看见了一对老夫妻在床上坐着，我以为是岳父岳母，刚准备打招呼，结果她说，那是她收留的，无家可归的老人……我刚想找她的时候，却又发现她不见了，跑出门去，发现她在走廊左跑右跑，似乎又是在帮助谁……</p>
-<p>（总之就是对她印象特别好，感觉人好好，但又记不清脸，甚至没有脸，总之也不是现实中的人，梦中情人？有点意难平……）</p>
-<h2 id="2023-02-06"><a href="#2023-02-06" class="headerlink" title="2023-02-06"></a>2023-02-06</h2><p>中式祠堂类建筑，有好几层，那块地方地势复杂，好像楼梯也多。我好像打算去哪……一块木板，站在上面可以当滑板，能一直滑，滑好远，就这样，我好像和谢LJ一起滑木板一直去到一个很远的地方，似乎又是乡下了。然后又不知道怎么的得到了两块更精致的木板（和一个类似于桨？的东西），但我不舍得滑，就和他一起抱着回去……</p>
-<h2 id="2023-02-09"><a href="#2023-02-09" class="headerlink" title="2023-02-09"></a>2023-02-09</h2><p>先是在一个操场（非现实）上，欧阳Y（后面是DY）想跑步，本来我也想的，可突然开始下雨了，雨越下越大，我戴起我卫衣的帽子，打算离去，可他坚持要跑，于是我开始从楼梯上走（操场在低处，高处才是路），但渐渐地睁不开眼，于是改成了闭上眼睛“爬”楼梯，到了上面后，我淋着雨打算骑自行车走。</p>
-<p>莫名其妙变成了推着车走（好像雨又停了？），是在一个弯的斜坡上，一起走的好像是王YX和沈MY，聊着聊着聊到了二中，吧啦吧啦。</p>
-<p>（中途路上好像买了零食？）</p>
-<p>回到家后（是老家），我发现DY已经回来了，在MM房间床上躺着，好像快睡着了，我把袋子放在桌子上，并惊讶于他比我先到家：“我走的时候你明明还在那跑步啊……”袋子里有但不限于两包薯片，甚至还多了一片薯片在包装外面，我对在场的其他人（忘了有谁，好像有个谢HM）吐槽起来：“买二送一。”大家笑了。</p>
-<p>……</p>
-<p>在二中，我坐在教学楼楼下和郭PP坐在大理石长凳上聊天，后面好像上课了，我和他匆匆跑到楼上，我问他：”是已经上课多久了吗？“他说：“二十多分钟。”“已经上了二十多分钟了？”我一脸震惊。他说：“不是，是整点过了二十多分钟，现在才刚打铃。”</p>
-<p>我匆忙赶到教室，利索地坐上了座位（同桌：左边不知道是谁，右边是徐GY）（我动作也并不是像高中那样有所拘束了……）桌面上是笔记本电脑，老师在讲……SEER？什么HYXH，以及老师对DUYE套居然带CSZY的惊讶，还有一个什么技能反复重现……我似乎想好好表现自己？（我似乎在打？）</p>
-<p>……</p>
-]]></content>
-      <categories>
-        <category>生活记录</category>
-      </categories>
-      <tags>
-        <tag>心理</tag>
-        <tag>梦</tag>
-        <tag>记录</tag>
       </tags>
   </entry>
   <entry>

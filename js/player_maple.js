@@ -22,7 +22,7 @@ class Musics {
     //歌曲
     constructor() {
         this.songs = [{
-                id: 1,
+                id: 3,
                 title: '枫 - 周杰伦',
                 singer: '枫 - 周杰伦',
                 songUrl: '/music/songs/maple.mp3',

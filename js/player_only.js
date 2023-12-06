@@ -22,7 +22,7 @@ class Musics {
     //歌曲
     constructor() {
         this.songs = [{
-                id: 1,
+                id: 4,
                 title: '唯一 - 告五人',
                 singer: '唯一 - 告五人',
                 songUrl: '/music/songs/only.mp3',

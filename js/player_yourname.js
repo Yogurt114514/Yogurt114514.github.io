@@ -22,7 +22,7 @@ class Musics {
     //歌曲
     constructor() {
         this.songs = [{
-                id: 1,
+                id: 6,
                 title: 'なんでもないや - RADWIMPS',
                 singer: 'なんでもないや - RADWIMPS',
                 songUrl: '/music/songs/yourname.mp3',
