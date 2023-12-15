@@ -4127,7 +4127,7 @@ h1.page-title + .tag-cloud-list {
   overflow-wrap: break-word;
 }
 #article-container a {
-  color: #99a9bf;
+  color: #49b1f5;
 }
 #article-container a:hover {
   text-decoration: underline;
@@ -5219,7 +5219,7 @@ blockquote.pullquote.right {
   padding: 12px;
 }
 .link_card:hover {
-  background: var(--icat-theme);
+  background: var(--link-hover);
 }
 .link_card .link_icon,
 .link_card .link_content {

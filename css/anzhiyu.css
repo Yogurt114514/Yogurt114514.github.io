@@ -78,7 +78,10 @@
     --style-border-deep-ash: 1px solid #d0d7de;
     --style-border-hover-always: 1px solid var(--anzhiyu-main);
     --anzhiyu-main-none: rgba(184,184,184,0)!important;
-    --anzhiyu-wihite-font: #fff
+    --anzhiyu-wihite-font: #fff;
+    --music-player-border: 0 0 10px rgb(0 0 0 / 20%);
+    --LFWY-btn: 2px solid black;
+    --link-hover: #49b1f5;
 }
 
 [data-theme=light] {
@@ -116,7 +119,12 @@
     --anzhiyu-card-border: #e3e8f7;
     --anzhiyu-shadow-lightblack: 0 5px 12px -5px rgba(102,68,68,0);
     --anzhiyu-shadow-light2black: 0 5px 12px -5px rgba(102,68,68,0);
-    --anzhiyu-wihite-font: #fff
+    --anzhiyu-wihite-font: #fff;
+    --music-player-border: 0 0 10px rgb(0 0 0 / 20%);
+    --LFWY-btn: 2px solid black;
+    --blockquote-color: #6a737d;
+    --blockquote-bg: #EBF7F2;
+    --link-hover: #49b1f5;
 }
 
 [data-theme=dark] {
@@ -158,5 +166,10 @@
     --anzhiyu-card-border: #42444a;
     --anzhiyu-shadow-lightblack: 0 5px 12px -5px rgba(102,68,68,0);
     --anzhiyu-shadow-light2black: 0 5px 12px -5px rgba(102,68,68,0);
-    --anzhiyu-wihite-font: #f6f6f6
+    --anzhiyu-wihite-font: #f6f6f6;
+    --music-player-border: 0 0 10px rgb(255 255 255 / 20%);
+    --LFWY-btn: 2px solid white;
+    --blockquote-color: #dfe5eb;
+    --blockquote-bg: #42584f;
+    --link-hover: #f2b94b;
 }
