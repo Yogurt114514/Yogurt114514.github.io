@@ -82,6 +82,7 @@
     --music-player-border: 0 0 10px rgb(0 0 0 / 20%);
     --LFWY-btn: 2px solid black;
     --link-hover: #49b1f5;
+    --flink-background: #f7f7f9;
 }
 
 [data-theme=light] {
@@ -125,6 +126,7 @@
     --blockquote-color: #6a737d;
     --blockquote-bg: #EBF7F2;
     --link-hover: #49b1f5;
+    --flink-background: #f7f7f9;
 }
 
 [data-theme=dark] {
@@ -172,4 +174,5 @@
     --blockquote-color: #dfe5eb;
     --blockquote-bg: #42584f;
     --link-hover: #f2b94b;
+    --flink-background: #1e1e1f;
 }

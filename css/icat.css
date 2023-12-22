@@ -94,14 +94,13 @@
   }
   #article-container .flink .flink-desc {
     margin: 0 7px;
-    color: rgba(60, 60, 67, 0.8);
   }
   #article-container .flink .flink-list {
     padding: 10px 0 0;
   }
   #article-container .flink .flink-list > .flink-list-item {
     border: 1px solid #e3e8f7 !important;
-    background: #f7f7f9;
+    background: var(--flink-background);
     height: 120px;
     margin: 8px 8px;
     width: calc(100% / 3 - 16px);
