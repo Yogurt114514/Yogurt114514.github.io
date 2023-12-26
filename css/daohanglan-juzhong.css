@@ -1,6 +1,6 @@
-#nav .menus_items {
-    position: absolute;
-    width: fit-content;
-    left: 50%;
-    transform: translateX(-50%);
+#menus {
+  flex:0.8 1 auto;
+  margin-left: auto;
+  display: flex;
+  flex-wrap:nowrap;
 }

@@ -6641,6 +6641,39 @@ blockquote.pullquote.right {
   color: var(--font-color);
   margin-top: 0;
 }
+@media screen and (max-width: 768px) {
+  .h22 {
+    margin-right: auto;
+    font-size: 27px;
+    font-weight: 600;
+    line-height: 1.06;
+    letter-spacing: -0.02em;
+    color: var(--font-color);
+    margin-top: 0;
+  }
+  .spa {
+    height: 12px;
+  }
+  .brr {
+    margin-right: auto;
+    font-size: 30px;
+    line-height: 1.06;
+    letter-spacing: -0.02em;
+    color: var(--font-color);
+    margin-top: 0;
+  }
+  .spaa {
+    height: 40px;
+  }
+  .brrr {
+    margin-right: auto;
+    font-size: 30px;
+    line-height: 1.06;
+    letter-spacing: -0.02em;
+    color: var(--font-color);
+    margin-top: 0;
+  }
+}
 
 .aboutsiteTips .mask {
   margin-right: auto;
@@ -7184,6 +7217,18 @@ blockquote.pullquote.right {
   flex-direction: column;
   justify-content: center;
   width: 39%;
+}
+@media screen and (max-width: 768px) {
+  .author-content-item.maxim {
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.1;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    justify-content: center;
+    width: 39%;
+  }
 }
 .author-content-item .author-content-item-tips {
   opacity: 0.8;
@@ -7775,6 +7820,12 @@ blockquote.pullquote.right {
     user-select: none;
   }
   
+  @media screen and (max-width: 768px) {
+    .hello-about {
+      display: none;
+    }
+  }
+
   .shapes {
     position: relative;
     height: 315px;
@@ -8031,6 +8082,16 @@ blockquote.pullquote.right {
     width: 59%;
     min-height: 400px;
   }
+  @media screen and (max-width: 768px) {
+    .author-content-item.skills {
+      display: flex;
+      justify-content: center;
+      align-items: flex-start;
+      flex-direction: column;
+      width: 59%;
+      min-height: 280px;
+    }
+  }
   
   .author-content-item.skills .skills-style-group {
     position: relative;
@@ -8061,6 +8122,20 @@ blockquote.pullquote.right {
     width: 120px;
     height: 120px;
     border-radius: 30px;
+  }
+  @media screen and (max-width: 768px) {
+    .tags-group-icon {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: #fff;
+      font-size: 66px;
+      font-weight: 700;
+      box-shadow: var(--anzhiyu-shadow-blackdeep);
+      width: 60px;
+      height: 60px;
+      border-radius: 30px;
+    }
   }
   .tags-group-icon img {
     width: 60%;
