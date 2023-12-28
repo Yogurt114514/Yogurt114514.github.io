@@ -41,7 +41,7 @@
 }
 #post .post-reward .reward-main .reward-all {
     border-radius: 12px;
-    background: white;
+    background: var(--reward-background);
     border: 1px solid black;
     padding: 0.8rem;
     display: flex;

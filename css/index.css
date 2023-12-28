@@ -2237,6 +2237,7 @@ figure.highlight pre .javascript .function {
   align-self: flex-start;
   -ms-flex-item-align: start;
   padding: 50px 40px;
+  border: var(--background-border);
 }
 @media screen and (max-width: 768px) {
   .layout > div:first-child:not(.recent-posts) {
@@ -2399,6 +2400,9 @@ figure.highlight pre .javascript .function {
 }
 #recent-posts > .recent-post-item:not(:first-child) {
   margin-top: 20px;
+  border: var(--background-border);
+  background: var(--background-img);
+  background-size: cover;
 }
 #recent-posts > .recent-post-item {
   display: -webkit-box;
@@ -2605,6 +2609,9 @@ h1.page-title + .tag-cloud-list {
   overflow: hidden;
   margin-top: 20px;
   padding: 20px 24px;
+  border: var(--background-border);
+  background: var(--background-img);
+  background-size: cover;
 }
 #aside-content .card-info .author-info__name {
   font-weight: 500;
@@ -3473,7 +3480,8 @@ h1.page-title + .tag-cloud-list {
   background: 0;
 }
 #page-header.not-top-img #nav {
-  background: rgba(255,255,255,0.8);
+  background: var(--background-img);
+  background-size: cover;
   -webkit-box-shadow: 0 5px 6px -5px rgba(133,133,133,0.6);
   box-shadow: 0 5px 6px -5px rgba(133,133,133,0.6);
 }
@@ -4553,7 +4561,7 @@ h1.page-title + .tag-cloud-list {
 }
 .post-reward .reward-main .reward-all .reward-item .post-qr-code-desc {
   width: 130px;
-  color: #858585;
+  color: var(--reward-font);
 }
 #rightside {
   position: fixed;
@@ -5950,7 +5958,8 @@ blockquote.pullquote.right {
 }
 [data-theme='dark'] #page-header.nav-fixed > #nav,
 [data-theme='dark'] #page-header.not-top-img > #nav {
-  background: rgba(18,18,18,0.8);
+  background: var(--background-img);
+  background-size: cover;
   -webkit-box-shadow: 0 5px 6px -5px rgba(133,133,133,0);
   box-shadow: 0 5px 6px -5px rgba(133,133,133,0);
 }
