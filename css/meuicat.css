@@ -1718,9 +1718,9 @@ canvas:not(#ribbon-canvas) {
     --tab-button-hover-bg: #dcdcdc;
     --tab-button-active-bg: #fff;
     --card-bg: #fff;
-    --btn-hover-color: #ff7242;
+    --btn-hover-color: #ff4000;
     --btn-color: #fff;
-    --btn-bg: #49b1f5;
+    --btn-bg: #f2b94b;
     --text-bg-hover: rgba(73, 177, 245, 0.7);
     --light-grey: #eee;
     --dark-grey: #cacaca;
@@ -2809,7 +2809,7 @@ figure.highlight pre .tag .attr {
     -ms-flex: 1 auto;
     flex: 1 auto;
     margin: 0 auto;
-    padding: 40px 15px;
+    padding: 30px 15px;
     max-width: 1400px;
     width: 100%
 }
@@ -3340,7 +3340,7 @@ figure.highlight pre .tag .attr {
 }
 
 #recent-posts>.recent-post-item>.recent-post-info>.article-title:hover {
-    color: var(--icat-blue)
+    color: var(--btn-bg)
 }
 
 #recent-posts>.recent-post-item>.recent-post-info>.article-meta-wrap {

@@ -1481,7 +1481,7 @@ button {
   touch-action: manipulation;
 }
 a {
-  color: #49b1f5;
+  color: var(--btn-bg);
   text-decoration: none;
   word-wrap: break-word;
   -webkit-transition: all 0.2s;
@@ -1492,7 +1492,7 @@ a {
   overflow-wrap: break-word;
 }
 a:hover {
-  color: #49b1f5;
+  color: var(--btn-bg);
 }
 .is-center {
   text-align: center;
@@ -2208,7 +2208,7 @@ figure.highlight pre .javascript .function {
   -ms-flex: 1 auto;
   flex: 1 auto;
   margin: 0 auto;
-  padding: 40px 15px;
+  padding: 30px 15px;
   max-width: 1200px;
   width: 100%;
 }
@@ -2224,7 +2224,7 @@ figure.highlight pre .javascript .function {
 }
 @media screen and (max-width: 768px) {
   .layout {
-    padding: 20px 5px;
+    padding: 15px 5px;
   }
 }
 @media screen and (min-width: 2000px) {
@@ -2238,6 +2238,7 @@ figure.highlight pre .javascript .function {
   -ms-flex-item-align: start;
   padding: 50px 40px;
   border: var(--background-border);
+  background-color: var(--post-background);
 }
 @media screen and (max-width: 768px) {
   .layout > div:first-child:not(.recent-posts) {

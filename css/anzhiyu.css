@@ -18,7 +18,7 @@
     --tab-botton-color: #1f2d3d;
     --tab-button-hover-bg: #dcdcdc;
     --tab-button-active-bg: #fff;
-    --btn-hover-color: #ff7242;
+    --btn-hover-color: #ff4000;
     --btn-color: #fff;
     --light-grey: #eee;
     --dark-grey: #cacaca;
@@ -87,6 +87,8 @@
     --reward-font: #858585;
     --background-img: url(/img/colorful.png);
     --background-border: 2px solid #EBAC5C;
+    --post-background: rgba(235, 172, 92, 0.1);
+    --btn-bg: #f2b94b;
 }
 
 [data-theme=light] {
@@ -135,19 +137,21 @@
     --reward-font: #858585;
     --background-img: url(/img/colorful.png);
     --background-border: 2px solid #EBAC5C;
+    --post-background: rgba(235, 172, 92, 0.1);
+    --btn-bg: #f2b94b;
 }
 
 [data-theme=dark] {
     --font-color: #fff;
     --text-highlight-color: #fff;
-    --btn-bg: var(--anzhiyu-main);
+    --btn-bg: #49b1f5;
     --anzhiyu-meta-theme-post-color: #1d1e22;
     --anzhiyu-meta-theme-color: #000;
     --anzhiyu-blue: #5ca1ff;
     --anzhiyu-blue-tint: rgba(92,161,255,0.1);
     --anzhiyu-theme-op-deep: rgba(0,132,255,0.867);
     --global-bg: #18171d;
-    --anzhiyu-theme: #f2b94b;
+    --anzhiyu-theme: #49b1f5;
     --anzhiyu-theme-deep: #0076e5;
     --anzhiyu-theme-op: rgba(242,185,75,0.137);
     --anzhiyu-blue: #0084ff;
@@ -187,4 +191,5 @@
     --reward-font: black;
     --background-img: url(/img/colorful_dark.png);
     --background-border: 2px solid #253E7E;
+    --post-background: rgba(37, 62, 126, 0.1);
 }

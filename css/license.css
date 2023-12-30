@@ -35,7 +35,7 @@
     transition: .5s;
 }
 .icat-license a:hover {
-    color: #49b1f5;
+    color: var(--btn-bg);
     background: var(--icat-blue);
     padding: 0 4px;
 }
