@@ -86,9 +86,11 @@
     --reward-background: white;
     --reward-font: #858585;
     --background-img: url(/img/colorful.png);
+    --background-image: url(/img/colorful_.png);
     --background-border: 2px solid #EBAC5C;
     --post-background: rgba(235, 172, 92, 0.1);
     --btn-bg: #f2b94b;
+    --bb: #EBAC5C;
 }
 
 [data-theme=light] {
@@ -136,15 +138,16 @@
     --reward-background: white;
     --reward-font: #858585;
     --background-img: url(/img/colorful.png);
+    --background-image: url(/img/colorful_.png);
     --background-border: 2px solid #EBAC5C;
     --post-background: rgba(235, 172, 92, 0.1);
     --btn-bg: #f2b94b;
+    --bb: #EBAC5C;
 }
 
 [data-theme=dark] {
     --font-color: #fff;
     --text-highlight-color: #fff;
-    --btn-bg: #49b1f5;
     --anzhiyu-meta-theme-post-color: #1d1e22;
     --anzhiyu-meta-theme-color: #000;
     --anzhiyu-blue: #5ca1ff;
@@ -190,6 +193,9 @@
     --reward-background: #CCCCCC;
     --reward-font: black;
     --background-img: url(/img/colorful_dark.png);
+    --background-image: url(/img/colorful_dark_.png);
     --background-border: 2px solid #253E7E;
     --post-background: rgba(37, 62, 126, 0.1);
+    --btn-bg: #49b1f5;
+    --bb: #253E7E;
 }

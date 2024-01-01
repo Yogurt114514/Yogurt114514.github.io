@@ -3495,14 +3495,10 @@ h1.page-title + .tag-cloud-list {
   position: fixed;
   top: -60px;
   z-index: 91;
-  background: rgba(255,255,255,0.8);
+  background: var(--background-image);
+  background-size: cover;
   -webkit-box-shadow: 0 5px 6px -5px rgba(133,133,133,0.6);
   box-shadow: 0 5px 6px -5px rgba(133,133,133,0.6);
-  -webkit-transition: -webkit-transform 0.2s ease-in-out, opacity 0.2s ease-in-out;
-  -moz-transition: -moz-transform 0.2s ease-in-out, opacity 0.2s ease-in-out;
-  -o-transition: -o-transform 0.2s ease-in-out, opacity 0.2s ease-in-out;
-  -ms-transition: -ms-transform 0.2s ease-in-out, opacity 0.2s ease-in-out;
-  transition: transform 0.2s ease-in-out, opacity 0.2s ease-in-out;
 }
 #page-header.nav-fixed #nav #blog-info {
   color: var(--font-color);
@@ -5256,11 +5252,11 @@ blockquote.pullquote.right {
   text-decoration: none !important;
   background: var(--icat-background);
   border-radius: 8px;
-  border: var(--style-border);
+  border: 2px solid var(--btn-bg);
   padding: 12px;
 }
 .link_card:hover {
-  background: var(--link-hover);
+  background: var(--btn-bg);
 }
 .link_card .link_icon,
 .link_card .link_content {
@@ -5957,9 +5953,14 @@ blockquote.pullquote.right {
   background-color: #525252;
   color: #e2f1ff;
 }
-[data-theme='dark'] #page-header.nav-fixed > #nav,
 [data-theme='dark'] #page-header.not-top-img > #nav {
   background: var(--background-img);
+  background-size: cover;
+  -webkit-box-shadow: 0 5px 6px -5px rgba(133,133,133,0);
+  box-shadow: 0 5px 6px -5px rgba(133,133,133,0);
+}
+[data-theme='dark'] #page-header.nav-fixed > #nav {
+  background: var(--background-image);
   background-size: cover;
   -webkit-box-shadow: 0 5px 6px -5px rgba(133,133,133,0);
   box-shadow: 0 5px 6px -5px rgba(133,133,133,0);
