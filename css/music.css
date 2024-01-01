@@ -141,3 +141,16 @@ input[type="range"]::-moz-range-thumb {
     cursor: pointer;
     border-radius: 50%;
 }
+
+.LFWY-btn {
+    margin-bottom: 24px;
+    text-align: center;
+}
+.LFWY-btn a {
+    padding: 5px 0;
+    border: var(--LFWY-btn);
+    border-radius: 8px;
+}
+.LFWY-btn a button {
+    padding: 0 8px;
+}

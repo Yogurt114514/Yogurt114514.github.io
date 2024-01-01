@@ -1,4 +1,9 @@
 document.addEventListener('DOMContentLoaded', function () {
+    const audioPlayer = document.getElementById('audio-player');
+    const musicImage = document.querySelector('.music-player_image');
+    const musicPointer = document.querySelector('.music-player_pointer');
+    const controls = document.querySelector('.music-player_controls');
+
     const audioPlayer1 = document.getElementById('audio-player1');
     const musicImage1 = document.querySelector('.music-player_image.i1');
     const musicPointer1 = document.querySelector('.music-player_pointer.p1');
@@ -59,6 +64,7 @@ document.addEventListener('DOMContentLoaded', function () {
     const musicPointer12 = document.querySelector('.music-player_pointer.p12');
     const controls12 = document.querySelector('.music-player_controls.c12');
     
+    audioPlayer.loop = true;
     audioPlayer1.loop = true;
     audioPlayer2.loop = true;
     audioPlayer3.loop = true;
@@ -72,6 +78,19 @@ document.addEventListener('DOMContentLoaded', function () {
     audioPlayer11.loop = true;
     audioPlayer12.loop = true;
     
+    // 播放事件
+    audioPlayer.addEventListener('play', function () {
+        musicImage.classList.add('play');
+        musicPointer.classList.add('play');
+        controls.classList.add('play');
+    });
+    // 暂停事件
+    audioPlayer.addEventListener('pause', function () {
+        musicImage.classList.remove('play');
+        musicPointer.classList.remove('play');
+        controls.classList.remove('play');
+    });
+
     // 1
     audioPlayer1.addEventListener('play', function () {
       musicImage1.classList.add('play');
