@@ -1,0 +1,143 @@
+#music-player {
+    width: 570px;
+    position: relative;
+    margin: 0px auto;
+    margin-bottom: 30px;
+}
+
+.music-player_main {
+    height: 180px;
+    padding: 25px;
+    box-shadow: var(--music-player-border);
+    border: 1px solid var(--bb);
+    border-radius: 10px;
+    position: relative;
+    overflow: hidden;
+}
+
+.music-player_disc {
+    float: left;
+    width: 130px;
+    height: 130px;
+    background: url(/img/cd.png) no-repeat center;
+    background-size: 100%;
+    position: relative;
+}
+
+.music-player_image {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    position: absolute;
+    overflow: hidden;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+}
+@-webkit-keyframes disc {
+    from {
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    to {
+        -webkit-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+}
+@keyframes disc {
+    from {
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    to {
+        -webkit-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+}
+.music-player_image.play {
+    -webkit-animation: disc 5s linear 0s infinite;
+    animation: disc 5s linear 0s infinite;
+}
+
+.music-player_pointer {
+    width: 25px;
+    position: absolute;
+    right: -10px;
+    top: 0;
+    -webkit-transform-origin: right top;
+    -ms-transform-origin: right top;
+    transform-origin: right top;
+    -webkit-transform: rotate(-15deg);
+    -ms-transform: rotate(-15deg);
+    transform: rotate(-15deg);
+    -webkit-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    transition: all 0.3s;
+}
+
+.music-player_pointer.play {
+    -webkit-transform: rotate(0deg);
+    -ms-transform: rotate(0deg);
+    transform: rotate(0deg);
+}
+
+.music-player_controls {
+    width: 330px;
+    height: 130px;
+    float: right;
+}
+
+#music-info {
+    text-align: left;
+}
+
+#music-info h2 {
+    font-size: 20px;
+    height: 40px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin: 0 0 0 0;
+}
+
+#music-info p {
+    padding-left: 30px;
+    margin: 0 0 0 0;
+}
+
+#audio-player {
+    width: 100%;
+}
+
+/* 添加自定义样式，这里只是一个简单的示例 */
+input[type="range"] {
+    width: 100%;
+    margin-top: 10px;
+    appearance: none;
+    height: 5px;
+    background: #ddd;
+    outline: none;
+    opacity: 0.7;
+    -webkit-transition: .2s;
+    transition: opacity .2s;
+}
+input[type="range"]:hover {
+    opacity: 1;
+}
+input[type="range"]::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 15px;
+    height: 15px;
+    background: #4CAF50;
+    cursor: pointer;
+    border-radius: 50%;
+}
+input[type="range"]::-moz-range-thumb {
+    width: 15px;
+    height: 15px;
+    background: #4CAF50;
+    cursor: pointer;
+    border-radius: 50%;
+}
