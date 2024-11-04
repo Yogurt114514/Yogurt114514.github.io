@@ -1,0 +1,30 @@
+/*全局基础样式*/
+/*下面的样式放到全局css里面去*/
+
+/*页面鼠标默认样式*/
+body{
+    /* 鼠标图标 */
+    cursor: url("../mouse/01.png"), default;
+    /*url("你的鼠标指针图标路径")*/
+}
+
+/*a标签跳转鼠标样式*/
+a:hover{
+    cursor: url("../mouse/15.png"), pointer
+    /*url("你的鼠标指针图标路径")*/
+}
+
+i:hover{
+    cursor: url("../mouse/15.png"), pointer
+    /*url("你的鼠标指针图标路径")*/
+}
+
+span:hover{
+    cursor: url("../mouse/15.png"), pointer
+    /*url("你的鼠标指针图标路径")*/
+}
+
+time:hover{
+    cursor: url("../mouse/01.png"), default;
+    /*url("你的鼠标指针图标路径")*/
+}

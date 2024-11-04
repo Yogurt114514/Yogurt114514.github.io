@@ -1,0 +1,246 @@
+/* -----版权样式调整----- */
+.icat-license {
+    position: relative;
+    line-height: 1.2;
+    font-size: 1rem;
+    overflow: hidden;
+    border: 1px solid black;
+    display: block;
+    padding: 1rem 1.3rem;
+    margin: 1.5rem 0 0.5rem;
+    border-radius: 12px;
+}
+.icat-license-img {
+    position: absolute;
+    font-size: 210px;
+    color: #363636;
+    opacity: 0.1;
+    filter: blur(6px);
+    height: 210px;
+    width: 210px;
+    right: -40px;
+    top: -60px;
+}
+@media screen and (max-width: 768px) {
+    .icat-license:after {
+        top: auto;
+        bottom: -40px;
+    }
+}
+
+.icat-license-link a {
+    border-radius: 6px;
+    transition: .5s;
+}
+.icat-license-link a:hover {
+    color: #49B1F5;
+    padding: 0 4px;
+}
+.icat-license-meta .icat-license-meta-item .icat-license-meta-text a {
+    color: var(--font-color);
+}
+.icat-license-meta .icat-license-meta-item .icat-license-meta-text a:hover {
+    color: #7a7a7a;
+    padding: 0 4px;
+}
+.icat-license .icat-license-link a {
+    opacity: .6;
+}
+.icat-license .icat-license-link a:hover {
+    opacity: 1;
+}
+.icat-license-title {
+    font-size: 18px;
+    font-weight: 600;
+}
+.icat-license-meta-title,.icat-license-title {
+    margin: 0 0 .25rem
+}
+.icat-license-link,.icat-license-meta-title {
+    font-size: .8rem
+}
+.icat-license-link {
+    color: #7a7a7a;
+    font-size: .9rem
+}
+.icat-license-meta {
+    margin-top: 1.25rem;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-wrap: wrap
+}
+.icat-license-meta-item {
+    margin: 0 2rem 1em 0
+}
+.icat-license-meta-text {
+    margin: 0
+}
+.icat-license-tips {
+    font-size: .95rem;
+}
+
+
+
+/* -----打赏样式调整----- */
+#post .tag_share {
+    display: flex;
+    align-items: center;
+    position: relative;
+    margin-top: 40px
+}
+#post .post-reward {
+    margin-top: 0;
+    width: auto;
+}
+#post .tag_share .post-share {
+    position: absolute;
+    right: 0;
+}
+#post .post-reward .reward-button {
+    background: 0;
+    color: #f59449;
+    padding: 0;
+    width: 126px;
+    height: 40px;
+    line-height: 39px;
+    display: inline-block;
+    cursor: pointer;
+    transition: all 0.4s ease 0s;
+    border-radius: 8px;
+    border: 2px solid #f59449;
+    margin-right: 0.5rem;
+}
+#post .post-reward .reward-button:hover {
+    background: #f59449;
+    color: white;
+}
+#post .post-reward .reward-main {
+    z-index: 1003;
+    min-width: 100%;
+}
+#post .post-reward .reward-main {
+    width: auto;
+}
+#post .post-reward .reward-main .reward-all {
+    border-radius: 12px;
+    background: white;
+    border: 1px solid black;
+    padding: 0.8rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#post .reward-title {
+    font-weight: bold;
+    color: green;
+}
+#post .reward-group {
+    display: flex;
+    margin-top: 0.5rem;
+    margin-left: -40px;
+}
+
+/* -----打赏样式调整----- */
+#about-page .tag_share {
+    display: flex;
+    align-items: center;
+    position: relative;
+    margin-top: 40px
+}
+#about-page .post-reward {
+    margin-top: 0;
+    width: auto;
+}
+#about-page .tag_share .post-share {
+    position: absolute;
+    right: 0;
+}
+#about-page .post-reward .reward-button {
+    background: 0;
+    color: #f59449;
+    padding: 0;
+    width: 126px;
+    height: 40px;
+    line-height: 39px;
+    display: inline-block;
+    cursor: pointer;
+    transition: all 0.4s ease 0s;
+    border-radius: 8px;
+    border: 2px solid #f59449;
+    margin-right: 0.5rem;
+}
+#about-page .post-reward .reward-button:hover {
+    background: #f59449;
+    color: white;
+}
+#about-page .post-reward .reward-main {
+    z-index: 1003;
+    min-width: 100%;
+    left: auto;
+    right: 0;
+}
+#about-page .post-reward .reward-main {
+    width: auto;
+}
+#about-page .post-reward .reward-main .reward-all {
+    border-radius: 12px;
+    background: white;
+    border: 1px solid black;
+    padding: 0.8rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#about-page .reward-title {
+    font-weight: bold;
+    color: green;
+}
+#about-page .reward-group {
+    display: flex;
+    margin-top: 0.5rem;
+    margin-left: -40px;
+}
+
+
+
+/* -----标签调整----- */
+#post .tag_share .post-meta__tags {
+    background: 0;
+    border: 2px solid #49b1f5;
+    color: #49b1f5;
+    border-radius: 8px;
+    margin: 0;
+    display: inline-flex;
+    align-items: center;
+    white-space: nowrap;
+    height: 40px;
+    margin-right: 0.5rem;
+}
+#post .tag_share .post-meta__tags:hover {
+    background: #49b1f5;
+    color: white;
+}
+@media screen and (max-width: 768px) {
+    #post .tag_share {
+        display: grid;
+        justify-items: start;
+        align-items: start;
+    }
+    #post .tag_share .post-meta__tag-list {
+        display: flex;
+        width: 100%;
+        margin-top: 0.5rem
+    }
+    #post .tag_share .post-meta__tags {
+        height: 34px;
+    }
+}
+a.post-meta__tags::before {
+    content: "#";
+    font-size: 12px;
+    opacity: 0.8;
+    padding-top: 2px;
+    padding-right: 2px;
+}
+
